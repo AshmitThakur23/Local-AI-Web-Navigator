@@ -1,0 +1,3848 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2016",
+    "title": "List of American films of 2016 - Wikipedia",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "List of American films of 2016"
+      ],
+      "h2": [
+        "Contents",
+        "Box office",
+        "January–March",
+        "April–June",
+        "July–September",
+        "October–December",
+        "See also",
+        "References",
+        "External links"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "Main page",
+        "href": "https://en.wikipedia.org/wiki/Main_Page"
+      },
+      {
+        "text": "Contents",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contents"
+      },
+      {
+        "text": "Current events",
+        "href": "https://en.wikipedia.org/wiki/Portal:Current_events"
+      },
+      {
+        "text": "Random article",
+        "href": "https://en.wikipedia.org/wiki/Special:Random"
+      },
+      {
+        "text": "About Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:About"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us"
+      },
+      {
+        "text": "Help",
+        "href": "https://en.wikipedia.org/wiki/Help:Contents"
+      },
+      {
+        "text": "Learn to edit",
+        "href": "https://en.wikipedia.org/wiki/Help:Introduction"
+      },
+      {
+        "text": "Community portal",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal"
+      },
+      {
+        "text": "Recent changes",
+        "href": "https://en.wikipedia.org/wiki/Special:RecentChanges"
+      }
+    ],
+    "paragraphs": [
+      "This is a list of American films released in 2016.",
+      "The highest-grossing American films released in 2016, by domestic box office gross revenue, are as follows:[1]"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": "List of American films of 2016",
+        "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2016",
+        "sameAs": "http://www.wikidata.org/entity/Q19863723",
+        "mainEntity": "http://www.wikidata.org/entity/Q19863723",
+        "author": {
+          "@type": "Organization",
+          "name": "Contributors to Wikimedia projects"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Wikimedia Foundation, Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+          }
+        },
+        "datePublished": "2015-02-20T04:57:58Z",
+        "dateModified": "2025-09-30T16:14:04Z",
+        "headline": "Wikimedia list article"
+      }
+    ],
+    "product_info": {
+      "size": "ArticleTalk\n\n\n\n\n\nEnglish\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReadEditView history\n\n\n\n\n\n\n\nTools\n\n\n\n\n\nTools\nmove to sideb"
+    },
+    "images": [
+      {
+        "src": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+        "alt": ""
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+        "alt": "Wikipedia"
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+        "alt": "The Free Encyclopedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/United_States_film_clapperboard.svg/80px-United_States_film_clapperboard.svg.png",
+        "alt": ""
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "wikipedia_tables": [
+      {
+        "table_title": "Highest-grossing films of 2016",
+        "row_count": 10,
+        "columns": [
+          "Rank",
+          "Title",
+          "Distributor",
+          "Domestic Gross"
+        ],
+        "data": [
+          {
+            "Rank": "1",
+            "Title": "Rogue One: A Star Wars Story",
+            "Distributor": "Disney",
+            "Domestic Gross": "$532,177,324"
+          },
+          {
+            "Rank": "2",
+            "Title": "Finding Dory",
+            "Distributor": "$486,295,561"
+          },
+          {
+            "Rank": "3",
+            "Title": "Captain America: Civil War",
+            "Distributor": "$408,084,349"
+          },
+          {
+            "Rank": "4",
+            "Title": "The Secret Life of Pets",
+            "Distributor": "Universal",
+            "Domestic Gross": "$368,384,330"
+          },
+          {
+            "Rank": "5",
+            "Title": "The Jungle Book",
+            "Distributor": "Disney",
+            "Domestic Gross": "$364,001,123"
+          },
+          {
+            "Rank": "6",
+            "Title": "Deadpool",
+            "Distributor": "20th Century Fox",
+            "Domestic Gross": "$363,070,709"
+          },
+          {
+            "Rank": "7",
+            "Title": "Zootopia",
+            "Distributor": "Disney",
+            "Domestic Gross": "$341,268,248"
+          },
+          {
+            "Rank": "8",
+            "Title": "Batman v Superman: Dawn of Justice",
+            "Distributor": "Warner Bros.",
+            "Domestic Gross": "$330,360,194"
+          },
+          {
+            "Rank": "9",
+            "Title": "Suicide Squad",
+            "Distributor": "$325,100,054"
+          },
+          {
+            "Rank": "10",
+            "Title": "Sing",
+            "Distributor": "Universal",
+            "Domestic Gross": "$270,395,425"
+          }
+        ]
+      },
+      {
+        "table_title": "Table 2",
+        "row_count": 46,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "JANUARY",
+            "Title": "8",
+            "Production company": "The Forest",
+            "Cast and crew": "Gramercy Pictures / Focus Features",
+            "Ref.": "Jason Zada (director); Ben Ketai, Sarah Cornwell, Nick Antosca (screenplay); Natalie Dormer, Taylor Kinney, Yukiyoshi Ozawa, Eoin Macken"
+          },
+          {
+            "Opening": "Anesthesia",
+            "Title": "IFC Films",
+            "Production company": "Tim Blake Nelson (director/screenplay); Glenn Close, K. Todd Freeman, Jessica Hecht, Gretchen Mol, Tim Blake Nelson, Gloria Reuben, Kristen Stewart, Corey Stoll, Mickey Sumner, Yul Vazquez, Sam Waterston, Michael K. Williams",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Lamb",
+            "Title": "The Orchard",
+            "Production company": "Ross Partridge (director/screenplay); Ross Partridge, Oona Laurence, Jess Weixler, Tom Bower",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "15",
+            "Title": "Ride Along 2",
+            "Production company": "Universal Pictures",
+            "Cast and crew": "Tim Story (director); Phil Hay, Matt Manfredi (screenplay); Ice Cube, Kevin Hart, Ken Jeong, Benjamin Bratt, Olivia Munn, Bruce McGill, Tika Sumpter",
+            "Ref.": ""
+          },
+          {
+            "Opening": "13 Hours: The Secret Soldiers of Benghazi",
+            "Title": "Paramount Pictures",
+            "Production company": "Michael Bay (director); Chuck Hogan (screenplay); James Badge Dale, John Krasinski, Max Martini",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Norm of the North",
+            "Title": "Lionsgate / Splash Entertainment",
+            "Production company": "Trevor Wall (director); Daniel R. Altiere, Steven M. Altiere, Malcolm T. Goldman (screenplay); Rob Schneider, Heather Graham, Ken Jeong, Colm Meaney, Loretta Devine, Gabriel Iglesias, Michael McElhatton, Bill Nighy",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Benefactor",
+            "Title": "Samuel Goldwyn Films",
+            "Production company": "Andrew Renzi (director/screenplay); Richard Gere, Dakota Fanning, Theo James, Clarke Peters, Brian Anthony Wilson, Dylan Baker, Cheryl Hines, Tibor Feldman",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "Dirty Grandpa",
+            "Production company": "Lionsgate / QED International",
+            "Cast and crew": "Dan Mazer (director); John M. Phillips (screenplay); Robert De Niro, Zac Efron, Aubrey Plaza, Zoey Deutch, Julianne Hough, Dermot Mulroney",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The 5th Wave",
+            "Title": "Columbia Pictures / GK Films",
+            "Production company": "J Blakeson (director); Susannah Grant, Akiva Goldsman, Jeff Pinkner (screenplay); Chloë Grace Moretz, Nick Robinson, Ron Livingston, Maggie Siff, Alex Roe, Maria Bello, Maika Monroe, Liev Schreiber",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Boy",
+            "Title": "STXfilms",
+            "Production company": "William Brent Bell (director); Stacey Menear (screenplay); James Russell, Lauren Cohan, Rupert Evans, Jim Norton, Diana Hardcastle",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Synchronicity",
+            "Title": "POPfilms / Soapbox Films",
+            "Production company": "Jacob Gentry (director/screenplay); Chad McKnight, A. J. Bowen, Brianne Davis, Scott Poythress, Michael Ironside",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "29",
+            "Title": "Kung Fu Panda 3",
+            "Production company": "20th Century Fox / DreamWorks Animation",
+            "Cast and crew": "Jennifer Yuh Nelson, Alessandro Carloni (directors); Jonathan Aibel, Glenn Berger (screenplay); Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie, J. K. Simmons, Seth Rogen, Lucy Liu, David Cross, Kate Hudson, James Hong, Randall Duk Kim, Jackie Chan",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Finest Hours",
+            "Title": "Walt Disney Pictures",
+            "Production company": "Craig Gillespie (director); Scott Silver, Paul Tamasy, Eric Johnson (screenplay); Chris Pine, Casey Affleck, Ben Foster, Holliday Grainger, John Ortiz, Eric Bana",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Fifty Shades of Black",
+            "Title": "Open Road Films",
+            "Production company": "Michael Tiddes (director); Marlon Wayans, Rick Alvarez (screenplay); Marlon Wayans, Kali Hawk, Affion Crockett, Jane Seymour, Andrew Bachelor, Florence Henderson, Jenny Zigrino, Fred Willard, Mike Epps",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Jane Got a Gun",
+            "Title": "The Weinstein Company",
+            "Production company": "Gavin O'Connor (director); Brian Duffield, Anthony Tambakis, Joel Edgerton (screenplay); Natalie Portman, Joel Edgerton, Noah Emmerich, Rodrigo Santoro, Boyd Holbrook, Ewan McGregor",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "FEBRUARY",
+            "Title": "5",
+            "Production company": "Hail, Caesar!",
+            "Cast and crew": "Universal Pictures / Working Title Films / Mike Zoss Productions",
+            "Ref.": "Coen brothers (directors/screenplay); Josh Brolin, George Clooney, Alden Ehrenreich, Ralph Fiennes, Jonah Hill, Scarlett Johansson, Frances McDormand, Tilda Swinton, Channing Tatum"
+          },
+          {
+            "Opening": "Pride and Prejudice and Zombies",
+            "Title": "Screen Gems / Cross Creek Pictures",
+            "Production company": "Burr Steers (director/screenplay); Lily James, Sam Riley, Jack Huston, Bella Heathcote, Douglas Booth, Matt Smith, Charles Dance, Lena Headey",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Choice",
+            "Title": "Lionsgate",
+            "Production company": "Ross Katz (director); Bryan Sipe (screenplay); Benjamin Walker, Teresa Palmer, Maggie Grace, Alexandra Daddario, Tom Welling, Tom Wilkinson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "12",
+            "Title": "Deadpool",
+            "Production company": "20th Century Fox / Marvel Entertainment",
+            "Cast and crew": "Tim Miller (director); Rhett Reese, Paul Wernick (screenplay); Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano, Brianna Hildebrand",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Zoolander 2",
+            "Title": "Paramount Pictures / Red Hour Films",
+            "Production company": "Ben Stiller (director/screenplay); Justin Theroux, Nicholas Stoller, John Hamburg (screenplay); Ben Stiller, Owen Wilson, Will Ferrell, Penélope Cruz, Kristen Wiig, Fred Armisen",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "How to Be Single",
+            "Title": "Warner Bros. Pictures / New Line Cinema / Metro-Goldwyn-Mayer / RatPac-Dune Entertainment",
+            "Production company": "Christian Ditter (director); Abby Kohn, Marc Silverstein, Dana Fox (screenplay); Dakota Johnson, Rebel Wilson, Damon Wayans Jr., Anders Holm, Alison Brie, Nicholas Braun, Jake Lacy, Jason Mantzoukas, Leslie Mann",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "19",
+            "Title": "Risen",
+            "Production company": "Columbia Pictures",
+            "Cast and crew": "Kevin Reynolds (director/screenplay); Paul Aiello (screenplay); Joseph Fiennes, Tom Felton, Peter Firth, Cliff Curtis",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Witch",
+            "Title": "A24",
+            "Production company": "Robert Eggers (director/screenplay); Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Harvey Scrimshaw, Ellie Grainger, Lucas Dawson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "26",
+            "Title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+            "Production company": "The Weinstein Company / China Film Group / Yucaipa Companies / Netflix",
+            "Cast and crew": "Yuen Woo-ping (director); John Fusco (screenplay); Donnie Yen, Michelle Yeoh",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Gods of Egypt",
+            "Title": "Summit Entertainment / Thunder Road Films",
+            "Production company": "Alex Proyas (director); Matt Sazama, Burk Sharpless (screenplay); Nikolaj Coster-Waldau, Gerard Butler, Brenton Thwaites, Chadwick Boseman, Élodie Yung, Courtney Eaton, Rufus Sewell, Geoffrey Rush",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Triple 9",
+            "Title": "Open Road Films",
+            "Production company": "John Hillcoat (director); Matt Cook (screenplay); Casey Affleck, Chiwetel Ejiofor, Anthony Mackie, Aaron Paul, Clifton Collins Jr., Norman Reedus, Teresa Palmer, Michael K. Williams, Gal Gadot, Woody Harrelson, Kate Winslet",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Eddie the Eagle",
+            "Title": "20th Century Fox",
+            "Production company": "Dexter Fletcher (director); Sean Macaulay, Simon Kelton (screenplay); Taron Egerton, Hugh Jackman, Christopher Walken, Iris Berben, Jim Broadbent",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "MARCH",
+            "Title": "4",
+            "Production company": "Zootopia",
+            "Cast and crew": "Walt Disney Pictures / Walt Disney Animation Studios",
+            "Ref.": "Byron Howard, Rich Moore (directors); Jared Bush, Phil Johnston (screenplay); Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J. K. Simmons, Octavia Spencer, Alan Tudyk, Shakira"
+          },
+          {
+            "Opening": "London Has Fallen",
+            "Title": "Focus Features / Millennium Films",
+            "Production company": "Babak Najafi (director); Creighton Rothenberger, Katrin Benedikt, Christian Gudegast, Chad St. John (screenplay); Gerard Butler, Aaron Eckhart, Morgan Freeman, Alon Abutbul, Angela Bassett, Robert Forster, Jackie Earle Haley, Melissa Leo, Radha Mitchell, Sean O'Bryan, Waleed Zuaiter",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Whiskey Tango Foxtrot",
+            "Title": "Paramount Pictures",
+            "Production company": "Glenn Ficarra, John Requa (directors); Robert Carlock (screenplay); Tina Fey, Margot Robbie, Martin Freeman, Alfred Molina, Billy Bob Thornton",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Other Side of the Door",
+            "Title": "20th Century Fox",
+            "Production company": "Johannes Roberts (director/screenplay); Ernest Riera (screenplay); Sarah Wayne Callies, Jeremy Sisto",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "8",
+            "Title": "Open Season: Scared Silly",
+            "Production company": "Sony Pictures Home Entertainment / Sony Pictures Animation",
+            "Cast and crew": "David Feiss (director); Carlos Kotkin (screenplay); Will Townsend, Donny Lucas, Melissa Sturm, Trevor Devall, Garry Chalk, Kathleen Barr",
+            "Ref.": ""
+          },
+          {
+            "Opening": "11",
+            "Title": "10 Cloverfield Lane",
+            "Production company": "Paramount Pictures / Bad Robot",
+            "Cast and crew": "Dan Trachtenberg (director); Josh Campbell, Matt Stuecken, Damien Chazelle (screenplay); Mary Elizabeth Winstead, John Goodman, John Gallagher Jr.",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Brothers Grimsby",
+            "Title": "Columbia Pictures / Village Roadshow Pictures / Four By Two Films",
+            "Production company": "Louis Leterrier (director); Sacha Baron Cohen, Phil Johnston, Peter Baynham (screenplay); Sacha Baron Cohen, Mark Strong, Isla Fisher, Rebel Wilson, Gabourey Sidibe, Penélope Cruz",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Young Messiah",
+            "Title": "Focus Features",
+            "Production company": "Cyrus Nowrasteh (director/screenplay); Betsy Giffen Nowrasteh (screenplay); Adam Greaves-Neal, Sean Bean, David Bradley, Lee Boardman, Jonathan Bailey, David Burke",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Perfect Match",
+            "Title": "Lionsgate / Codeblack Films",
+            "Production company": "Bille Woodruff (director); Brandon Broussard, Gary Hardwick, Dana Verde (screenplay); Terrence J, Cassie Ventura, Donald Faison, Dascha Polanco, Robert Christopher Riley, Lauren London, Joe Pantoliano, Paula Patton",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hello, My Name Is Doris",
+            "Title": "Roadside Attractions / Stage 6 Films",
+            "Production company": "Michael Showalter (director/screenplay); Laura Terruso (screenplay); Sally Field, Max Greenfield, Beth Behrs, Wendi McLendon-Covey, Stephen Root, Elizabeth Reaser, Natasha Lyonne, Tyne Daly",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "16",
+            "Title": "Miracles from Heaven",
+            "Production company": "Columbia Pictures",
+            "Cast and crew": "Patricia Riggen (director); Randy Brown (screenplay); Jennifer Garner, Kylie Rogers, Martin Henderson, John Carroll Lynch, Eugenio Derbez, Queen Latifah",
+            "Ref.": ""
+          },
+          {
+            "Opening": "18",
+            "Title": "The Divergent Series: Allegiant",
+            "Production company": "Summit Entertainment / Red Wagon Entertainment",
+            "Cast and crew": "Robert Schwentke (director); Noah Oppenheim, Adam Cooper, Bill Collage (screenplay); Shailene Woodley, Theo James, Jeff Daniels, Miles Teller, Ansel Elgort, Zoë Kravitz, Maggie Q, Ray Stevenson, Bill Skarsgård, Octavia Spencer, Naomi Watts",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Bronze",
+            "Title": "Sony Pictures Classics",
+            "Production company": "Bryan Buckley (director); Melissa Rauch, Winston Rauch (screenplay); Melissa Rauch, Gary Cole, Thomas Middleditch, Sebastian Stan, Cecily Strong, Haley Lu Richardson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Midnight Special",
+            "Title": "Warner Bros. Pictures / RatPac-Dune Entertainment",
+            "Production company": "Jeff Nichols (director/screenplay); Michael Shannon, Joel Edgerton, Kirsten Dunst, Adam Driver, Jaeden Martell, Sam Shepard",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Take Me to the River",
+            "Title": "Film Movement",
+            "Production company": "Matt Sobel (director/screenplay); Logan Miller, Richard Schiff, Josh Hamilton, Robin Weigert, Ursula Parker",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "25",
+            "Title": "Batman v Superman: Dawn of Justice",
+            "Production company": "Warner Bros. Pictures / RatPac-Dune Entertainment / DC Entertainment / Atlas Entertainment / Cruel and Unusual Films",
+            "Cast and crew": "Zack Snyder (director); Chris Terrio, David S. Goyer (screenplay); Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Gal Gadot",
+            "Ref.": ""
+          },
+          {
+            "Opening": "My Big Fat Greek Wedding 2",
+            "Title": "Universal Pictures / Gold Circle Films / Playtone",
+            "Production company": "Kirk Jones (director); Nia Vardalos (screenplay); Nia Vardalos, John Corbett, Lainie Kazan, Gia Carides, Joey Fatone, Louis Mandylor, Andrea Martin, Michael Constantine",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "I Saw the Light",
+            "Title": "Sony Pictures Classics / RatPac Entertainment / Creative Wealth Media Finance / Bron Studios",
+            "Production company": "Marc Abraham (director/screenplay); Tom Hiddleston, Elizabeth Olsen, Cherry Jones, Bradley Whitford, Maddie Hasson, Wrenn Schmidt",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "30",
+            "Title": "Everybody Wants Some!!",
+            "Production company": "Paramount Pictures / Annapurna Pictures",
+            "Cast and crew": "Richard Linklater (director/screenplay); Will Brittain, Zoey Deutch, Ryan Guzman, Tyler Hoechlin, Blake Jenner, J. Quinton Johnson, Glen Powell, Wyatt Russell, Austin Amelio, Temple Baker, Tanner Kalina, Juston Street, Forrest Vickery",
+            "Ref.": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 3",
+        "row_count": 45,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "APRIL",
+            "Title": "1",
+            "Production company": "God's Not Dead 2",
+            "Cast and crew": "Pure Flix",
+            "Ref.": "Harold Cronk (director); Chuck Konzelman, Cary Solomon (screenplay); Melissa Joan Hart, Jesse Metcalfe, David A. R. White, Ernie Hudson, Hayley Orrantia, Robin Givens, Fred Thompson, Maria Canals-Barrera, Sadie Robertson, Pat Boone, Ray Wise"
+          },
+          {
+            "Opening": "Meet the Blacks",
+            "Title": "Freestyle Releasing",
+            "Production company": "Deon Taylor (director/screenplay); Nicole DeMasi (screenplay); Mike Epps, Gary Owen, Zulay Henao, Bresha Webb, Lil Duval, King Bach, Charlie Murphy, George Lopez, Mike Tyson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Miles Ahead",
+            "Title": "Sony Pictures Classics",
+            "Production company": "Don Cheadle (director/screenplay); Steven Baigelman (screenplay); Don Cheadle, Ewan McGregor, Emayatzy Corinealdi, LaKeith Stanfield, Michael Stuhlbarg",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Pandemic",
+            "Title": "XLrator Media",
+            "Production company": "John Suits (director); Dustin T. Benson (screenplay); Rachel Nichols, Alfie Allen, Paul Guilfoyle, Pat Healy, Danielle Rose Russell, Missi Pyle, Mekhi Phifer",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "8",
+            "Title": "The Boss",
+            "Production company": "Universal Pictures / Gary Sanchez Productions / On The Day Productions",
+            "Cast and crew": "Ben Falcone (director/screenplay); Melissa McCarthy, Steve Mallory (screenplay); Melissa McCarthy, Kristen Bell, Kathy Bates, Tyler Labine, Peter Dinklage",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Hardcore Henry",
+            "Title": "STXfilms",
+            "Production company": "Ilya Naishuller (director/screenplay); Sharlto Copley, Danila Kozlovsky, Haley Bennett, Svetlana Ustinova, Tim Roth",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Demolition",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Jean-Marc Vallée (director); Bryan Sipe (screenplay); Jake Gyllenhaal, Naomi Watts, Chris Cooper, Judah Lewis",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Invitation",
+            "Title": "Drafthouse Films",
+            "Production company": "Karyn Kusama (director); Phil Hay, Matt Manfredi (screenplay); Logan Marshall-Green, Tammy Blanchard, Michiel Huisman, Emayatzy Corinealdi, Lindsay Burdge, Michelle Krusiec, Mike Doyle, Jay Larson, John Carroll Lynch",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hush",
+            "Title": "Netflix",
+            "Production company": "Mike Flanagan (director/screenplay); Kate Siegel (screenplay); John Gallagher Jr., Michael Trucco, Kate Siegel",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "15",
+            "Title": "The Jungle Book",
+            "Production company": "Walt Disney Pictures / Fairview Entertainment",
+            "Cast and crew": "Jon Favreau (director); Justin Marks (screenplay); Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba, Lupita Nyong'o, Scarlett Johansson, Giancarlo Esposito, Christopher Walken",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Barbershop: The Next Cut",
+            "Title": "Warner Bros. Pictures / New Line Cinema / Metro-Goldwyn-Mayer",
+            "Production company": "Malcolm D. Lee (director); Kenya Barris, Tracy Oliver (screenplay); Ice Cube, Cedric the Entertainer, Regina Hall, Anthony Anderson, Eve, J. B. Smoove, Lamorne Morris, Sean Patrick Thomas, Tyga, Deon Cole, Common, Nicki Minaj",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Criminal",
+            "Title": "Summit Entertainment / Millennium Films",
+            "Production company": "Ariel Vromen (director); Douglas S. Cook, David Weisberg (screenplay); Kevin Costner, Gary Oldman, Tommy Lee Jones, Alice Eve, Gal Gadot, Michael Pitt, Jordi Mollà, Antje Traue, Scott Adkins, Ryan Reynolds, Amaury Nolasco",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Green Room",
+            "Title": "A24",
+            "Production company": "Jeremy Saulnier (director/screenplay); Anton Yelchin, Imogen Poots, Alia Shawkat, Joe Cole, Callum Turner, Patrick Stewart",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "16",
+            "Title": "Confirmation",
+            "Production company": "HBO Films / Groundswell Productions / ABC Signature",
+            "Cast and crew": "Rick Famuyiwa (director); Susannah Grant (screenplay); Kerry Washington, Wendell Pierce, Greg Kinnear, Jeffrey Wright, Eric Stonestreet, Bill Irwin, Zoe Lister-Jones, Grace Gummer, Treat Williams, Dylan Baker, Erika Christensen, Jennifer Hudson, Alison Wright, Malcolm Gets, Peter McRobbie, Kimberly Elise, Tom Virtue, Rhoda Griffis, Donna Biscoe, Michael Crider, Carol Sutton, Walt Elder, Ed Amatrudo, Jan Radcliff, Frank Hoyt Taylor, Matthew Hennessy, Michael G. Starr"
+          },
+          {
+            "Opening": "22",
+            "Title": "The Huntsman: Winter's War",
+            "Production company": "Universal Pictures / Perfect World Pictures / Roth Films",
+            "Cast and crew": "Cedric Nicolas-Troyan (director); Evan Spiliotopoulos, Craig Mazin (screenplay); Chris Hemsworth, Charlize Theron, Emily Blunt, Nick Frost, Sam Claflin, Rob Brydon, Jessica Chastain",
+            "Ref.": ""
+          },
+          {
+            "Opening": "A Hologram for the King",
+            "Title": "Lionsgate / Roadside Attractions / Saban Films",
+            "Production company": "Tom Tykwer (director/screenplay); Tom Hanks, Omar Elba, Sarita Choudhury, Sidse Babett Knudsen, Ben Whishaw, Tom Skerritt",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Elvis & Nixon",
+            "Title": "Amazon Studios / Bleecker Street",
+            "Production company": "Liza Johnson (director); Joey Sagal, Hanala Sagal, Cary Elwes (screenplay); Michael Shannon, Kevin Spacey, Alex Pettyfer, Johnny Knoxville, Colin Hanks, Evan Peters, Sky Ferreira, Tracy Letts, Tate Donovan, Ashley Benson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "29",
+            "Title": "Keanu",
+            "Production company": "Warner Bros. Pictures / New Line Cinema / RatPac-Dune Entertainment",
+            "Cast and crew": "Peter Atencio (director); Jordan Peele, Alex Rubens (screenplay); Jordan Peele, Keegan-Michael Key, Method Man, Luis Guzmán, Nia Long, Will Forte",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Mother's Day",
+            "Title": "Open Road Films",
+            "Production company": "Garry Marshall (director); Tom Hines, Anya Kochoff Romano, Matt Walker (screenplay); Jennifer Aniston, Kate Hudson, Shay Mitchell, Julia Roberts, Jason Sudeikis, Britt Robertson, Timothy Olyphant, Héctor Elizondo, Jack Whitehall",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Ratchet & Clank",
+            "Title": "Gramercy Pictures / PlayStation Originals / Rainmaker Entertainment / Blockade Entertainment",
+            "Production company": "Kevin Munroe (director); T.J. Fixman, Kevin Munroe, Gerry Swallow (screenplay); Paul Giamatti, John Goodman, Bella Thorne, Rosario Dawson, Jim Ward, Armin Shimerman, Vincent Tong, Andrew Cownden, James Arnold Taylor, David Kaye, Sylvester Stallone",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "MAY",
+            "Title": "6",
+            "Production company": "Captain America: Civil War",
+            "Cast and crew": "Marvel Studios",
+            "Ref.": "Russo brothers (directors); Christopher Markus, Stephen McFeely (screenplay); Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Marisa Tomei, Tom Holland, Frank Grillo, Martin Freeman, William Hurt, Daniel Brühl"
+          },
+          {
+            "Opening": "13",
+            "Title": "Money Monster",
+            "Production company": "TriStar Pictures",
+            "Cast and crew": "Jodie Foster (director); Jamie Linden, Alan Di Fiore, Jim Kouf (screenplay); George Clooney, Julia Roberts, Jack O'Connell, Dominic West, Caitríona Balfe, Giancarlo Esposito",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Sundown",
+            "Title": "Pantelion Films",
+            "Production company": "Fernando Lebrija (director/screenplay); Miguel Tejada-Flores (screenplay); Devon Werkheiser, Sean Marquette, Camilla Belle",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Darkness",
+            "Title": "Universal Pictures / Blumhouse Productions",
+            "Production company": "Greg McLean (director/screenplay); Shayne Armstrong, S.P. Krause (screenplay); Kevin Bacon, Radha Mitchell, Jennifer Morrison, Lucy Fry, David Mazouz, Ming-Na Wen, Paul Reiser",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "20",
+            "Title": "The Angry Birds Movie",
+            "Production company": "Columbia Pictures / Rovio Animation",
+            "Cast and crew": "Clay Kaytis, Fergal Reilly (directors); Jon Vitti (screenplay); Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph, Kate McKinnon, Sean Penn, Tony Hale, Keegan-Michael Key, Bill Hader, Peter Dinklage",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Neighbors 2: Sorority Rising",
+            "Title": "Universal Pictures",
+            "Production company": "Nicholas Stoller (director/screenplay); Andrew J. Cohen, Brendan O'Brien, Evan Goldberg, Seth Rogen (screenplay); Seth Rogen, Zac Efron, Rose Byrne, Chloë Grace Moretz, Dave Franco, Ike Barinholtz",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Nice Guys",
+            "Title": "Warner Bros. Pictures / Silver Pictures / Waypoint Entertainment",
+            "Production company": "Shane Black (director/screenplay); Anthony Bagarozzi (screenplay); Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer, Margaret Qualley, Keith David, Kim Basinger",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "All the Way",
+            "Production company": "HBO Films / Amblin Television / Moon Shot Entertainment / Tale Told Productions / Everyman Pictures",
+            "Cast and crew": "Jay Roach (director); Robert Schenkkan (screenplay); Bryan Cranston, Anthony Mackie, Melissa Leo, Frank Langella, Bradley Whitford, Stephen Root, Marque Richardson, Aisha Hinds, Mo McRae, Spencer Garrett, Ken Jenkins, Jeff Doucette, Randy Oglesby, Joe O'Connor, Hal Landon Jr., Ray Wise, Dohn Norwood, Joe Morton, Toby Huss, Matthew Glave, Walter Cronkite, Barry Goldwater, Ethan Phillips, Harry Reasoner, Stephen Stanton, George Wallace, Mike Wallace, Todd Weeks, Regi Davis, Samantha Bogach, Tim True, Bruce Noziak, Ned Van Zandt, Dan Desmond, Stoney Westmoreland, Eric Pumphrey, Bo Foxworth"
+          },
+          {
+            "Opening": "27",
+            "Title": "X-Men: Apocalypse",
+            "Production company": "20th Century Fox / Bad Hat Harry Productions / Marvel Entertainment / The Donners' Company",
+            "Cast and crew": "Bryan Singer (director); Simon Kinberg (screenplay); James McAvoy, Michael Fassbender, Jennifer Lawrence, Oscar Isaac, Nicholas Hoult, Rose Byrne, Tye Sheridan, Sophie Turner, Olivia Munn, Lucas Till",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Alice Through the Looking Glass",
+            "Title": "Walt Disney Pictures",
+            "Production company": "James Bobin (director); Linda Woolverton (screenplay); Johnny Depp, Anne Hathaway, Mia Wasikowska, Rhys Ifans, Helena Bonham Carter, Sacha Baron Cohen, Alan Rickman, Stephen Fry, Michael Sheen, Timothy Spall",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "JUNE",
+            "Title": "3",
+            "Production company": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+            "Cast and crew": "Paramount Pictures / Nickelodeon Movies / Platinum Dunes",
+            "Ref.": "Dave Green (director); Josh Appelbaum, André Nemec (screenplay); Megan Fox, Will Arnett, Laura Linney, Stephen Amell, Noel Fisher, Jeremy Howard, Pete Ploszek, Alan Ritchson, Tyler Perry, Gary Anthony Williams, Brian Tee, Sheamus"
+          },
+          {
+            "Opening": "Popstar: Never Stop Never Stopping",
+            "Title": "Universal Pictures / Perfect World Pictures",
+            "Production company": "Akiva Schaffer, Jorma Taccone (directors/screenplay); Andy Samberg (screenplay); Andy Samberg, Jorma Taccone, Akiva Schaffer, Sarah Silverman, Tim Meadows",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Me Before You",
+            "Title": "Warner Bros. Pictures",
+            "Production company": "Thea Sharrock (director); Jojo Moyes (screenplay); Emilia Clarke, Sam Claflin, Janet McTeer, Charles Dance, Brendan Coyle",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "2 Jennifer",
+            "Title": "Reality Entertainment",
+            "Production company": "Hunter Johnson (director/screenplay); Hunter Johnson, David Coupe, Lara Jean Mummert",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "10",
+            "Title": "The Conjuring 2",
+            "Production company": "Warner Bros. Pictures / New Line Cinema / RatPac-Dune Entertainment",
+            "Cast and crew": "James Wan (director/screenplay); Chad Hayes, Carey W. Hayes, David Leslie Johnson-McGoldrick (screenplay); Vera Farmiga, Patrick Wilson, Frances O'Connor, Madison Wolfe, Simon McBurney, Franka Potente",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Now You See Me 2",
+            "Title": "Summit Entertainment",
+            "Production company": "Jon M. Chu (director); Ed Solomon (screenplay); Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Dave Franco, Daniel Radcliffe, Lizzy Caplan, Jay Chou, Sanaa Lathan, Michael Caine, Morgan Freeman",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Warcraft",
+            "Title": "Universal Pictures / Legendary Pictures / Blizzard Entertainment / Atlas Entertainment",
+            "Production company": "Duncan Jones (director/screenplay); Charles Leavitt (screenplay); Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper, Toby Kebbell, Ben Schnetzer, Robert Kazinsky, Daniel Wu",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "17",
+            "Title": "Finding Dory",
+            "Production company": "Walt Disney Pictures / Pixar Animation Studios",
+            "Cast and crew": "Andrew Stanton (director/screenplay); Victoria Strouse (screenplay); Ellen DeGeneres, Albert Brooks, Hayden Rolence, Ed O'Neill, Kaitlin Olson, Ty Burrell, Diane Keaton, Eugene Levy",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Central Intelligence",
+            "Title": "Warner Bros. Pictures / New Line Cinema / Universal Pictures / RatPac-Dune Entertainment / Perfect World Pictures / Bluegrass Films",
+            "Production company": "Rawson Marshall Thurber (director/screenplay); Ike Barinholtz, David Stassen (screenplay); Dwayne Johnson, Kevin Hart, Amy Ryan, Aaron Paul",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "24",
+            "Title": "Independence Day: Resurgence",
+            "Production company": "20th Century Fox / Centropolis Entertainment / Electric Entertainment",
+            "Cast and crew": "Roland Emmerich (director/screenplay); Nicolas Wright, James A. Woods, Dean Devlin, James Vanderbilt (screenplay); Liam Hemsworth, Jeff Goldblum, Bill Pullman, Maika Monroe, Travis Tope, William Fichtner, Charlotte Gainsbourg, Judd Hirsch",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Shallows",
+            "Title": "Columbia Pictures",
+            "Production company": "Jaume Collet-Serra (director); Anthony Jaswinski (screenplay); Blake Lively",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Free State of Jones",
+            "Title": "STX Entertainment",
+            "Production company": "Gary Ross (director/screenplay); Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali, Keri Russell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Neon Demon",
+            "Title": "Amazon Studios / Broad Green Pictures",
+            "Production company": "Nicolas Winding Refn (director/screenplay); Mary Laws, Polly Stenham (screenplay); Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote, Abbey Lee, Desmond Harrington, Christina Hendricks, Keanu Reeves",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Swiss Army Man",
+            "Title": "A24",
+            "Production company": "Daniels (directors/screenplay); Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Adventures in Babysitting",
+            "Title": "Disney Channel",
+            "Production company": "John Schultz (director); Tiffany Paulsen (screenplay); Sabrina Carpenter, Sofia Carson, Nikki Hahn, Mallory James Mahoney, Kevin Quinn, Gillian Vigman, Gabrielle Miller, Ken Lawson",
+            "Cast and crew": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 4",
+        "row_count": 47,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "JULY",
+            "Title": "1",
+            "Production company": "The Legend of Tarzan",
+            "Cast and crew": "Warner Bros. Pictures / Village Roadshow Pictures / RatPac-Dune Entertainment",
+            "Ref.": "David Yates (director); Adam Cozad, Craig Brewer (screenplay); Alexander Skarsgård, Samuel L. Jackson, Margot Robbie, Djimon Hounsou, Jim Broadbent, Christoph Waltz"
+          },
+          {
+            "Opening": "The BFG",
+            "Title": "Walt Disney Pictures / Amblin Entertainment / Reliance Entertainment / Walden Media",
+            "Production company": "Steven Spielberg (director); Melissa Mathison (screenplay); Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall, Rafe Spall, Bill Hader",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Purge: Election Year",
+            "Title": "Universal Pictures / Blumhouse Productions / Platinum Dunes",
+            "Production company": "James DeMonaco (director/screenplay); Frank Grillo, Elizabeth Mitchell, Mykelti Williamson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Marauders",
+            "Title": "Lionsgate Premiere / Emmett/Furla/Oasis Films",
+            "Production company": "Steven C. Miller (director); Michael Cody, Chris Sivertson (screenplay); Christopher Meloni, Bruce Willis, Dave Bautista, Adrian Grenier, Johnathon Schaech, Lydia Hull, Tyler Jon Olson, Texas Battle",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "8",
+            "Title": "The Secret Life of Pets",
+            "Production company": "Universal Pictures / Illumination Entertainment",
+            "Cast and crew": "Chris Renaud (director); Cinco Paul, Ken Daurio, Brian Lynch (screenplay); Louis C.K., Eric Stonestreet, Kevin Hart, Jenny Slate, Ellie Kemper, Lake Bell, Dana Carvey, Hannibal Buress, Bobby Moynihan, Steve Coogan, Albert Brooks",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Captain Fantastic",
+            "Title": "Bleecker Street",
+            "Production company": "Matt Ross (director/screenplay); Viggo Mortensen, Frank Langella, Kathryn Hahn, Steve Zahn",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Mike and Dave Need Wedding Dates",
+            "Title": "20th Century Fox / Chernin Entertainment",
+            "Production company": "Jake Szymanski (director); Andrew J. Cohen, Brendan O'Brien (screenplay); Zac Efron, Anna Kendrick, Adam DeVine, Aubrey Plaza, Stephen Root",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "12",
+            "Title": "Characterz",
+            "Production company": "MarVista Entertainment",
+            "Cast and crew": "Jon Binkowski (director/screenplay); Lisa Enos Smith (screenplay); Mitchel Musso, Walt Willey, Miles D, Marc Musso, Ken Osmond, Isaac C. Singleton Jr., Michael Winslow, Felix Silla, Ana Eligio",
+            "Ref.": ""
+          },
+          {
+            "Opening": "13",
+            "Title": "The Infiltrator",
+            "Production company": "Broad Green Pictures",
+            "Cast and crew": "Brad Furman (director); Bryan Cranston, Diane Kruger, John Leguizamo, Benjamin Bratt, Yul Vazquez, Amy Ryan",
+            "Ref.": ""
+          },
+          {
+            "Opening": "15",
+            "Title": "Café Society",
+            "Production company": "Amazon Studios / Lionsgate",
+            "Cast and crew": "Woody Allen (director/screenplay); Jeannie Berlin, Steve Carell, Jesse Eisenberg, Blake Lively, Parker Posey, Kristen Stewart, Corey Stoll, Ken Stott",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Ghostbusters",
+            "Title": "Columbia Pictures / Village Roadshow Pictures / GhostCorps",
+            "Production company": "Paul Feig (director/screenplay); Katie Dippold (screenplay); Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones, Charles Dance, Michael K. Williams, Chris Hemsworth",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "Star Trek Beyond",
+            "Production company": "Paramount Pictures / Skydance Media / Bad Robot",
+            "Cast and crew": "Justin Lin (director); Simon Pegg, Doug Jung (screenplay); John Cho, Simon Pegg, Chris Pine, Zachary Quinto, Zoe Saldaña, Karl Urban, Anton Yelchin, Idris Elba",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Batman: The Killing Joke",
+            "Title": "Warner Bros. Pictures / Fathom Events",
+            "Production company": "Sam Liu (director); Brian Azzarello (screenplay); Kevin Conroy, Mark Hamill, Tara Strong, Ray Wise",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Ice Age: Collision Course",
+            "Title": "20th Century Fox / Blue Sky Studios",
+            "Production company": "Michael Thurmeier (director); Michael J. Wilson, Michael Berg, Yoni Brenner (screenplay); Ray Romano, John Leguizamo, Denis Leary, Josh Peck, Simon Pegg, Seann William Scott, Jennifer Lopez, Queen Latifah",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Lights Out",
+            "Title": "Warner Bros. Pictures / New Line Cinema / RatPac-Dune Entertainment / Atomic Monster",
+            "Production company": "David F. Sandberg (director); Eric Heisserer (screenplay); Teresa Palmer, Gabriel Bateman, Alexander DiPersia, Billy Burke, Maria Bello",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "27",
+            "Title": "Nerve",
+            "Production company": "Lionsgate",
+            "Cast and crew": "Henry Joost, Ariel Schulman (directors); Jessica Sharzer (screenplay); Emma Roberts, Dave Franco, Juliette Lewis",
+            "Ref.": ""
+          },
+          {
+            "Opening": "29",
+            "Title": "Jason Bourne",
+            "Production company": "Universal Pictures / The Kennedy/Marshall Company / Perfect World Pictures",
+            "Cast and crew": "Paul Greengrass (director/screenplay); Christopher Rouse (screenplay); Matt Damon, Tommy Lee Jones, Alicia Vikander, Vincent Cassel, Julia Stiles, Riz Ahmed",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Bad Moms",
+            "Title": "STX Entertainment",
+            "Production company": "Jon Lucas, Scott Moore (directors/screenplay); Mila Kunis, Kristen Bell, Kathryn Hahn, Annie Mumolo, Jada Pinkett Smith, Christina Applegate",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "AUGUST",
+            "Title": "5",
+            "Production company": "Suicide Squad",
+            "Cast and crew": "Warner Bros. Pictures / DC Entertainment / RatPac-Dune Entertainment / Atlas Entertainment",
+            "Ref.": "David Ayer (director/screenplay); Will Smith, Jared Leto, Margot Robbie, Joel Kinnaman, Viola Davis, Jai Courtney, Jay Hernandez, Adewale Akinnuoye-Agbaje, Ike Barinholtz, Scott Eastwood, Cara Delevingne"
+          },
+          {
+            "Opening": "12",
+            "Title": "Pete's Dragon",
+            "Production company": "Walt Disney Pictures",
+            "Cast and crew": "David Lowery (director/screenplay); Toby Halbrooks (screenplay); Bryce Dallas Howard, Oakes Fegley, Wes Bentley, Karl Urban, Oona Laurence, Robert Redford",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Sausage Party",
+            "Title": "Columbia Pictures / Annapurna Pictures / Point Grey Pictures",
+            "Production company": "Conrad Vernon, Greg Tiernan (directors); Kyle Hunter, Ariel Shaffir, Seth Rogen, Evan Goldberg (screenplay); Seth Rogen, Kristen Wiig, Jonah Hill, Michael Cera, James Franco, Danny McBride, Paul Rudd, Edward Norton, Salma Hayek",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hell or High Water",
+            "Title": "Lionsgate / CBS Films / Sidney Kimmel Entertainment / OddLot Entertainment",
+            "Production company": "David Mackenzie (director); Taylor Sheridan (screenplay); Jeff Bridges, Chris Pine, Ben Foster, Gil Birmingham",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "19",
+            "Title": "Ben-Hur",
+            "Production company": "Paramount Pictures / Metro-Goldwyn-Mayer",
+            "Cast and crew": "Timur Bekmambetov (director); Keith Clarke, John Ridley (screenplay); Jack Huston, Toby Kebbell, Rodrigo Santoro, Nazanin Boniadi, Ayelet Zurer, Morgan Freeman",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Kubo and the Two Strings",
+            "Title": "Focus Features / Laika",
+            "Production company": "Travis Knight (director); Marc Haimes, Chris Butler (screenplay); Charlize Theron, Art Parkinson, Ralph Fiennes, Rooney Mara, George Takei, Matthew McConaughey",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "War Dogs",
+            "Title": "Warner Bros. Pictures",
+            "Production company": "Todd Phillips (director/screenplay); Stephen Chin, Jason Smilovic (screenplay); Jonah Hill, Miles Teller, Ana de Armas, Bradley Cooper",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "A Tale of Love and Darkness",
+            "Title": "Focus Features / Voltage Pictures",
+            "Production company": "Natalie Portman (director/screenplay); Natalie Portman, Gilad Kahana, Amir Tessler",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "26",
+            "Title": "Mechanic: Resurrection",
+            "Production company": "Summit Premiere / Millennium Films",
+            "Cast and crew": "Dennis Gansel (director); Philip Shelby, Tony Mosher (screenplay); Jason Statham, Jessica Alba, Tommy Lee Jones, Michelle Yeoh, Sam Hazeldine",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Don't Breathe",
+            "Title": "Screen Gems / Stage 6 Films",
+            "Production company": "Fede Álvarez (director/screenplay); Rodo Sayagues (screenplay); Jane Levy, Dylan Minnette, Daniel Zovatto, Stephen Lang",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hands of Stone",
+            "Title": "The Weinstein Company",
+            "Production company": "Jonathan Jakubowicz (director/screenplay); Édgar Ramírez, Robert De Niro, Usher",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Ace the Case",
+            "Title": "Gravitas Ventures",
+            "Production company": "Kevin Kaufman (director/screenplay); Ripley Sobo, Lev Gorn, Susan Sarandon, Marc Menchaca",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "SEPTEMBER",
+            "Title": "2",
+            "Production company": "The 9th Life of Louis Drax",
+            "Cast and crew": "Summit Premiere / Miramax / Soda Pictures",
+            "Ref.": "Alexandre Aja (director); Max Minghella (screenplay); Jamie Dornan, Sarah Gadon, Aaron Paul, Aiden Longworth, Oliver Platt, Molly Parker, Julian Wadham, Jane McGregor, Barbara Hershey"
+          },
+          {
+            "Opening": "The Light Between Oceans",
+            "Title": "Touchstone Pictures / DreamWorks Pictures / Reliance Entertainment / Participant Media / Heyday Films",
+            "Production company": "Derek Cianfrance (director/screenplay); Michael Fassbender, Alicia Vikander, Rachel Weisz, Bryan Brown, Jack Thompson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Morgan",
+            "Title": "20th Century Fox",
+            "Production company": "Luke Scott (director); Seth Owen (screenplay); Kate Mara, Anya Taylor-Joy, Toby Jones, Rose Leslie, Boyd Holbrook, Michelle Yeoh, Jennifer Jason Leigh, Paul Giamatti",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "9",
+            "Title": "Sully",
+            "Production company": "Warner Bros. Pictures / Village Roadshow Pictures / RatPac-Dune Entertainment / The Kennedy/Marshall Company",
+            "Cast and crew": "Clint Eastwood (director); Todd Komarnicki (screenplay); Tom Hanks, Aaron Eckhart, Laura Linney",
+            "Ref.": ""
+          },
+          {
+            "Opening": "When the Bough Breaks",
+            "Title": "Screen Gems",
+            "Production company": "Jon Cassar (director); Jack Olsen (screenplay); Morris Chestnut, Regina Hall, Jaz Sinclair, Romany Malco, Michael K. Williams, Theo Rossi",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Disappointments Room",
+            "Title": "Rogue",
+            "Production company": "D. J. Caruso (director/screenplay); Wentworth Miller (screenplay); Kate Beckinsale, Mel Raido, Gerald McRaney, Lucas Till",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "16",
+            "Title": "Bridget Jones's Baby",
+            "Production company": "Universal Pictures / StudioCanal / Miramax Films / Working Title Films / Perfect World Pictures",
+            "Cast and crew": "Sharon Maguire (director); Helen Fielding, Dan Mazer, Emma Thompson (screenplay); Renée Zellweger, Colin Firth, Patrick Dempsey, Jim Broadbent, Gemma Jones, Emma Thompson",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Snowden",
+            "Title": "Open Road Films",
+            "Production company": "Oliver Stone (director/screenplay); Kieran Fitzgerald (screenplay); Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo, Zachary Quinto, Tom Wilkinson, Scott Eastwood, Logan Marshall-Green, Timothy Olyphant, Ben Schnetzer, LaKeith Stanfield, Rhys Ifans, Nicolas Cage",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Blair Witch",
+            "Title": "Lionsgate / Vertigo Entertainment",
+            "Production company": "Adam Wingard (director); Simon Barrett (screenplay); James Allen McCune, Callie Hernandez, Brandon Scott, Corbin Reid, Valorie Curry, Wes Robinson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hillsong: Let Hope Rise",
+            "Title": "Pure Flix",
+            "Production company": "Michael John Warren (director); Joel Houston, Michael Guy Chislett, Matt Crocker, Jonathon Douglass, Jad Gillies, Simon Kobler, Jihea Oh, Taya Smith, Benjamin Tennikoff, Dylan Thomas",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Last Descent",
+            "Title": "Excel Entertainment Group",
+            "Production company": "Isaac Halasima (director/screenplay); Chadwick Hopson, Alexis \"Lexy\" Johnson, Landon Henneman, Jyllian Petrie, Jacob Omer, Mason D. Davis, Paul Tan, Mark Webb, Kendrey Flake",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "23",
+            "Title": "The Magnificent Seven",
+            "Production company": "Metro-Goldwyn-Mayer / Columbia Pictures / Village Roadshow Pictures",
+            "Cast and crew": "Antoine Fuqua (director); Nic Pizzolatto, Richard Wenk (screenplay); Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio, Lee Byung-hun, Manuel Garcia-Rulfo, Martin Sensmeier, Peter Sarsgaard, Haley Bennett",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Queen of Katwe",
+            "Title": "Walt Disney Pictures / ESPN Films",
+            "Production company": "Mira Nair (director); William Wheeler (screenplay); David Oyelowo, Lupita Nyong'o",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Storks",
+            "Title": "Warner Bros. Pictures / Warner Animation Group / RatPac-Dune Entertainment",
+            "Production company": "Nicholas Stoller (director/screenplay); Doug Sweetland (director); Andy Samberg, Katie Crown, Kelsey Grammer, Jennifer Aniston, Ty Burrell, Keegan-Michael Key, Jordan Peele, Danny Trejo",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "30",
+            "Title": "Miss Peregrine's Home for Peculiar Children",
+            "Production company": "20th Century Fox / Chernin Entertainment",
+            "Cast and crew": "Tim Burton (director); Jane Goldman (screenplay); Eva Green, Asa Butterfield, Chris O'Dowd, Allison Janney, Rupert Everett, Terence Stamp, Ella Purnell, Judi Dench, Samuel L. Jackson",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Deepwater Horizon",
+            "Title": "Summit Entertainment / Participant Media",
+            "Production company": "Peter Berg (director); Matthew Michael Carnahan, Matthew Sand (screenplay); Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan O'Brien, Kate Hudson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Masterminds",
+            "Title": "Relativity Media",
+            "Production company": "Jared Hess (director); Chris Bowman, Hubbel Palmer, Emily Spivey (screenplay); Zach Galifianakis, Owen Wilson, Kristen Wiig, Kate McKinnon, Leslie Jones, Jason Sudeikis",
+            "Cast and crew": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 5",
+        "row_count": 48,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "OCTOBER",
+            "Title": "7",
+            "Production company": "The Girl on the Train",
+            "Cast and crew": "Universal Pictures / DreamWorks Pictures / Reliance Entertainment",
+            "Ref.": "Tate Taylor (director); Erin Cressida Wilson (screenplay); Emily Blunt, Rebecca Ferguson, Haley Bennett, Justin Theroux, Luke Evans, Allison Janney, Édgar Ramírez, Lisa Kudrow"
+          },
+          {
+            "Opening": "The Birth of a Nation",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Nate Parker (director/screenplay); Nate Parker, Armie Hammer, Mark Boone Junior, Colman Domingo, Aunjanue Ellis, Dwight Henry, Aja Naomi King, Esther Scott, Roger Guenveur Smith, Gabrielle Union, Penelope Ann Miller, Jackie Earle Haley",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Middle School: The Worst Years of My Life",
+            "Title": "Lionsgate / CBS Films",
+            "Production company": "Steve Carr (director); Chris Bowman, Hubbel Palmer, Kara Holden (screenplay); Griffin Gluck, Lauren Graham, Rob Riggle, Thomas Barbusca, Andy Daly, Adam Pally, Retta",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Alchemist Cookbook",
+            "Title": "Oscilloscope Laboratories",
+            "Production company": "Joel Potrykus (director/screenplay); Ty Hickson, Amari Cheatom",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "14",
+            "Title": "The Accountant",
+            "Production company": "Warner Bros. Pictures / RatPac-Dune Entertainment",
+            "Cast and crew": "Gavin O'Connor (director); Bill Dubuque (screenplay); Ben Affleck, Anna Kendrick, J. K. Simmons, Jon Bernthal, Jeffrey Tambor, John Lithgow",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Kevin Hart: What Now?",
+            "Title": "Universal Pictures",
+            "Production company": "Leslie Small, Tim Story (directors); Kevin Hart, Harry Ratchford, Joey Wells (screenplay); Kevin Hart",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Christine",
+            "Title": "The Orchard",
+            "Production company": "Antonio Campos (director); Craig Shilowich (screenplay); Rebecca Hall, Michael C. Hall, Tracy Letts, Maria Dizzia, J. Smith-Cameron, John Cullum, Timothy Simons, Kim Shaw, Morgan Spector",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Max Steel",
+            "Title": "Open Road Films",
+            "Production company": "Stewart Hendler (director); Christopher Yost (screenplay); Ben Winchell, Maria Bello, Ana Villafañe, Josh Brener, Andy García",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "Jack Reacher: Never Go Back",
+            "Production company": "Paramount Pictures / Skydance Media",
+            "Cast and crew": "Edward Zwick (director/screenplay); Richard Wenk, Marshall Herskovitz (screenplay); Tom Cruise, Cobie Smulders",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Keeping Up with the Joneses",
+            "Title": "20th Century Fox",
+            "Production company": "Greg Mottola (director); Michael LeSieur (screenplay); Zach Galifianakis, Jon Hamm, Isla Fisher, Gal Gadot",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Ouija: Origin of Evil",
+            "Title": "Universal Pictures / Blumhouse Productions",
+            "Production company": "Mike Flanagan (director/screenplay); Jeff Howard (screenplay); Elizabeth Reaser, Lulu Wilson, Annalise Basso, Henry Thomas",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Boo! A Madea Halloween",
+            "Title": "Lionsgate / Tyler Perry Studios",
+            "Production company": "Tyler Perry (director/screenplay); Tyler Perry, Cassi Davis, Patrice Lovely, Yousef Erakat, Lexy Panterra, Andre Hall, Liza Koshy, Diamond White, Brock O'Hurn, Bella Thorne",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "I'm Not Ashamed",
+            "Title": "Pure Flix",
+            "Production company": "Brian Baugh (director); Bodie Thoene, Robin Hanley, Philipa Booyens, Kari Redmond (screenplay); Masey McLain, Ben Davies, Sadie Robertson, David Errigo Jr., Mark Daugherty, Cory Chapman, Taylor Kalupa, Korie Robertson, Ben VanderMey, Bella Robertson, Jennifer O'Neill, Cameron McKendry",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "American Pastoral",
+            "Title": "Lionsgate / Lakeshore Entertainment",
+            "Production company": "Ewan McGregor (director); John Romano (screenplay); Ewan McGregor, Jennifer Connelly, Dakota Fanning, Peter Riegert, Rupert Evans, Uzo Aduba, Molly Parker, David Strathairn",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "Inferno",
+            "Production company": "Columbia Pictures / Imagine Entertainment",
+            "Cast and crew": "Ron Howard (director); David Koepp (screenplay); Tom Hanks, Felicity Jones, Irrfan Khan, Omar Sy, Ben Foster, Sidse Babett Knudsen",
+            "Ref.": ""
+          },
+          {
+            "Opening": "NOVEMBER",
+            "Title": "4",
+            "Production company": "Doctor Strange",
+            "Cast and crew": "Marvel Studios",
+            "Ref.": "Scott Derrickson (director/screenplay); Jon Spaihts, C. Robert Cargill (screenplay); Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen, Tilda Swinton"
+          },
+          {
+            "Opening": "Trolls",
+            "Title": "20th Century Fox / DreamWorks Animation",
+            "Production company": "Mike Mitchell (director); Jonathan Aibel, Glenn Berger (screenplay); Anna Kendrick, Justin Timberlake, Zooey Deschanel, Russell Brand, James Corden, Gwen Stefani",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hacksaw Ridge",
+            "Title": "Summit Entertainment / Cross Creek Pictures",
+            "Production company": "Mel Gibson (director); Robert Schenkkan, Andrew Knight (screenplay); Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer, Hugo Weaving, Rachel Griffiths, Vince Vaughn, Richard Pyros",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Loving",
+            "Title": "Focus Features",
+            "Production company": "Jeff Nichols (director/screenplay); Joel Edgerton, Ruth Negga, Marton Csokas, Nick Kroll, Michael Shannon",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "11",
+            "Title": "The Love Witch",
+            "Production company": "Oscilloscope Laboratories",
+            "Cast and crew": "Anna Biller (director/screenplay); Samantha Robinson, Gian Keys, Laura Waddell, Jeffrey Vincent Parise, Jared Sanford, Robert Seeley, Jennifer Ingrum",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Arrival",
+            "Title": "Paramount Pictures / FilmNation Entertainment / Lava Bear Films / 21 Laps Entertainment",
+            "Production company": "Denis Villeneuve (director); Eric Heisserer (screenplay); Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg, Tzi Ma",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Billy Lynn's Long Halftime Walk",
+            "Title": "TriStar Pictures",
+            "Production company": "Ang Lee (director); Jean-Christophe Castelli (screenplay); Joe Alwyn, Kristen Stewart, Chris Tucker, Garrett Hedlund, Vin Diesel, Steve Martin",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Almost Christmas",
+            "Title": "Universal Pictures / Perfect World Pictures / Will Packer Productions",
+            "Production company": "David E. Talbert (director/screenplay); Kimberly Elise, Danny Glover, John Michael Higgins, Romany Malco, Mo'Nique, J. B. Smoove, Gabrielle Union",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "18",
+            "Title": "Fantastic Beasts and Where to Find Them",
+            "Production company": "Warner Bros. Pictures",
+            "Cast and crew": "David Yates (director), Eddie Redmayne, Katherine Waterston, Dan Folger, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Colin Farrell",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Edge of Seventeen",
+            "Title": "STXfilms",
+            "Production company": "Kelly Fremon Craig (director/screenplay); Hailee Steinfeld, Woody Harrelson, Kyra Sedgwick, Haley Lu Richardson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Bleed for This",
+            "Title": "Open Road Films",
+            "Production company": "Ben Younger (director/screenplay); Miles Teller, Aaron Eckhart, Katey Sagal, Ciarán Hinds, Ted Levine",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Manchester by the Sea",
+            "Title": "Pearl Street Films",
+            "Production company": "Kenneth Lonergan (director/screenplay), Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "23",
+            "Title": "Moana",
+            "Production company": "Walt Disney Pictures / Walt Disney Animation Studios",
+            "Cast and crew": "John Musker, Ron Clements (directors); Jared Bush (screenplay); Auliʻi Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison, Jemaine Clement, Nicole Scherzinger, Alan Tudyk",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Allied",
+            "Title": "Paramount Pictures",
+            "Production company": "Robert Zemeckis (director); Steven Knight (screenplay); Brad Pitt, Marion Cotillard, Jared Harris, Simon McBurney, Lizzy Caplan, Daniel Betts, Matthew Goode",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Bad Santa 2",
+            "Title": "Broad Green Pictures",
+            "Production company": "Mark Waters (director); Johnny Rosenthal, Shauna Cross (screenplay); Billy Bob Thornton, Kathy Bates, Tony Cox, Christina Hendricks, Brett Kelly, Ryan Hansen, Jenny Zigrino, Jeff Skowron, Mike Starr",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Rules Don't Apply",
+            "Title": "20th Century Fox / Regency Enterprises / RatPac-Dune Entertainment / Worldview Entertainment / Shangri-La Entertainment",
+            "Production company": "Warren Beatty (director/screenplay); Warren Beatty, Annette Bening, Matthew Broderick, Lily Collins, Alden Ehrenreich",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "DECEMBER",
+            "Title": "2",
+            "Production company": "Incarnate",
+            "Cast and crew": "Blumhouse Productions / WWE Studios / IM Global",
+            "Ref.": "Brad Peyton (director); Ronnie Christensen (screenplay); Aaron Eckhart, Carice van Houten, Catalina Sandino Moreno, David Mazouz, Keir O'Donnell, Matt Nable, John Pirruccello"
+          },
+          {
+            "Opening": "9",
+            "Title": "La La Land",
+            "Production company": "Summit Entertainment",
+            "Cast and crew": "Damien Chazelle (director/writer); Ryan Gosling, Emma Stone, John Legend, Rosemarie DeWitt, Finn Wittrock, J. K. Simmons",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Office Christmas Party",
+            "Title": "Paramount Pictures / DreamWorks Pictures / Reliance Entertainment / Bluegrass Films / Amblin Partners",
+            "Production company": "Will Speck, Josh Gordon (directors); Justin Malen, Laura Solon, Dan Mazer (screenplay); Jason Bateman, Olivia Munn, T.J. Miller, Jillian Bell, Vanessa Bayer, Courtney B. Vance, Rob Corddry, Kate McKinnon, Jennifer Aniston",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "16",
+            "Title": "Collateral Beauty",
+            "Production company": "Warner Bros. Pictures / New Line Cinema / Village Roadshow Pictures / RatPac-Dune Entertainment / Overbrook Entertainment / Anonymous Content",
+            "Cast and crew": "David Frankel (director); Allan Loeb (screenplay); Will Smith, Edward Norton, Keira Knightley, Michael Peña, Naomie Harris, Jacob Latimore, Kate Winslet, Helen Mirren",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Fences",
+            "Title": "Paramount Pictures",
+            "Production company": "Denzel Washington (director); August Wilson (screenplay); Denzel Washington, Viola Davis, Stephen McKinley Henderson, Jovan Adepo, Russell Hornsby, Mykelti Williamson, Saniyya Sidney",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Rogue One: A Star Wars Story",
+            "Title": "Lucasfilm",
+            "Production company": "Gareth Edwards (director); Chris Weitz, Tony Gilroy (screenplay); Felicity Jones, Diego Luna, Ben Mendelsohn, Donnie Yen, Mads Mikkelsen, Alan Tudyk, Jiang Wen, Forest Whitaker",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Founder",
+            "Title": "The Weinstein Company",
+            "Production company": "John Lee Hancock (director); Robert Siegel (screenplay); Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini, B. J. Novak, Laura Dern",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "Assassin's Creed",
+            "Production company": "20th Century Fox / Regency Enterprises / Ubisoft Motion Pictures / DMC Film / The Kennedy/Marshall Company",
+            "Cast and crew": "Justin Kurzel (director); Michael Lesslie, Adam Cooper, Bill Collage (screenplay); Michael Fassbender, Marion Cotillard, Jeremy Irons, Brendan Gleeson, Charlotte Rampling, Michael K. Williams",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Passengers",
+            "Title": "Columbia Pictures / Village Roadshow Pictures / Original Film / Start Motion Pictures",
+            "Production company": "Morten Tyldum (director); Jon Spaihts (screenplay); Jennifer Lawrence, Chris Pratt, Michael Sheen, Laurence Fishburne, Andy García",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Sing",
+            "Title": "Universal Pictures / Illumination Entertainment",
+            "Production company": "Garth Jennings (director/screenplay); Matthew McConaughey, Reese Witherspoon, Seth MacFarlane, Scarlett Johansson, John C. Reilly, Taron Egerton, Tori Kelly",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Patriots Day",
+            "Title": "Lionsgate / CBS Films",
+            "Production company": "Peter Berg (director/screenplay); Matt Cook, Joshua Zetumer (screenplay); Mark Wahlberg, Kevin Bacon, John Goodman, J. K. Simmons, Michelle Monaghan",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "23",
+            "Title": "A Monster Calls",
+            "Production company": "Focus Features / Entertainment One",
+            "Cast and crew": "J. A. Bayona (director); Patrick Ness (screenplay); Sigourney Weaver, Felicity Jones, Toby Kebbell, Lewis MacDougall, Liam Neeson",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Silence",
+            "Title": "Paramount Pictures",
+            "Production company": "Martin Scorsese (director/screenplay); Jay Cocks (screenplay); Andrew Garfield, Adam Driver, Tadanobu Asano, Ciarán Hinds, Liam Neeson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Why Him?",
+            "Title": "20th Century Fox / 21 Laps Entertainment / Red Hour Productions",
+            "Production company": "John Hamburg (director/screenplay); Ian Helfer (screenplay); James Franco, Bryan Cranston, Megan Mullally, Zoey Deutch, Cedric the Entertainer, Griffin Gluck, Keegan-Michael Key",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "25",
+            "Title": "Hidden Figures",
+            "Production company": "20th Century Fox / Chernin Entertainment",
+            "Cast and crew": "Theodore Melfi (director/screenplay); Allison Schroeder (screenplay); Taraji P. Henson, Octavia Spencer, Janelle Monáe, Kevin Costner, Kirsten Dunst, Jim Parsons, Mahershala Ali, Aldis Hodge, Glen Powell",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Live by Night",
+            "Title": "Warner Bros. Pictures / RatPac Entertainment",
+            "Production company": "Ben Affleck (director/screenplay); Ben Affleck, Elle Fanning, Brendan Gleeson, Chris Messina, Sienna Miller, Zoe Saldaña, Chris Cooper",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "Paterson",
+            "Production company": "Amazon Studios / Bleecker Street",
+            "Cast and crew": "Jim Jarmusch (director/screenplay); Adam Driver, Golshifteh Farahani, Barry Shabaka Henley, Cliff Smith, Chasten Harmon, William Jackson Harper, Masatoshi Nagase",
+            "Ref.": ""
+          }
+        ]
+      }
+    ],
+    "search_snippet": "This is a list of American films released in 2016.",
+    "search_title": "List of American films of 2016 - Wikipedia",
+    "batch_number": 3,
+    "item_number": 21
+  },
+  {
+    "url": "https://www.imdb.com/list/ls566161751/",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",
+    "title": "Error loading page",
+    "meta_description": "",
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "links": [],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "The film follows the talented and gregarious soul singer of the Grammy-nominated R&B band \"Sharon Jones and the Dap-Kings.\" In the most challenging year of her life, Sharon Jones confronts pancreatic cancer.",
+    "search_title": "List of films released in 2016 in USA - IMDb",
+    "batch_number": 3,
+    "item_number": 22
+  },
+  {
+    "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2016",
+    "title": "List of American films of 2016 | Moviepedia | Fandom",
+    "meta_description": "\"The Goobats\" January 1, 2016",
+    "headings": {
+      "h1": [
+        "List of American films of 2016"
+      ],
+      "h2": [],
+      "h3": [
+        "American Films[]",
+        "Explore properties",
+        "Follow Us",
+        "Overview",
+        "Community",
+        "Advertise",
+        "Fandom Apps"
+      ]
+    },
+    "links": [
+      {
+        "text": "feedback",
+        "href": "https://movies.fandom.com/wiki/Forum:Feedback"
+      },
+      {
+        "text": "Uberfuzzy",
+        "href": "https://movies.fandom.com/wiki/User:Uberfuzzy"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fmovies.fandom.com%2Fwiki%2FList_of_American_films_of_2016"
+      },
+      {
+        "text": "Register",
+        "href": "https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fmovies.fandom.com%2Fwiki%2FList_of_American_films_of_2016"
+      },
+      {
+        "text": "Moviepedia",
+        "href": "https://movies.fandom.com"
+      },
+      {
+        "text": "Main Page",
+        "href": "https://movies.fandom.com/wiki/Moviepedia"
+      },
+      {
+        "text": "Discuss",
+        "href": "https://movies.fandom.com/f"
+      },
+      {
+        "text": "All Pages",
+        "href": "https://movies.fandom.com/wiki/Special:AllPages"
+      },
+      {
+        "text": "Community",
+        "href": "https://movies.fandom.com/wiki/Special:Community"
+      },
+      {
+        "text": "Interactive Maps",
+        "href": "https://movies.fandom.com/wiki/Special:AllMaps"
+      }
+    ],
+    "paragraphs": [
+      "We have finally fixed the feedback feature that Uberfuzzy has destroyed. Don't worry, you can still send user reports to the admins.",
+      "\"The Goobats\" January 1, 2016"
+    ],
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2016",
+        "name": "List of American films of 2016",
+        "headline": "List of American films of 2016",
+        "mainEntity": {
+          "@type": "Thing",
+          "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2016",
+          "name": "List of American films of 2016",
+          "image": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105"
+        },
+        "about": {
+          "@type": "Thing",
+          "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2016",
+          "name": "List of American films of 2016",
+          "image": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105"
+        },
+        "author": {
+          "@type": "Organization",
+          "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2016?action=credits",
+          "name": "Contributors to Moviepedia"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Fandom, Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720"
+          }
+        },
+        "abstract": "\"The Goobats\" January 1, 2016",
+        "image": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105",
+        "thumbnailUrl": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105"
+      }
+    ],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://static.wikia.nocookie.net/filmguide/images/e/e6/Site-logo.png/revision/latest?cb=20250903062139",
+        "alt": "Moviepedia"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/6a181c72-e8bf-419b-b4db-18fd56a0eb60",
+        "alt": "Fandom logo"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/6c42ce6a-b205-41f5-82c6-5011721932e7",
+        "alt": "Fandom App logo"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca",
+        "alt": "Store icon"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/6e8f2e52-ab5a-427f-a836-ab57168161ec",
+        "alt": "Store icon"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "\"The Goobats\" January 1, 2016Community content is available under CC-BY-SA unless otherwise noted.",
+    "search_title": "List of American films of 2016 | Moviepedia | Fandom",
+    "batch_number": 3,
+    "item_number": 23
+  },
+  {
+    "url": "https://www.detailedpedia.com/wiki-List_of_American_films_of_2016",
+    "error": "403 Client Error: Forbidden for url: https://www.detailedpedia.com/wiki-List_of_American_films_of_2016",
+    "title": "Error loading page",
+    "meta_description": "",
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "links": [],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Sep 5, 2025Box office The highest-grossing American films released in 2016, by domestic box office gross revenue, are as follows:",
+    "search_title": "List of American films of 2016 - Detailed Pedia",
+    "batch_number": 3,
+    "item_number": 24
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/Category:2016_films_of_the_United_States",
+    "title": "Category:2016 films of the United States - Wikimedia Commons",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "Category:2016 films of the United States"
+      ],
+      "h2": [
+        "Subcategories",
+        "Media in category \"2016 films of the United States\""
+      ],
+      "h3": [
+        "*",
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "W",
+        "X",
+        "Z"
+      ]
+    },
+    "links": [
+      {
+        "text": "Main page",
+        "href": "https://commons.wikimedia.org/wiki/Main_Page"
+      },
+      {
+        "text": "Welcome",
+        "href": "https://commons.wikimedia.org/wiki/Commons:Welcome"
+      },
+      {
+        "text": "Community portal",
+        "href": "https://commons.wikimedia.org/wiki/Commons:Community_portal"
+      },
+      {
+        "text": "Village pump",
+        "href": "https://commons.wikimedia.org/wiki/Commons:Village_pump"
+      },
+      {
+        "text": "Help center",
+        "href": "https://commons.wikimedia.org/wiki/Special:MyLanguage/Help:Contents"
+      },
+      {
+        "text": "Upload file",
+        "href": "https://commons.wikimedia.org/wiki/Special:UploadWizard"
+      },
+      {
+        "text": "Recent changes",
+        "href": "https://commons.wikimedia.org/wiki/Special:RecentChanges"
+      },
+      {
+        "text": "Latest files",
+        "href": "https://commons.wikimedia.org/wiki/Special:NewFiles"
+      },
+      {
+        "text": "Random file",
+        "href": "https://commons.wikimedia.org/wiki/Special:Random/File"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://commons.wikimedia.org/wiki/Commons:Contact_us"
+      }
+    ],
+    "paragraphs": [
+      "This category has the following 70 subcategories, out of 70 total.",
+      "The following 19 files are in this category, out of 19 total."
+    ],
+    "json_ld": [],
+    "product_info": {
+      "size": "CategoryDiscussion\n\n\n\n\n\nEnglish\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReadEditView history\n\n\n\n\n\n\n\nTools\n\n\n\n\n\nTools\nmove t"
+    },
+    "images": [
+      {
+        "src": "https://commons.wikimedia.org/static/images/icons/commonswiki.svg",
+        "alt": ""
+      },
+      {
+        "src": "https://commons.wikimedia.org/static/images/mobile/copyright/commonswiki-wordmark.svg",
+        "alt": "Wikimedia Commons"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/United_States_film_clapperboard.svg/40px-United_States_film_clapperboard.svg.png",
+        "alt": ""
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png",
+        "alt": ""
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png",
+        "alt": "Wikidata"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Feb 19, 2024From Wikimedia Commons, the free media repository Countries of the Americas : Brazil · United States of America 2010s films of the United States ← 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 →",
+    "search_title": "Category:2016 films of the United States - Wikimedia",
+    "batch_number": 3,
+    "item_number": 25
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2017",
+    "title": "List of American films of 2017 - Wikipedia",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "List of American films of 2017"
+      ],
+      "h2": [
+        "Contents",
+        "Box office",
+        "January–March",
+        "April–June",
+        "July–September",
+        "October–December",
+        "See also",
+        "References",
+        "External links"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "Main page",
+        "href": "https://en.wikipedia.org/wiki/Main_Page"
+      },
+      {
+        "text": "Contents",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contents"
+      },
+      {
+        "text": "Current events",
+        "href": "https://en.wikipedia.org/wiki/Portal:Current_events"
+      },
+      {
+        "text": "Random article",
+        "href": "https://en.wikipedia.org/wiki/Special:Random"
+      },
+      {
+        "text": "About Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:About"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us"
+      },
+      {
+        "text": "Help",
+        "href": "https://en.wikipedia.org/wiki/Help:Contents"
+      },
+      {
+        "text": "Learn to edit",
+        "href": "https://en.wikipedia.org/wiki/Help:Introduction"
+      },
+      {
+        "text": "Community portal",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal"
+      },
+      {
+        "text": "Recent changes",
+        "href": "https://en.wikipedia.org/wiki/Special:RecentChanges"
+      }
+    ],
+    "paragraphs": [
+      "This is a list of American films released in 2017.",
+      "The highest-grossing American films released in 2017, by domestic box office gross revenue, are as follows:[1]"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": "List of American films of 2017",
+        "url": "https://en.wikipedia.org/wiki/List_of_American_films_of_2017",
+        "sameAs": "http://www.wikidata.org/entity/Q48845059",
+        "mainEntity": "http://www.wikidata.org/entity/Q48845059",
+        "author": {
+          "@type": "Organization",
+          "name": "Contributors to Wikimedia projects"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Wikimedia Foundation, Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+          }
+        },
+        "datePublished": "2017-12-16T14:08:14Z",
+        "dateModified": "2025-08-28T16:08:36Z",
+        "headline": "Wikimedia list article"
+      }
+    ],
+    "product_info": {
+      "size": "ArticleTalk\n\n\n\n\n\nEnglish\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReadEditView history\n\n\n\n\n\n\n\nTools\n\n\n\n\n\nTools\nmove to sideb"
+    },
+    "images": [
+      {
+        "src": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+        "alt": ""
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+        "alt": "Wikipedia"
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+        "alt": "The Free Encyclopedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/United_States_film_clapperboard.svg/80px-United_States_film_clapperboard.svg.png",
+        "alt": ""
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "wikipedia_tables": [
+      {
+        "table_title": "Highest-grossing films of 2017",
+        "row_count": 10,
+        "columns": [
+          "Rank",
+          "Title",
+          "Distributor",
+          "Domestic gross"
+        ],
+        "data": [
+          {
+            "Rank": "1",
+            "Title": "Star Wars: The Last Jedi",
+            "Distributor": "Disney",
+            "Domestic gross": "$620,181,382"
+          },
+          {
+            "Rank": "2",
+            "Title": "Beauty and the Beast",
+            "Distributor": "$504,014,165"
+          },
+          {
+            "Rank": "3",
+            "Title": "Wonder Woman",
+            "Distributor": "Warner Bros.",
+            "Domestic gross": "$412,563,408"
+          },
+          {
+            "Rank": "4",
+            "Title": "Jumanji: Welcome to the Jungle",
+            "Distributor": "Sony",
+            "Domestic gross": "$404,515,480"
+          },
+          {
+            "Rank": "5",
+            "Title": "Guardians of the Galaxy Vol. 2",
+            "Distributor": "Disney",
+            "Domestic gross": "$389,813,101"
+          },
+          {
+            "Rank": "6",
+            "Title": "Spider-Man: Homecoming",
+            "Distributor": "Sony",
+            "Domestic gross": "$334,201,140"
+          },
+          {
+            "Rank": "7",
+            "Title": "It",
+            "Distributor": "Warner Bros.",
+            "Domestic gross": "$327,481,748"
+          },
+          {
+            "Rank": "8",
+            "Title": "Thor: Ragnarok",
+            "Distributor": "Disney",
+            "Domestic gross": "$315,058,289"
+          },
+          {
+            "Rank": "9",
+            "Title": "Despicable Me 3",
+            "Distributor": "Universal",
+            "Domestic gross": "$264,624,300"
+          },
+          {
+            "Rank": "10",
+            "Title": "Justice League",
+            "Distributor": "Warner Bros.",
+            "Domestic gross": "$229,024,295"
+          }
+        ]
+      },
+      {
+        "table_title": "Table 2",
+        "row_count": 63,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "JANUARY",
+            "Title": "6",
+            "Production company": "Underworld: Blood Wars",
+            "Cast and crew": "Screen Gems / Lakeshore Entertainment / Sketch Films",
+            "Ref.": "Anna Foerster (director); Cory Goodman (screenplay); Kate Beckinsale, Theo James, Lara Pulver, James Faulkner, Charles Dance"
+          },
+          {
+            "Opening": "Arsenal",
+            "Title": "Lionsgate Premiere / Emmett/Furla/Oasis Films",
+            "Production company": "Steven C. Miller (director); Jason Mosberg (screenplay); Adrian Grenier, John Cusack, Nicolas Cage, Johnathon Schaech",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Between Us",
+            "Title": "IFC Films / Nora Films",
+            "Production company": "Rafael Palacio Illingworth (director/screenplay); Olivia Thirlby, Ben Feldman, Adam Goldberg, Analeigh Tipton, Scott Haze, Peter Bogdanovich, Lesley Ann Warren",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "13",
+            "Title": "Monster Trucks",
+            "Production company": "Paramount Pictures / Paramount Animation / Nickelodeon Movies",
+            "Cast and crew": "Chris Wedge (director); Derek Connolly (screenplay); Lucas Till, Jane Levy, Barry Pepper, Thomas Lennon, Rob Lowe, Danny Glover, Amy Ryan, Holt McCallany, Frank Whaley",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Bye Bye Man",
+            "Title": "STX Entertainment / Intrepid Pictures",
+            "Production company": "Stacy Title (director); Jonathan Penner (screenplay); Douglas Smith, Michael Trucco, Lucien Laviscount, Cressida Bonas, Doug Jones, Carrie-Anne Moss, Faye Dunaway, Jenna Kanell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Sleepless",
+            "Title": "Open Road Films / FilmNation Entertainment",
+            "Production company": "Baran bo Odar (director); Andrea Berloff (screenplay); Jamie Foxx, Michelle Monaghan, Dermot Mulroney, David Harbour, T.I., Gabrielle Union, Scoot McNairy",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Book of Love",
+            "Title": "Electric Entertainment",
+            "Production company": "Bill Purple (director/screenplay); Robbie Pickering (screenplay); Jason Sudeikis, Jessica Biel, Maisie Williams, Mary Steenburgen, Orlando Jones, Paul Reiser",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "20",
+            "Title": "Split",
+            "Production company": "Universal Pictures / Blumhouse Productions",
+            "Cast and crew": "M. Night Shyamalan (director/screenplay); James McAvoy, Anya Taylor-Joy, Betty Buckley",
+            "Ref.": ""
+          },
+          {
+            "Opening": "XXX: Return of Xander Cage",
+            "Title": "Paramount Pictures / Revolution Studios / One Race Films / Roth/Kirschenbaum Films",
+            "Production company": "D. J. Caruso (director); F. Scott Frazier (screenplay); Vin Diesel, Donnie Yen, Deepika Padukone, Kris Wu, Ruby Rose, Tony Jaa, Nina Dobrev, Toni Collette, Samuel L. Jackson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Resurrection of Gavin Stone",
+            "Title": "BH Tilt / WWE Studios / Walden Media",
+            "Production company": "Dallas Jenkins (director); Andrea Gyertson Nasfell (screenplay); Brett Dalton, Anjelah Johnson, Neil Flynn, Shawn Michaels, D. B. Sweeney",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Trespass Against Us",
+            "Title": "A24",
+            "Production company": "Adam Smith (director); Alastair Siddons (screenplay); Michael Fassbender, Brendan Gleeson, Lyndsey Marshal, Killian Scott, Rory Kinnear, Sean Harris",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "25",
+            "Title": "Sophie and the Rising Sun",
+            "Production company": "Monterey Media",
+            "Cast and crew": "Maggie Greenwald (director/screenplay); Julianne Nicholson, Takashi Yamaguchi, Margo Martindale, Diane Ladd, Lorraine Toussaint, Karen Wheeling Reynolds",
+            "Ref.": ""
+          },
+          {
+            "Opening": "27",
+            "Title": "A Dog's Purpose",
+            "Production company": "Universal Pictures / Amblin Entertainment / Reliance Entertainment / Walden Media",
+            "Cast and crew": "Lasse Hallström (director); W. Bruce Cameron, Cathryn Michon, Audrey Wells, Maya Forbes, Wallace Wolodarsky (screenplay); Britt Robertson, KJ Apa, John Ortiz, Dennis Quaid, Josh Gad",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Resident Evil: The Final Chapter",
+            "Title": "Screen Gems / Impact Pictures / Davis Films / Constantin Film",
+            "Production company": "Paul W. S. Anderson (director/screenplay); Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts, Eoin Macken, Ruby Rose, William Levy",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Lost in Florence",
+            "Title": "Orion Pictures",
+            "Production company": "Evan Oppenheimer (director/screenplay); Brett Dalton, Alessandra Mastronardi, Alessandro Preziosi, Stana Katic",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "I Am Michael",
+            "Title": "Brainstorm Media",
+            "Production company": "Justin Kelly (director/screenplay); Stacey Miller (screenplay); James Franco, Zachary Quinto, Emma Roberts, Charlie Carver",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "iBoy",
+            "Title": "Netflix",
+            "Production company": "Adam Randall (director), Joe Barton (screenplay); Bill Milner, Maisie Williams, Jordan Bolger, Charley Palmer Rothwell, Aymen Hamdouchi, Miranda Richardson, Rory Kinnear",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "FEBRUARY",
+            "Title": "3",
+            "Production company": "Rings",
+            "Cast and crew": "Paramount Pictures",
+            "Ref.": "F. Javier Gutiérrez (director); David Loucka, Jacob Aaron Estes, Akiva Goldsman (screenplay); Matilda Lutz, Alex Roe, Johnny Galecki, Aimee Teegarden, Bonnie Morgan, Vincent D'Onofrio"
+          },
+          {
+            "Opening": "The Space Between Us",
+            "Title": "STX Entertainment / Huayi Brothers Media",
+            "Production company": "Peter Chelsom (director); Allan Loeb (screenplay); Gary Oldman, Asa Butterfield, Carla Gugino, Britt Robertson, BD Wong, Janet Montgomery",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Youth in Oregon",
+            "Title": "Orion Pictures / Samuel Goldwyn Films",
+            "Production company": "Joel David Moore (director); Andrew Eisen (screenplay); Frank Langella, Billy Crudup, Christina Applegate, Nicola Peltz, Mary Kay Place, Josh Lucas",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "I Am Not Your Negro",
+            "Title": "Magnolia Pictures / Amazon Studios",
+            "Production company": "Raoul Peck (director/screenplay); James Baldwin (screenplay); Samuel L. Jackson (narrator)",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Growing Up Smith",
+            "Title": "Good Deed Entertainment",
+            "Production company": "Frank Lotito (director); Anjul Nigam, Paul Quinn, Gregory Scott Houghton (screenplay); Jason Lee, Anjul Nigam, Brighton Sharbino, Hilarie Burton, Roni Akurati",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "10",
+            "Title": "The Lego Batman Movie",
+            "Production company": "Warner Bros. Pictures / Warner Animation Group / DC Entertainment / RatPac-Dune Entertainment / Vertigo Entertainment / Lin Pictures / Lord Miller Productions",
+            "Cast and crew": "Chris McKay (director); Seth Grahame-Smith, Chris McKenna, Erik Sommers, Jared Stern, John Whittington (screenplay); Will Arnett, Zach Galifianakis, Michael Cera, Rosario Dawson, Ralph Fiennes",
+            "Ref.": ""
+          },
+          {
+            "Opening": "John Wick: Chapter 2",
+            "Title": "Summit Entertainment / Thunder Road Pictures / 87Eleven Productions",
+            "Production company": "Chad Stahelski (director); Derek Kolstad (screenplay); Keanu Reeves, Common, Laurence Fishburne, Riccardo Scamarcio, Ruby Rose, Lance Reddick, Peter Stormare, Bridget Moynahan, Franco Nero, John Leguizamo, Ian McShane",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Fifty Shades Darker",
+            "Title": "Universal Pictures / Perfect World Pictures",
+            "Production company": "James Foley (director); Niall Leonard (screenplay); Dakota Johnson, Jamie Dornan, Eric Johnson, Rita Ora, Luke Grimes, Victor Rasuk, Kim Basinger, Marcia Gay Harden",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Bornless Ones",
+            "Title": "Uncork'd Entertainment",
+            "Production company": "Alexander Babaev (director/screenplay); Margaret Judson, Devin Goodsell, Michael Johnston, Mark Furze",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "17",
+            "Title": "The Great Wall",
+            "Production company": "Universal Pictures / Legendary Pictures / Atlas Entertainment",
+            "Cast and crew": "Zhang Yimou (director); Carlo Bernard, Doug Miro, Tony Gilroy (screenplay); Matt Damon, Jing Tian, Pedro Pascal, Willem Dafoe, Andy Lau",
+            "Ref.": ""
+          },
+          {
+            "Opening": "A Cure for Wellness",
+            "Title": "20th Century Fox / Regency Enterprises / Blind Wink Productions",
+            "Production company": "Gore Verbinski (director); Justin Haythe (screenplay); Dane DeHaan, Jason Isaacs, Mia Goth, Harry Groener, Celia Imrie, Adrian Schiller",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Fist Fight",
+            "Title": "Warner Bros. Pictures / New Line Cinema / Village Roadshow Pictures / RatPac Entertainment / 21 Laps Entertainment",
+            "Production company": "Richie Keen (director); Van Robichaux, Evan Susser (screenplay); Ice Cube, Charlie Day, Tracy Morgan, Jillian Bell, Dean Norris, Christina Hendricks, Dennis Haysbert",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "American Fable",
+            "Title": "IFC Films",
+            "Production company": "Anne Hamilton (director/screenplay); Peyton Kennedy, Richard Schiff, Kip Pardue, Marci Miller, Gavin MacIntosh, Zuleikha Robinson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "XX",
+            "Title": "Magnet Releasing",
+            "Production company": "Jovanka Vuckovic, St. Vincent, Roxanne Benjamin, Karyn Kusama (directors/screenplay); Jack Ketchum (screenplay); Natalie Brown, Melanie Lynskey, Breeda Wool, Christina Kirk",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Lovesong",
+            "Title": "Strand Releasing",
+            "Production company": "So Yong Kim (director/screenplay); Bradley Rust Gray (screenplay); Jena Malone, Riley Keough, Brooklyn Decker, Amy Seimetz, Marshall Chapman, Ryan Eggold, Rosanna Arquette",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "24",
+            "Title": "Get Out",
+            "Production company": "Universal Pictures",
+            "Cast and crew": "Jordan Peele (director/screenplay); Daniel Kaluuya, Allison Williams, Bradley Whitford, Caleb Landry Jones, Stephen Root, Catherine Keener",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Rock Dog",
+            "Title": "Summit Entertainment / Huayi Brothers",
+            "Production company": "Ash Brannon (director/screenplay); Kurt Voelker (screenplay); Luke Wilson, J. K. Simmons, Eddie Izzard, Lewis Black, Kenan Thompson, Mae Whitman, Jorge Garcia, Matt Dillon, Sam Elliott",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Collide",
+            "Title": "Open Road Films",
+            "Production company": "Eran Creevy (director/screenplay); F. Scott Frazier (screenplay); Nicholas Hoult, Felicity Jones, Marwan Kenzari, Ben Kingsley, Anthony Hopkins",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "I Don't Feel at Home in This World Anymore",
+            "Title": "Netflix / XYZ Films",
+            "Production company": "Macon Blair (director/screenplay); Melanie Lynskey, Elijah Wood, David Yow, Jane Levy, Devon Graye",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "MARCH",
+            "Title": "1",
+            "Production company": "Contemporary Color",
+            "Cast and crew": "Oscilloscope Laboratories",
+            "Ref.": "Turner Ross, Bill Ross IV (directors); David Byrne"
+          },
+          {
+            "Opening": "3",
+            "Title": "Logan",
+            "Production company": "20th Century Fox / Marvel Entertainment",
+            "Cast and crew": "James Mangold (director/screenplay); Scott Frank, Michael Green (screenplay); Hugh Jackman, Patrick Stewart, Richard E. Grant, Boyd Holbrook, Stephen Merchant, Dafne Keen",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Shack",
+            "Title": "Summit Entertainment",
+            "Production company": "Stuart Hazeldine (director); John Fusco, Andrew Lanham, Destin Daniel Cretton (screenplay); Sam Worthington, Octavia Spencer, Aviv Alush, Radha Mitchell, Alice Braga, Graham Greene, Tim McGraw, Sumire",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Before I Fall",
+            "Title": "Open Road Films",
+            "Production company": "Ry Russo-Young (director); Maria Maggenti, Gina Prince-Bythewood (screenplay); Zoey Deutch, Halston Sage, Logan Miller, Kian Lawley, Elena Kampouris, Diego Boneta, Jennifer Beals",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Table 19",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Jeffrey Blitz (director/screenplay); Anna Kendrick, Craig Robinson, June Squibb, Lisa Kudrow, Stephen Merchant, Tony Revolori, Wyatt Russell, Amanda Crew",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Last Word",
+            "Title": "Bleecker Street",
+            "Production company": "Mark Pellington (director); Stuart Ross Fink (screenplay); Shirley MacLaine, Amanda Seyfried, AnnJewel Lee Dixon, Anne Heche, Tom Everett Scott, Thomas Sadoski, Joel Murray, Adina Porter",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Catfight",
+            "Title": "Dark Sky Films",
+            "Production company": "Onur Tukel (director/screenplay); Sandra Oh, Anne Heche, Alicia Silverstone, Amy Hill, Tituss Burgess, Myra Lucretia Taylor, Ariel Kavoussi, Craig Bierko, Dylan Baker",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Donald Cried",
+            "Title": "The Orchard",
+            "Production company": "Kristopher Avedisian (director/screenplay); Kristopher Avedisian, Jesse Wakeman, Louisa Krause, Ted Arcidi",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "10",
+            "Title": "Kong: Skull Island",
+            "Production company": "Warner Bros. Pictures / Legendary Pictures / Tencent Pictures",
+            "Cast and crew": "Jordan Vogt-Roberts (director); Dan Gilroy, Max Borenstein, Derek Connolly (screenplay); Tom Hiddleston, Samuel L. Jackson, John Goodman, Brie Larson, Jing Tian, Toby Kebbell, John Ortiz, Corey Hawkins, Jason Mitchell, Shea Whigham, Thomas Mann, Terry Notary, John C. Reilly",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Burning Sands",
+            "Title": "Netflix",
+            "Production company": "Gerard McMurray (director/screenplay); Christine Berg (screenplay); Trevor Jackson, Alfre Woodard, Steve Harris, Tosin Cole, DeRon Horton, Christian Robinson, Trevante Rhodes, Jay Q Saun, Serayah",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "17",
+            "Title": "Beauty and the Beast",
+            "Production company": "Walt Disney Pictures / Mandeville Films",
+            "Cast and crew": "Bill Condon (director); Stephen Chbosky, Evan Spiliotopoulos (screenplay); Emma Watson, Dan Stevens, Luke Evans, Kevin Kline, Josh Gad, Ewan McGregor, Stanley Tucci, Audra McDonald, Gugu Mbatha-Raw, Ian McKellen, Emma Thompson",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Belko Experiment",
+            "Title": "Orion Pictures / Metro-Goldwyn-Mayer",
+            "Production company": "Greg McLean (director); James Gunn (screenplay); John Gallagher Jr., Tony Goldwyn, Adria Arjona, John C. McGinley, Melonie Diaz, Josh Brener, Michael Rooker",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Song to Song",
+            "Title": "Broad Green Pictures",
+            "Production company": "Terrence Malick (director/screenplay); Michael Fassbender, Ryan Gosling, Rooney Mara, Natalie Portman",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Atomica",
+            "Title": "Syfy Films",
+            "Production company": "Dagen Merrill (director); Kevin Burke, Fred Fernandez-Armesto, Adam Gyngell (screenplay); Dominic Monaghan, Tom Sizemore, Sarah Habel",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "All Nighter",
+            "Title": "Good Deed Entertainment",
+            "Production company": "Gavin Wiesen (director); Seth W. Owen (screenplay); J. K. Simmons, Emile Hirsch, Taran Killam, Kristen Schaal, Analeigh Lipton",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Devil's Candy",
+            "Title": "IFC Midnight",
+            "Production company": "Sean Byrne (director/screenplay); Ethan Embry, Shiri Appleby, Kiara Glasco, Pruitt Taylor Vince",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "24",
+            "Title": "Power Rangers",
+            "Production company": "Lionsgate / SCG Films / Temple Hill Entertainment",
+            "Cast and crew": "Dean Israelite (director); John Gatins (screenplay); Dacre Montgomery, Naomi Scott, RJ Cyler, Becky G, Ludi Lin, Bill Hader, Bryan Cranston, Elizabeth Banks",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Life",
+            "Title": "Columbia Pictures / Skydance Media",
+            "Production company": "Daniel Espinosa (director); Rhett Reese, Paul Wernick (screenplay); Jake Gyllenhaal, Ryan Reynolds, Rebecca Ferguson, Hiroyuki Sanada, Ariyon Bakare, Olga Dihovichnaya",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "CHiPs",
+            "Title": "Warner Bros. Pictures / RatPac Entertainment",
+            "Production company": "Dax Shepard (director/screenplay); Dax Shepard, Michael Peña, Rosa Salazar, Adam Brody, Vincent D'Onofrio",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Wilson",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Craig Johnson (director); Daniel Clowes (screenplay); Woody Harrelson, Laura Dern, Isabella Amara, Judy Greer, Cheryl Hines",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "The Marine 5: Battleground",
+            "Production company": "WWE Studios / Sony Pictures Home Entertainment",
+            "Cast and crew": "James Nunn (director); Ed McHenry, Rory McHenry (screenplay); The Miz, Maryse Ouellet Mizanin, Curtis Axel, Heath Slater, Bo Dallas, Naomi",
+            "Ref.": ""
+          },
+          {
+            "Opening": "31",
+            "Title": "Ghost in the Shell",
+            "Production company": "Paramount Pictures / DreamWorks Pictures / Reliance Entertainment / Amblin Partners",
+            "Cast and crew": "Rupert Sanders (director); Jamie Moss, William Wheeler, Ehren Kruger (screenplay); Scarlett Johansson, Takeshi Kitano, Michael Pitt, Pilou Asbæk, Chin Han, Juliette Binoche",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Boss Baby",
+            "Title": "20th Century Fox / DreamWorks Animation",
+            "Production company": "Tom McGrath (director); Michael McCullers (screenplay); Alec Baldwin, Steve Buscemi, Jimmy Kimmel, Lisa Kudrow, Miles Bakshi, Tobey Maguire",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Zookeeper's Wife",
+            "Title": "Focus Features",
+            "Production company": "Niki Caro (director); Angela Workman (screenplay); Jessica Chastain, Johan Heldenbergh, Daniel Brühl, Michael McElhatton",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Blackcoat's Daughter",
+            "Title": "A24",
+            "Production company": "Oz Perkins (director/screenplay); Emma Roberts, Kiernan Shipka, Lucy Boynton, Lauren Holly, James Remar",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Discovery",
+            "Title": "Netflix",
+            "Production company": "Charlie McDowell (director/screenplay); Justin Lader (screenplay); Jason Segel, Rooney Mara, Jesse Plemons, Riley Keough, Robert Redford",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Carrie Pilby",
+            "Title": "The Orchard",
+            "Production company": "Susan Johnson (director); Kara Holden, Dean Craig (screenplay); Bel Powley, Vanessa Bayer, Colin O'Donoghue, William Moseley, Jason Ritter, Gabriel Byrne, Nathan Lane",
+            "Cast and crew": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 3",
+        "row_count": 63,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "APRIL",
+            "Title": "7",
+            "Production company": "The Case for Christ",
+            "Cast and crew": "Pure Flix Entertainment",
+            "Ref.": "Jon Gunn (director); Brian Bird (screenplay); Mike Vogel, Erika Christensen, Frankie Faison, Faye Dunaway, Robert Forster"
+          },
+          {
+            "Opening": "Smurfs: The Lost Village",
+            "Title": "Columbia Pictures / Sony Pictures Animation / The Kerner Entertainment Company",
+            "Production company": "Kelly Asbury (director); Stacey Harman, Pamela Ribon (screenplay); Demi Lovato, Rainn Wilson, Joe Manganiello, Jack McBrayer, Danny Pudi, Michelle Rodriguez, Ellie Kemper, Ariel Winter, Mandy Patinkin, Julia Roberts",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Going in Style",
+            "Title": "Warner Bros. Pictures / New Line Cinema / Village Roadshow Pictures / RatPac Entertainment",
+            "Production company": "Zach Braff (director); Theodore Melfi (screenplay); Morgan Freeman, Michael Caine, Alan Arkin, Ann-Margret, Joey King, Matt Dillon, Christopher Lloyd",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Colossal",
+            "Title": "Neon",
+            "Production company": "Nacho Vigalondo (director/screenplay); Anne Hathaway, Jason Sudeikis, Dan Stevens, Austin Stowell, Tim Blake Nelson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Gifted",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Marc Webb (director); Tom Flynn (screenplay); Chris Evans, Mckenna Grace, Lindsay Duncan, Jenny Slate, Octavia Spencer",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Aftermath",
+            "Title": "Lionsgate Premiere / Emmett/Furla/Oasis Films",
+            "Production company": "Elliott Lester (director); Javier Gullón (screenplay); Arnold Schwarzenegger, Scoot McNairy, Maggie Grace, Martin Donovan",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "14",
+            "Title": "The Fate of the Furious",
+            "Production company": "Universal Pictures / Original Film / One Race Films",
+            "Cast and crew": "F. Gary Gray (director); Chris Morgan (screenplay); Vin Diesel, Dwayne Johnson, Jason Statham, Michelle Rodriguez, Tyrese Gibson, Ludacris, Kurt Russell, Charlize Theron",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Spark: A Space Tail",
+            "Title": "Open Road Films / ToonBox Entertainment",
+            "Production company": "Aaron Woodley (director/screenplay); Doug Hadders, Adam Rotstein (screenplay); Jace Norman, Jessica Biel, Susan Sarandon, Patrick Stewart, Hilary Swank",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Lost City of Z",
+            "Title": "Plan B Entertainment",
+            "Production company": "James Gray (director/screenplay); Charlie Hunnam, Robert Pattinson, Sienna Miller, Tom Holland, Angus Macfadyen, Ian McDiarmid, Franco Nero",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "My Entire High School Sinking into the Sea",
+            "Title": "GKIDS",
+            "Production company": "Dash Shaw (director/screenplay); Jason Schwartzman, Reggie Watts, Maya Rudolph, Lena Dunham, Susan Sarandon, Thomas Jay Ryan, Alex Karpovsky, John Cameron Mitchell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Outcasts",
+            "Title": "Swen Group",
+            "Production company": "Peter Hutchings (director); Dominique Ferrari, Suzanne Wrubel (screenplay); Victoria Justice, Eden Sher, Ashley Rickards, Claudia Lee, Katie Chang, Peyton List, Jazmyn C. Richardson, Avan Jogia",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "Born in China",
+            "Production company": "Disneynature",
+            "Cast and crew": "Lu Chuan (director/screenplay); David Fowler, Brian Leith, Phil Chapman (screenplay); John Krasinski (narrator)",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Unforgettable",
+            "Title": "Warner Bros. Pictures / RatPac Entertainment",
+            "Production company": "Denise Di Novi (director); Christina Hodson (screenplay); Katherine Heigl, Rosario Dawson, Geoff Stults",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Promise",
+            "Title": "Open Road Films",
+            "Production company": "Terry George (director/screenplay); Robin Swicord (screenplay); Oscar Isaac, Charlotte Le Bon, Christian Bale, Daniel Giménez Cacho, Shohreh Aghdashloo, Marwan Kenzari, Angela Sarafyan, James Cromwell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "The Immortal Life of Henrietta Lacks",
+            "Production company": "HBO Films / Your Face Goes Here Entertainment / Cine Mosaic / Harpo Films",
+            "Cast and crew": "George C. Wolfe (director/screenplay); Peter Landesman, Alexander Woo (screenplay); Oprah Winfrey, Rose Byrne, Renée Elise Goldsberry, Courtney B. Vance, Ellen Barkin, Reg E. Cathey, Ruben Santiago-Hudson, Leslie Uggams, Reed Birney, John Douglas Thompson, Adriane Lenox, Roger Robinson, Rocky Carroll, Kyanna Simone Simpson, John Beasley, Tinashe Kajese, John Benjamin Hickey, Michael Gaston, Peter Gerety, Mary Shaw, Lisa Arrindell, Gabriel Ebert"
+          },
+          {
+            "Opening": "25",
+            "Title": "After the Reality",
+            "Production company": "The Orchard",
+            "Cast and crew": "David Anderson (director/screenplay); Matthew Morrison, Sarah Chalke",
+            "Ref.": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "The Circle",
+            "Production company": "STX Entertainment / EuropaCorp / Image Nation",
+            "Cast and crew": "James Ponsoldt (director/screenplay); Dave Eggers (screenplay); Emma Watson, Tom Hanks, John Boyega, Karen Gillan, Ellar Coltrane, Patton Oswalt, Glenne Headly, Bill Paxton",
+            "Ref.": ""
+          },
+          {
+            "Opening": "How to Be a Latin Lover",
+            "Title": "Pantelion Films",
+            "Production company": "Ken Marino (director); Chris Spain, Jon Zack (screenplay); Eugenio Derbez, Salma Hayek, Raphael Alejandro, Raquel Welch, Linda Lavin, Renée Taylor, Rob Corddry, Rob Riggle, Kristen Bell, Rob Lowe",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Sleight",
+            "Title": "BH Tilt / WWE Studios",
+            "Production company": "J. D. Dillard (director/screenplay); Alex Theurer (screenplay); Jacob Latimore, Seychelle Gabriel, Sasheer Zamata, Storm Reid, Cameron Esposito, Dulé Hill",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Voice from the Stone",
+            "Title": "Momentum Pictures",
+            "Production company": "Eric Dennis Howell (director); Andrew Shaw (screenplay); Emilia Clarke, Marton Csokas, Edward George Dring",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "MAY",
+            "Title": "5",
+            "Production company": "Becoming Bond",
+            "Cast and crew": "Hulu / Delirio Films",
+            "Ref.": "Josh Greenbaum (director/screenplay); George Lazenby, Josh Lawson, Kassandra Clementi, Landon Ashworth, Jane Seymour, Jeff Garlin, Jake Johnson, Dana Carvey"
+          },
+          {
+            "Opening": "Guardians of the Galaxy Vol. 2",
+            "Title": "Marvel Studios",
+            "Production company": "James Gunn (director/screenplay); Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Michael Rooker, Karen Gillan, Pom Klementieff, Sylvester Stallone, Kurt Russell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Lovers",
+            "Title": "A24",
+            "Production company": "Azazel Jacobs (director/screenplay); Debra Winger, Tracy Letts, Aidan Gillen, Melora Walters, Tyler Ross, Jessica Sula",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "3 Generations",
+            "Title": "The Weinstein Company",
+            "Production company": "Gaby Dellal (director/screenplay); Nikole Beckwith (screenplay); Naomi Watts, Elle Fanning, Susan Sarandon, Tate Donovan, Linda Emond, Sam Trammell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "12",
+            "Title": "King Arthur: Legend of the Sword",
+            "Production company": "Warner Bros. Pictures / Village Roadshow Pictures / RatPac Entertainment / Weed Road Pictures",
+            "Cast and crew": "Guy Ritchie (director/screenplay); Joby Harold, Lionel Wigram (screenplay); Charlie Hunnam, Àstrid Bergès-Frisbey, Djimon Hounsou, Aidan Gillen, Jude Law, Eric Bana",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Snatched",
+            "Title": "20th Century Fox / Chernin Entertainment",
+            "Production company": "Jonathan Levine (director); Katie Dippold (screenplay); Amy Schumer, Goldie Hawn, Joan Cusack, Ike Barinholtz, Wanda Sykes, Christopher Meloni",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Lowriders",
+            "Title": "BH Tilt / Imagine Entertainment",
+            "Production company": "Ricardo de Montreuil (director); Elgin James, Cheo Hodari Coker (screenplay); Demián Bichir, Gabriel Chavarria, Theo Rossi, Melissa Benoist, Tony Revolori, Eva Longoria",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Wall",
+            "Title": "Roadside Attractions",
+            "Production company": "Doug Liman (director); Dwain Worrell (screenplay); Aaron Taylor-Johnson, John Cena",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Paris Can Wait",
+            "Title": "Sony Pictures Classics",
+            "Production company": "Eleanor Coppola (director/screenplay); Diane Lane, Arnaud Viard, Alec Baldwin",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "19",
+            "Title": "Alien: Covenant",
+            "Production company": "20th Century Fox / Scott Free Productions",
+            "Cast and crew": "Ridley Scott (director); John Logan, Dante Harper (screenplay); Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride, Demián Bichir",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Diary of a Wimpy Kid: The Long Haul",
+            "Title": "20th Century Fox / Color Force",
+            "Production company": "David Bowers (director/screenplay); Jeff Kinney (screenplay); Jason Drucker, Alicia Silverstone, Tom Everett Scott, Charlie Wright, Owen Asztalos",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Everything, Everything",
+            "Title": "Warner Bros. Pictures / Metro-Goldwyn-Mayer",
+            "Production company": "Stella Meghie (director); J. Mills Goodloe (screenplay); Amandla Stenberg, Nick Robinson, Ana de la Reguera, Anika Noni Rose",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Wakefield",
+            "Title": "IFC Films",
+            "Production company": "Robin Swicord (director/screenplay); Bryan Cranston, Jennifer Garner, Beverly D'Angelo, Jason O'Mara, Pippa Bennett-Warner",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "20",
+            "Title": "The Wizard of Lies",
+            "Production company": "HBO Films",
+            "Cast and crew": "Barry Levinson (director); Sam Levinson, Sam Baum, John Burnham Schwartz (screenplay); Robert De Niro, Michelle Pfeiffer, Alessandro Nivola, Hank Azaria, Lily Rabe, Kristen Connolly, Kathrine Narducci, Michael Kostroff, Nathan Darrow, Diana B. Henriques, Kelly AuCoin, Amanda Warren, Mark LaMura, Michael Goorjian, Sophie von Haselberg, Barbara Linton, Deborah Ayorinde, Geoffrey Cantor, Vince Giordano, Lisa Kron, Marion McCorry, Joy Behar, Wolf Blitzer, Tom Brokaw, George W. Bush, Stephen Colbert, Anderson Cooper, Judy Garland, David Letterman, Bill Maher, Harry Markopolos, Doris McCarthy, Morley Safer, Brian Williams, Sydney Gayle, Steve Coulter, Shivam Chopra, Clem Cheung, Ben Hammer, Matt Fischel"
+          },
+          {
+            "Opening": "25",
+            "Title": "Baywatch",
+            "Production company": "Paramount Pictures / Uncharted / The Montecito Picture Company",
+            "Cast and crew": "Seth Gordon (director) Damian Shannon, Mark Swift (screenplay); Dwayne Johnson, Zac Efron, Alexandra Daddario, David Hasselhoff",
+            "Ref.": ""
+          },
+          {
+            "Opening": "26",
+            "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+            "Production company": "Walt Disney Pictures / Jerry Bruckheimer Films",
+            "Cast and crew": "Joachim Rønning, Espen Sandberg (directors); Jeff Nathanson (screenplay); Johnny Depp, Javier Bardem, Geoffrey Rush, Brenton Thwaites, Kaya Scodelario, Kevin McNally",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Buena Vista Social Club: Adios",
+            "Title": "Broad Green Pictures",
+            "Production company": "Lucy Walker (director); Omara Portuondo, Jesus \"Aguaje\" Ramos, Manuel \"Guajiro\" Mirabal, Barbarito Torres, Guajirito Mirabal, Eliades Ochoa",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "War Machine",
+            "Title": "Netflix / Plan B Entertainment",
+            "Production company": "David Michôd (director/screenplay); Brad Pitt, Anthony Michael Hall, Anthony Hayes, Topher Grace, Will Poulter, Tilda Swinton, Ben Kingsley",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "JUNE",
+            "Title": "2",
+            "Production company": "Wonder Woman",
+            "Cast and crew": "Warner Bros. Pictures / RatPac Entertainment / DC Entertainment / Atlas Entertainment / Cruel and Unusual Films",
+            "Ref.": "Patty Jenkins (director); Allan Heinberg (screenplay); Gal Gadot, Chris Pine, Robin Wright, Danny Huston, David Thewlis, Connie Nielsen, Elena Anaya"
+          },
+          {
+            "Opening": "Captain Underpants: The First Epic Movie",
+            "Title": "20th Century Fox / DreamWorks Animation",
+            "Production company": "David Soren (director); Nicholas Stoller (screenplay); Kevin Hart, Ed Helms, Thomas Middleditch, Nick Kroll",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Dean",
+            "Title": "Lionsgate / CBS Films",
+            "Production company": "Demetri Martin (director/screenplay); Demetri Martin, Kevin Kline, Gillian Jacobs, Rory Scovel, Christine Woods, Ginger Gonzaga, Peter Scolari, Briga Heelan, Reid Scott, Mary Steenburgen",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "9",
+            "Title": "The Mummy",
+            "Production company": "Universal Pictures / K/O Paper Products",
+            "Cast and crew": "Alex Kurtzman (director); David Koepp, Christopher McQuarrie, Dylan Kussman (screenplay); Tom Cruise, Annabelle Wallis, Sofia Boutella, Jake Johnson, Courtney B. Vance, Marwan Kenzari, Russell Crowe",
+            "Ref.": ""
+          },
+          {
+            "Opening": "It Comes at Night",
+            "Title": "A24",
+            "Production company": "Trey Edward Shults (director/screenplay); Joel Edgerton, Christopher Abbott, Carmen Ejogo, Riley Keough, Kelvin Harrison Jr.",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "My Cousin Rachel",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Roger Michell (director/screenplay); Rachel Weisz, Sam Claflin, Iain Glen, Holliday Grainger",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Megan Leavey",
+            "Title": "Bleecker Street",
+            "Production company": "Gabriela Cowperthwaite (director); Pamela Gray, Annie Mumolo, Tim Lovestedt (screenplay); Kate Mara, Ramón Rodríguez, Tom Felton, Bradley Whitford, Will Patton, Sam Keeley, Common, Edie Falco",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Beatriz at Dinner",
+            "Title": "Roadside Attractions",
+            "Production company": "Miguel Arteta (director); Mike White (screenplay); Salma Hayek, John Lithgow, Connie Britton, Jay Duplass, Amy Landecker, Chloë Sevigny, David Warshofsky",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "16",
+            "Title": "Cars 3",
+            "Production company": "Walt Disney Pictures / Pixar Animation Studios",
+            "Cast and crew": "Brian Fee (director); Kiel Murray, Bob Peterson, Mike Rich (screenplay); Owen Wilson, Cristela Alonzo, Chris Cooper, Armie Hammer, Larry the Cable Guy, Bonnie Hunt, Nathan Fillion, Lea DeLaria, Kerry Washington",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Rough Night",
+            "Title": "Columbia Pictures",
+            "Production company": "Lucia Aniello (director/screenplay); Paul W. Downs (screenplay); Scarlett Johansson, Kate McKinnon, Jillian Bell, Ilana Glazer, Zoë Kravitz, Paul W. Downs",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "All Eyez on Me",
+            "Title": "Summit Entertainment / Morgan Creek Productions / Codeblack Films",
+            "Production company": "Benny Boom (director); Jeremy Haft, Eddie Gonzalez, Steven Bagatourian (screenplay); Demetrius Shipp Jr., Kat Graham, Lauren Cohan, Hill Harper, Danai Gurira",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "47 Meters Down",
+            "Title": "Entertainment Studios",
+            "Production company": "Johannes Roberts (director/screenplay); Ernest Riera (screenplay); Claire Holt, Mandy Moore",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Book of Henry",
+            "Title": "Focus Features / Sidney Kimmel Entertainment",
+            "Production company": "Colin Trevorrow (director); Gregg Hurwitz (screenplay); Naomi Watts, Jaeden Lieberher, Jacob Tremblay, Sarah Silverman, Lee Pace, Maddie Ziegler, Tonya Pinkins, Dean Norris",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Once Upon a Time in Venice",
+            "Title": "RLJ Entertainment",
+            "Production company": "Mark Cullen (director/screenplay); Robb Cullen (screenplay); Bruce Willis, Jason Momoa, John Goodman, Thomas Middleditch, Famke Janssen, Adam Goldberg, Jessica Gomes",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "Transformers: The Last Knight",
+            "Production company": "Paramount Pictures",
+            "Cast and crew": "Michael Bay (director); Art Marcum, Matt Holloway, Ken Nolan (screenplay); Mark Wahlberg, Josh Duhamel, Stanley Tucci, Anthony Hopkins",
+            "Ref.": ""
+          },
+          {
+            "Opening": "23",
+            "Title": "The Beguiled",
+            "Production company": "Focus Features",
+            "Cast and crew": "Sofia Coppola (director/screenplay); Colin Farrell, Nicole Kidman, Kirsten Dunst, Elle Fanning",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Big Sick",
+            "Title": "Amazon Studios / Lionsgate",
+            "Production company": "Michael Showalter (director); Emily V. Gordon, Kumail Nanjiani (screenplay); Kumail Nanjiani, Zoe Kazan, Holly Hunter, Ray Romano, Anupam Kher",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Bad Batch",
+            "Title": "Neon",
+            "Production company": "Ana Lily Amirpour (director/screenplay); Suki Waterhouse, Jason Momoa, Giovanni Ribisi, Keanu Reeves",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "Baby Driver",
+            "Production company": "TriStar Pictures / Media Rights Capital / Working Title Films",
+            "Cast and crew": "Edgar Wright (director/screenplay); Ansel Elgort, Kevin Spacey, Lily James, Eiza González, Jon Hamm, Jamie Foxx, Jon Bernthal",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Okja",
+            "Title": "Netflix / Plan B Entertainment",
+            "Production company": "Bong Joon-ho (director/screenplay); Jon Ronson (screenplay); Tilda Swinton, Paul Dano, Ahn Seo-hyun, Byun Hee-bong, Steven Yeun, Lily Collins, Yoon Je-moon, Shirley Henderson, Daniel Henshall, Devon Bostick, Choi Woo-shik, Giancarlo Esposito, Jake Gyllenhaal",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "30",
+            "Title": "Despicable Me 3",
+            "Production company": "Universal Pictures / Illumination",
+            "Cast and crew": "Pierre Coffin, Kyle Balda (directors); Cinco Paul, Ken Daurio (screenplay); Steve Carell, Kristen Wiig, Trey Parker, Miranda Cosgrove, Steve Coogan, Jenny Slate, Dana Gaier, Julie Andrews",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The House",
+            "Title": "Warner Bros. Pictures / New Line Cinema / Village Roadshow Pictures / Gary Sanchez Productions / Good Universe",
+            "Production company": "Andrew J. Cohen (director/screenplay); Brendan O'Brien (screenplay); Will Ferrell, Amy Poehler, Jason Mantzoukas, Nick Kroll, Jeremy Renner",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Little Hours",
+            "Title": "Gunpowder & Sky",
+            "Production company": "Jeff Baena (director/screenplay); Alison Brie, Dave Franco, Kate Micucci, Aubrey Plaza, John C. Reilly, Molly Shannon",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Inconceivable",
+            "Title": "Lionsgate Premiere / Emmett/Furla/Oasis Films",
+            "Production company": "Jonathan Baker (director); Chloe King (screenplay); Gina Gershon, Faye Dunaway, Nicolas Cage, Nicky Whelan",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "2:22",
+            "Title": "Magnet Releasing",
+            "Production company": "Paul Currie (director); Nathan Parker, Todd Stein (screenplay); Michiel Huisman, Teresa Palmer, Sam Reid",
+            "Cast and crew": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 4",
+        "row_count": 54,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "JULY",
+            "Title": "7",
+            "Production company": "A Ghost Story",
+            "Cast and crew": "A24",
+            "Ref.": "David Lowery (director/screenplay); Casey Affleck, Rooney Mara, Will Oldham, Liz Cardenas Franke, Sonia Acevedo, Rob Zabrecky"
+          },
+          {
+            "Opening": "Spider-Man: Homecoming",
+            "Title": "Columbia Pictures / Marvel Studios",
+            "Production company": "Jon Watts (director/screenplay); Jonathan Goldstein, John Francis Daley, Christopher Ford, Chris McKenna, Erik Sommers (screenplay); Tom Holland, Michael Keaton, Jon Favreau, Gwyneth Paltrow, Zendaya, Donald Glover, Jacob Batalon, Laura Harrier, Tony Revolori, Bokeem Woodbine, Tyne Daly, Marisa Tomei, Robert Downey Jr.",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "8",
+            "Title": "Tour de Pharmacy",
+            "Production company": "HBO Films",
+            "Cast and crew": "Jake Szymanski (director); Murray Miller (screenplay); Andy Samberg, Orlando Bloom, Freddie Highmore, Daveed Diggs, John Cena, James Marsden, Will Forte, Maya Rudolph, Jeff Goldblum, Julia Ormond, Danny Glover, Dolph Lundgren, Kevin Bacon, Phylicia Rashad, Adewale Akinnuoye-Agbaje, Nathan Fielder, Chris \"Romanski\" Romano, Eric Nenninger, Eugenia Kuzmina, Liane Balaban, Seth Morris, Rebecca Dayan, Andy Milder, Kevin Clash, Jon Hamm, Edgar Wright, J.J. Abrams, Lance Armstrong, Mike Tyson, Joe Buck, Chris Webber"
+          },
+          {
+            "Opening": "14",
+            "Title": "War for the Planet of the Apes",
+            "Production company": "20th Century Fox / Chernin Entertainment",
+            "Cast and crew": "Matt Reeves (director/screenplay); Mark Bomback (screenplay); Andy Serkis, Woody Harrelson, Steve Zahn",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Wish Upon",
+            "Title": "Broad Green Pictures / Orion Pictures",
+            "Production company": "John Leonetti (director); Barbara Marshall (screenplay); Joey King, Ki Hong Lee, Sydney Park, Elisabeth Röhm, Ryan Phillippe",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "Dunkirk",
+            "Production company": "Warner Bros. Pictures / Syncopy Inc. / RatPac Entertainment",
+            "Cast and crew": "Christopher Nolan (director/screenplay); Fionn Whitehead, Tom Glynn-Carney, Jack Lowden, Harry Styles, Aneurin Barnard, James D'Arcy, Barry Keoghan, Kenneth Branagh, Cillian Murphy, Mark Rylance, Tom Hardy",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Girls Trip",
+            "Title": "Universal Pictures / Perfect World Pictures / Will Packer Productions",
+            "Production company": "Malcolm D. Lee (director); Kenya Barris, Tracy Oliver (screenplay); Regina Hall, Tiffany Haddish, Larenz Tate, Mike Colter, Kate Walsh, Jada Pinkett Smith, Queen Latifah",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "First Kill",
+            "Title": "Lionsgate Premiere / Emmett/Furla/Oasis Films",
+            "Production company": "Steven C. Miller (director); Nick Gordon (screenplay); Hayden Christensen, Bruce Willis, Gethin Anthony, Megan Leonard, Tyler Jon Olson, Shea Buckner, William DeMeo",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "Atomic Blonde",
+            "Production company": "Focus Features",
+            "Cast and crew": "David Leitch (director); Kurt Johnstad (screenplay); Charlize Theron, James McAvoy, John Goodman, Til Schweiger, Eddie Marsan, Sofia Boutella, Toby Jones",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Emoji Movie",
+            "Title": "Columbia Pictures / Sony Pictures Animation",
+            "Production company": "Tony Leondis (director/screenplay); Eric Siegel, Mike White (screenplay); T.J. Miller, James Corden, Anna Faris, Maya Rudolph, Steven Wright, Jennifer Coolidge, Jake T. Austin, Christina Aguilera, Sofía Vergara, Patrick Stewart",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "An Inconvenient Sequel: Truth to Power",
+            "Title": "Paramount Pictures / Participant Media",
+            "Production company": "Bonni Cohen, Jon Shenk (directors); Al Gore (screenplay); Al Gore",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Detroit",
+            "Title": "Annapurna Pictures",
+            "Production company": "Kathryn Bigelow (director); Mark Boal (screenplay); John Boyega, Will Poulter, Algee Smith, Jason Mitchell, John Krasinski, Anthony Mackie",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Brigsby Bear",
+            "Title": "Sony Pictures Classics",
+            "Production company": "Dave McCary (director); Kyle Mooney, Kevin Costello (screenplay); Kyle Mooney, Claire Danes, Mark Hamill, Greg Kinnear, Andy Samberg, Matt Walsh, Michaela Watkins",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Menashe",
+            "Title": "A24",
+            "Production company": "Joshua Z Weinstein (director/screenplay); Alex Lipschultz, Musa Syeed (screenplay); Menashe Lustig, Ruben Niborski, Yoel Weisshaus, Meyer Schwartz",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "AUGUST",
+            "Title": "4",
+            "Production company": "The Dark Tower",
+            "Cast and crew": "Columbia Pictures / Media Rights Capital / Imagine Entertainment / Weed Road Pictures",
+            "Ref.": "Nikolaj Arcel (director/screenplay); Akiva Goldsman, Jeff Pinkner, Anders Thomas Jensen (screenplay); Idris Elba, Matthew McConaughey, Tom Taylor, Fran Kranz, Abbey Lee, Jackie Earle Haley"
+          },
+          {
+            "Opening": "Kidnap",
+            "Title": "Aviron Pictures",
+            "Production company": "Luis Prieto (director); Knate Lee (screenplay); Halle Berry, Sage Correa, Chris McGinn, Lew Temple",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Step",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Amanda Lipitz (director); Blessin Giraldo, Cori Grainger, Tayla Solomon, Gari McIntyre, Paula Dofat",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Wind River",
+            "Title": "The Weinstein Company",
+            "Production company": "Taylor Sheridan (director/screenplay); Jeremy Renner, Elizabeth Olsen",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Armed Response",
+            "Title": "Saban Films / WWE Films",
+            "Production company": "John Stockwell (director); Matt Savelloni (screenplay); Wesley Snipes, Anne Heche, Dave Annable, Seth Rollins, Gene Simmons, Mo Gallini",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "11",
+            "Title": "Annabelle: Creation",
+            "Production company": "Warner Bros. Pictures / New Line Cinema / RatPac Entertainment / Atomic Monster",
+            "Cast and crew": "David F. Sandberg (director); Gary Dauberman (screenplay); Stephanie Sigman, Talitha Bateman, Lulu Wilson, Anthony LaPaglia, Miranda Otto",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Glass Castle",
+            "Title": "Lionsgate",
+            "Production company": "Destin Daniel Cretton (director/screenplay); Andrew Lanham, Marti Noxon (screenplay); Brie Larson, Woody Harrelson, Max Greenfield, Sarah Snook, Naomi Watts",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Nut Job 2: Nutty by Nature",
+            "Title": "Open Road Films / ToonBox Entertainment",
+            "Production company": "Cal Brunker (director/screenplay); Scott Bindley, Bob Barlen (screenplay); Will Arnett, Maya Rudolph, Jackie Chan, Katherine Heigl, Bobby Moynihan, Bobby Cannavale, Isabela Merced, Jeff Dunham, Gabriel Iglesias",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Good Time",
+            "Title": "A24",
+            "Production company": "Safdie brothers (directors); Ronald Bronstein, Josh Safdie (screenplay); Robert Pattinson, Benny Safdie, Buddy Duress, Taliah Lennice Webster, Jennifer Jason Leigh, Barkhad Abdi",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Ingrid Goes West",
+            "Title": "Neon",
+            "Production company": "Matt Spicer (director/screenplay); David Branson Smith (screenplay); Aubrey Plaza, Elizabeth Olsen, Billy Magnussen, Wyatt Russell, Pom Klementieff, O'Shea Jackson Jr.",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Only Living Boy in New York",
+            "Title": "Amazon Studios / Roadside Attractions",
+            "Production company": "Marc Webb (director); Allan Loeb (screenplay); Callum Turner, Kate Beckinsale, Pierce Brosnan, Cynthia Nixon, Jeff Bridges",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "18",
+            "Title": "The Hitman's Bodyguard",
+            "Production company": "Summit Entertainment / Millennium Media",
+            "Cast and crew": "Patrick Hughes (director); Tom O'Connor (screenplay); Ryan Reynolds, Samuel L. Jackson, Gary Oldman, Salma Hayek, Élodie Yung, Joaquim de Almeida, Kirsty Mitchell, Richard E. Grant",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Logan Lucky",
+            "Title": "Bleecker Street / FilmNation Entertainment",
+            "Production company": "Steven Soderbergh (director); Rebecca Blunt (screenplay); Channing Tatum, Adam Driver, Seth MacFarlane, Riley Keough, Katie Holmes, Katherine Waterston, Dwight Yoakam, Sebastian Stan, Brian Gleeson, Jack Quaid, Hilary Swank, Daniel Craig",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Patti Cake$",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Geremy Jasper (director/screenplay); Danielle Macdonald, Bridget Everett, Mamoudou Athie, Cathy Moriarty, McCaul Lombardi",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "Victor Crowley",
+            "Production company": "Dark Sky Films / ArieScope Pictures",
+            "Cast and crew": "Adam Green (director/screenplay); Parry Shen, Laura Ortiz, Dave Sheridan, Krystal Joy Brown, Felissa Rose, Kane Hodder",
+            "Ref.": ""
+          },
+          {
+            "Opening": "25",
+            "Title": "All Saints",
+            "Production company": "Affirm Films / Provident Films",
+            "Cast and crew": "Steve Gomer (director); Steve Armour (screenplay); John Corbett, Cara Buono, Myles Moore, Nelson Lee, Barry Corbin, David Keith, Angela Fox, Chonda Pierce, Gregory Alan Williams",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Served Like a Girl",
+            "Title": "Entertainment Studios",
+            "Production company": "Lysa Heslov (director/screenplay); Tchavdar Georgiev (screenplay)",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Beach Rats",
+            "Title": "Neon",
+            "Production company": "Eliza Hittman (director/screenplay); Harris Dickinson, Madeline Weinstein, Kate Hodge",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Birth of the Dragon",
+            "Title": "OTL Releasing / BH Tilt / WWE Studios",
+            "Production company": "George Nolfi (director); Christopher Wilkinson, Stephen J. Rivele (screenplay); Philip Wan-lung Ng, Xia Yu, Jin Xing, Qu Jingjing, Ron Yuan, Billy Magnussen",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "SEPTEMBER",
+            "Title": "1",
+            "Production company": "Film Stars Don't Die in Liverpool",
+            "Cast and crew": "Sony Pictures Classics",
+            "Ref.": "Paul McGuigan (director) ;Matt Greenhalgh (screenplay); Annette Bening, Jamie Bell, Vanessa Redgrave, Julie Walters, Kenneth Cranham, Stephen Graham, Frances Barber, Leanne Best"
+          },
+          {
+            "Opening": "Tulip Fever",
+            "Title": "The Weinstein Company",
+            "Production company": "Justin Chadwick (director); Deborah Moggach, Tom Stoppard (screenplay); Alicia Vikander, Dane DeHaan, Jack O'Connell, Holliday Grainger, Tom Hollander, Matthew Morrison, Kevin McKidd, Douglas Hodge, Joanna Scanlan, Zach Galifianakis, Judi Dench, Christoph Waltz",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Unlocked",
+            "Title": "Lionsgate Premiere",
+            "Production company": "Michael Apted (director); Peter O'Brien (screenplay); Noomi Rapace, Orlando Bloom, Toni Collette, John Malkovich, Michael Douglas",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Valley of Bones",
+            "Title": "Smith Global Media / Bad Medicine Films",
+            "Production company": "Dan Glaser (director/screenplay); Steven Molony, Richard M. Lewis (screenplay); Jon L. Wanzek (story by); Autumn Reeser, Rhys Coiro, Steven Molony, Alexandra Billings, Bill Smitrovich, Mark Margolis",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "8",
+            "Title": "It",
+            "Production company": "Warner Bros. Pictures / New Line Cinema / RatPac Entertainment / Vertigo Entertainment / Lin Pictures",
+            "Cast and crew": "Andy Muschietti (director); Chase Palmer, Cary Fukunaga, Gary Dauberman (screenplay); Jaeden Lieberher, Bill Skarsgård",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Home Again",
+            "Title": "Open Road Films",
+            "Production company": "Hallie Meyers-Shyer (director/screenplay); Reese Witherspoon, Nat Wolff, Jon Rudnitsky, Pico Alexander, Lake Bell, Reid Scott, Dolly Wells, Michael Sheen, Candice Bergen, Jen Kirkman",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "9/11",
+            "Title": "Atlas Distribution Company",
+            "Production company": "Martin Guigui (director/screenplay); Steven Golebiowski (screenplay); Charlie Sheen, Gina Gershon, Luis Guzmán, Wood Harris, Olga Fonda, Jacqueline Bisset, Whoopi Goldberg",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Good Catholic",
+            "Title": "Broad Green Pictures",
+            "Production company": "Paul Shoulberg (director/screenplay); Zachary Spicer, Wrenn Schmidt, Danny Glover, John C. McGinley",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Fallen",
+            "Title": "Relativity Media / Mayhem Pictures",
+            "Production company": "Scott Hicks (director); Michael Ross, Kathryn Price, Nichole Millard (screenplay); Addison Timlin, Jeremy Irvine, Harrison Gilbertson, Lola Kirke, Sianoa Smit-McPhee, Daisy Head, Hermione Corfield, Malachi Kirby, Chris Ashby, Joely Richardson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "15",
+            "Title": "American Assassin",
+            "Production company": "Lionsgate / CBS Films",
+            "Cast and crew": "Michael Cuesta (director); Stephen Schiff, Michael Finch, Edward Zwick, Marshall Herskovitz (screenplay); Dylan O'Brien, Michael Keaton, Sanaa Lathan, Shiva Negar, David Suchet, Navid Negahban, Scott Adkins, Taylor Kitsch",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Mother!",
+            "Title": "Paramount Pictures",
+            "Production company": "Darren Aronofsky (director/screenplay); Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Brad's Status",
+            "Title": "Amazon Studios",
+            "Production company": "Mike White (director/screenplay); Ben Stiller, Austin Abrams, Jenna Fischer, Luke Wilson, Jemaine Clement, Michael Sheen",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "Kingsman: The Golden Circle",
+            "Production company": "20th Century Fox",
+            "Cast and crew": "Matthew Vaughn (director/screenplay); Jane Goldman (screenplay); Colin Firth, Julianne Moore, Taron Egerton, Mark Strong, Halle Berry, Elton John, Channing Tatum, Jeff Bridges",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Lego Ninjago Movie",
+            "Title": "Warner Bros. Pictures / Warner Animation Group / RatPac-Dune Entertainment / Vertigo Entertainment / Lin Pictures / Lord Miller Productions",
+            "Production company": "Charlie Bean (director); Bob Logan, Paul Fisher (directors/screenplay); William Wheeler, Tom Wheeler, Jared Stern, John Whittington (screenplay); Dave Franco, Michael Peña, Kumail Nanjiani, Abbi Jacobson, Zach Woods, Fred Armisen, Jackie Chan, Justin Theroux, Olivia Munn",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Stronger",
+            "Title": "Lionsgate / Roadside Attractions / Bold Films",
+            "Production company": "David Gordon Green (director); John Pollono (screenplay); Jake Gyllenhaal, Tatiana Maslany, Miranda Richardson, Clancy Brown",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Battle of the Sexes",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Jonathan Dayton, Valerie Faris (directors); Simon Beaufoy (screenplay); Emma Stone, Steve Carell, Andrea Riseborough, Sarah Silverman, Bill Pullman, Alan Cumming, Eric Christian Olsen, Elisabeth Shue",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Woodshock",
+            "Title": "A24",
+            "Production company": "Kate and Laura Mulleavy (directors/screenplay); Kirsten Dunst, Joe Cole, Pilou Asbæk",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "26",
+            "Title": "Jeepers Creepers 3",
+            "Production company": "American Zoetrope / Myriad Pictures",
+            "Cast and crew": "Victor Salva (director/screenplay); Stan Shaw, Meg Foster, Gabrielle Haugh, Jonathan Breck, Gina Philips",
+            "Ref.": ""
+          },
+          {
+            "Opening": "29",
+            "Title": "American Made",
+            "Production company": "Universal Pictures / Cross Creek Pictures / Imagine Entertainment",
+            "Cast and crew": "Doug Liman (director); Gary Spinelli (screenplay); Tom Cruise, Domhnall Gleeson, Sarah Wright, Jesse Plemons, Caleb Landry Jones",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Flatliners",
+            "Title": "Columbia Pictures / Cross Creek Pictures",
+            "Production company": "Niels Arden Oplev (director); Ben Ripley (screenplay); Elliot Page, Diego Luna, Nina Dobrev, James Norton, Kiersey Clemons, Kiefer Sutherland",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Mark Felt: The Man Who Brought Down the White House",
+            "Title": "Sony Pictures Classics / Mandalay Pictures",
+            "Production company": "Peter Landesman (director/screenplay); Liam Neeson, Diane Lane, Marton Csokas, Ike Barinholtz, Tony Goldwyn, Tom Sizemore, Bruce Greenwood, Michael C. Hall, Brian d'Arcy James, Josh Lucas, Eddie Marsan, Wendi McLendon-Covey, Maika Monroe",
+            "Cast and crew": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 5",
+        "row_count": 62,
+        "columns": [
+          "Opening",
+          "Title",
+          "Production company",
+          "Cast and crew",
+          "Ref."
+        ],
+        "data": [
+          {
+            "Opening": "OCTOBER",
+            "Title": "6",
+            "Production company": "Blade Runner 2049",
+            "Cast and crew": "Warner Bros. Pictures / Alcon Entertainment / Columbia Pictures / Scott Free Productions",
+            "Ref.": "Denis Villeneuve (director); Hampton Fancher, Michael Green (screenplay); Ryan Gosling, Harrison Ford, Ana de Armas, Sylvia Hoeks, Robin Wright, Mackenzie Davis, Carla Juri, Lennie James, Dave Bautista, Jared Leto"
+          },
+          {
+            "Opening": "The Mountain Between Us",
+            "Title": "20th Century Fox / Chernin Entertainment",
+            "Production company": "Hany Abu-Assad (director); Chris Weitz, J. Mills Goodloe (screenplay); Idris Elba, Kate Winslet, Dermot Mulroney, Beau Bridges",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "My Little Pony: The Movie",
+            "Title": "Lionsgate / Hasbro Studios",
+            "Production company": "Jayson Thiessen (director); Meghan McCarthy, Rita Hsiao, Michael Vogel (screenplay); Uzo Aduba, Ashleigh Ball, Emily Blunt, Kristin Chenoweth, Taye Diggs, Andrea Libman, Michael Peña, Zoe Saldaña, Liev Schreiber, Sia, Tabitha St. Germain, Tara Strong, Cathy Weseluck",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Florida Project",
+            "Title": "A24",
+            "Production company": "Sean Baker (director/screenplay); Chris Bergoch (screenplay); Willem Dafoe, Brooklynn Prince, Bria Vinaite, Valeria Cotto, Christopher Rivera, Caleb Landry Jones",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Brawl in Cell Block 99",
+            "Title": "RLJE Entertainment",
+            "Production company": "S. Craig Zahler (director/screenplay); Vince Vaughn, Jennifer Carpenter, Don Johnson, Udo Kier, Marc Blucas, Tom Guiry",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "13",
+            "Title": "Happy Death Day",
+            "Production company": "Universal Pictures / Blumhouse Productions",
+            "Cast and crew": "Christopher Landon (director); Scott Lobdell (screenplay); Jessica Rothe, Israel Broussard",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Marshall",
+            "Title": "Open Road Films",
+            "Production company": "Reginald Hudlin (director); Michael Koskoff, Jacob Koskoff (screenplay); Chadwick Boseman, Josh Gad, Kate Hudson, Dan Stevens, Sterling K. Brown, James Cromwell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Breathe",
+            "Title": "Bleecker Street / Participant Media / The Imaginarium Studios",
+            "Production company": "Andy Serkis (director); William Nicholson (screenplay); Andrew Garfield, Claire Foy, Tom Hollander, Hugh Bonneville, Dean-Charles Chapman, Ed Speleers",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Carving a Life",
+            "Title": "Indie Rights",
+            "Production company": "Terry Ross (director); Lisa Bruhn (screenplay); Tyler Bruhn, Karenssa LeGear, Aaron Landon Bornstein, Lisa Winans, Sandi Todorovic, Jay Jee, Laura Bohlin, Navid Negahban, Tiffany Espensen",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Professor Marston and the Wonder Women",
+            "Title": "Annapurna Pictures",
+            "Production company": "Angela Robinson (director/screenplay); Luke Evans, Rebecca Hall, Bella Heathcote, JJ Feild, Oliver Platt, Connie Britton",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Blood Money",
+            "Title": "Saban Films",
+            "Production company": "Lucky McKee (director); Jared Butler, Lars Norberg (screenplay); John Cusack, Ellar Coltrane, Willa Fitzgerald, Jacob Artist",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "20",
+            "Title": "Geostorm",
+            "Production company": "Warner Bros. Pictures / Skydance Media / RatPac Entertainment",
+            "Cast and crew": "Dean Devlin (director/screenplay); Paul Guyot (screenplay); Gerard Butler, Jim Sturgess, Abbie Cornish, Alexandra Maria Lara, Daniel Wu, Eugenio Derbez, Ed Harris, Andy García",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Only the Brave",
+            "Title": "Columbia Pictures",
+            "Production company": "Joseph Kosinski (director); Ken Nolan, Eric Warren Singer (screenplay); Josh Brolin, Miles Teller, Jeff Bridges, James Badge Dale, Taylor Kitsch, Jennifer Connelly",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Snowman",
+            "Title": "Universal Pictures / Perfect World Pictures / Working Title Films",
+            "Production company": "Tomas Alfredson (director); Peter Straughan, Hossein Amini, Søren Sveistrup (screenplay); Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Val Kilmer, J. K. Simmons",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Boo 2! A Madea Halloween",
+            "Title": "Lionsgate / Tyler Perry Studios",
+            "Production company": "Tyler Perry (director/screenplay); Tyler Perry, Cassi Davis, Patrice Lovely, Yousef Erakat, Diamond White, Lexy Panterra, Andre Hall, Brock O'Hurn, Tito Ortiz",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Same Kind of Different as Me",
+            "Title": "Paramount Pictures / Pure Flix Entertainment",
+            "Production company": "Michael Carney (director/screenplay); Ron Hall, Alexander Foard (screenplay); Greg Kinnear, Renée Zellweger, Djimon Hounsou, Jon Voight",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Leatherface",
+            "Title": "Lionsgate / Millennium Films / DirecTV",
+            "Production company": "Julien Maury, Alexandre Bustillo (directors); Seth M. Sherwood (screenplay); Stephen Dorff, Lili Taylor",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Wonderstruck",
+            "Title": "Amazon Studios / Roadside Attractions",
+            "Production company": "Todd Haynes (director); Brian Selznick (screenplay); Oakes Fegley, Julianne Moore, Michelle Williams, Millicent Simmonds",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "21",
+            "Title": "The Playground",
+            "Production company": "SplitWorld Pictures / Indie Rights",
+            "Cast and crew": "Edreace Purmul (director/screenplay); Ramona Frye, Dean Mounir (screenplay); Myles Cranford, Merrick McCartha, Shane P. Allen, Christopher Salazar, Ghadir Mounib, Raye Richards, Daniel Armand, Lawrence R. Kivett, Kysha Hobbs, Evan Henderson, Jennifer Paredes",
+            "Ref.": ""
+          },
+          {
+            "Opening": "27",
+            "Title": "Thank You for Your Service",
+            "Production company": "Universal Pictures / DreamWorks Pictures / Reliance Entertainment",
+            "Cast and crew": "Jason Hall (director/screenplay); Miles Teller, Haley Bennett, Joe Cole, Amy Schumer, Beulah Koale, Scott Haze",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Suburbicon",
+            "Title": "Paramount Pictures",
+            "Production company": "George Clooney (director/screenplay); Coen brothers, Grant Heslov (screenplay); Matt Damon, Julianne Moore, Noah Jupe, Oscar Isaac",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Jigsaw",
+            "Title": "Lionsgate / Twisted Pictures",
+            "Production company": "The Spierig Brothers (directors); Josh Stolberg, Pete Goldfinger (screenplay); Matt Passmore, Callum Keith Rennie, Clé Bennett, Hannah Emily Anderson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Novitiate",
+            "Title": "Sony Pictures Classics",
+            "Production company": "Maggie Betts (director/screenplay); Margaret Qualley, Julianne Nicholson, Dianna Agron, Morgan Saylor, Maddie Hasson, Liana Liberato, Melissa Leo",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "All I See Is You",
+            "Title": "Open Road Films / SC International Pictures",
+            "Production company": "Marc Forster (director/screenplay); Sean Conway (screenplay); Blake Lively, Jason Clarke, Ahna O'Reilly, Yvonne Strahovski, Wes Chatham, Danny Huston",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "28",
+            "Title": "Amityville: The Awakening",
+            "Production company": "Dimension Films / Blumhouse Productions",
+            "Cast and crew": "Franck Khalfoun (director/screenplay); Jennifer Jason Leigh, Bella Thorne, Cameron Monaghan, Mckenna Grace, Thomas Mann, Taylor Spreitler, Jennifer Morrison, Kurtwood Smith",
+            "Ref.": ""
+          },
+          {
+            "Opening": "NOVEMBER",
+            "Title": "1",
+            "Production company": "A Bad Moms Christmas",
+            "Cast and crew": "STX Entertainment / Huayi Brothers Pictures",
+            "Ref.": "Scott Moore, Jon Lucas (directors/screenplay); Mila Kunis, Kristen Bell, Kathryn Hahn, Cheryl Hines, Christine Baranski, Susan Sarandon"
+          },
+          {
+            "Opening": "3",
+            "Title": "Thor: Ragnarok",
+            "Production company": "Marvel Studios",
+            "Cast and crew": "Taika Waititi (director); Eric Pearson, Craig Kyle, Christopher Yost (screenplay); Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum, Tessa Thompson, Karl Urban, Mark Ruffalo, Anthony Hopkins",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Last Flag Flying",
+            "Title": "Amazon Studios / Lionsgate",
+            "Production company": "Richard Linklater (director/screenplay); Darryl Ponicsan (screenplay); Steve Carell, Bryan Cranston, Laurence Fishburne, Yul Vazquez, Cicely Tyson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Lady Bird",
+            "Title": "A24",
+            "Production company": "Greta Gerwig (director/screenplay); Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges, Timothée Chalamet, Beanie Feldstein, Stephen McKinley Henderson, Lois Smith",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "10",
+            "Title": "Murder on the Orient Express",
+            "Production company": "20th Century Fox / Genre Films / Scott Free Productions",
+            "Cast and crew": "Kenneth Branagh (director); Michael Green (screenplay); Tom Bateman, Kenneth Branagh, Penélope Cruz, Willem Dafoe, Judi Dench, Johnny Depp, Josh Gad, Leslie Odom Jr., Michelle Pfeiffer, Daisy Ridley",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Daddy's Home 2",
+            "Title": "Paramount Pictures / Gary Sanchez Productions",
+            "Production company": "Sean Anders (director/screenplay), John Morris (screenplay); Will Ferrell, Mark Wahlberg, Linda Cardellini, John Cena, John Lithgow, Mel Gibson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "LBJ",
+            "Title": "Electric Entertainment",
+            "Production company": "Rob Reiner (director); Joey Hartstone (screenplay); Woody Harrelson, Michael Stahl-David, Richard Jenkins, Bill Pullman, Jeffrey Donovan, Jennifer Jason Leigh",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Three Billboards Outside Ebbing, Missouri",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Martin McDonagh (director/screenplay); Frances McDormand, Woody Harrelson, Sam Rockwell, John Hawkes, Peter Dinklage",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Mayhem",
+            "Title": "RLJE Films",
+            "Production company": "Joe Lynch (director); Matias Caruso (screenplay); Steven Yeun, Samara Weaving, Steven Brand, Caroline Chikezie, Kerry Fox, Dallas Roberts",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "17",
+            "Title": "Justice League",
+            "Production company": "Warner Bros. Pictures / RatPac Entertainment / DC Entertainment / Atlas Entertainment / Cruel and Unusual Films",
+            "Cast and crew": "Zack Snyder (director); Chris Terrio, Joss Whedon (screenplay); Ben Affleck, Henry Cavill, Amy Adams, Gal Gadot, Ezra Miller, Jason Momoa, Ray Fisher, Jeremy Irons, Diane Lane, Connie Nielsen, J. K. Simmons",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Star",
+            "Title": "Sony Pictures Animation / Walden Media",
+            "Production company": "Timothy Reckart (director); Carlos Kotkin (screenplay); Steven Yeun, Gina Rodriguez, Zachary Levi, Keegan-Michael Key, Kelly Clarkson, Patricia Heaton, Kristin Chenoweth, Tracy Morgan, Tyler Perry, Oprah Winfrey",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Wonder",
+            "Title": "Lionsgate / Participant Media / Walden Media",
+            "Production company": "Stephen Chbosky (director/screenplay); Steven Conrad, Jack Thorne (screenplay); Julia Roberts, Owen Wilson, Jacob Tremblay, Mandy Patinkin, Daveed Diggs",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Cook Off!",
+            "Title": "Lionsgate Premiere",
+            "Production company": "Cathryn Michon (director/screenplay); Guy Shalem (director); Wendi McLendon-Covey, W. Bruce Cameron (screenplay); Cathryn Michon, Wendi McLendon-Covey, Melissa McCarthy, Ben Falcone, Gary Anthony Williams, Niecy Nash, Jack Plotnick, Diedrich Bader, Phil LaMarr, Jordan Black, Romy Rosemont, Roy Jenkins, Cristine Rose, Jennifer Elise Cox, Markie Post, Marcia Wallace, Gavin MacLeod, Cedric Yarbrough, Stephen Root, Louie Anderson",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Mr. Roosevelt",
+            "Title": "Paladin",
+            "Production company": "Noël Wells (director/screenplay); Noël Wells, Nick Thune, Britt Lower, Daniella Pineda, Andre Hyland, Doug Benson, Armen Weitzman, Sergio Cilli",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Roman J. Israel, Esq.",
+            "Title": "Columbia Pictures / Cross Creek Pictures / Image Nation / Escape Artists",
+            "Production company": "Dan Gilroy (director/screenplay), Denzel Washington, Colin Farrell",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "Coco",
+            "Production company": "Walt Disney Pictures / Pixar Animation Studios",
+            "Cast and crew": "Lee Unkrich (director); Adrian Molina, Matthew Aldrich (screenplay); Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía, Edward James Olmos",
+            "Ref.": ""
+          },
+          {
+            "Opening": "24",
+            "Title": "Call Me by Your Name",
+            "Production company": "Sony Pictures Classics",
+            "Cast and crew": "Luca Guadagnino (director); James Ivory (screenplay); Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel, Victoire Du Bois",
+            "Ref.": ""
+          },
+          {
+            "Opening": "DECEMBER",
+            "Title": "1",
+            "Production company": "The Disaster Artist",
+            "Cast and crew": "A24 / Good Universe",
+            "Ref.": "James Franco (director); Scott Neustadter, Michael H. Weber (screenplay); James Franco, Dave Franco, Seth Rogen, Alison Brie, Ari Graynor, Josh Hutcherson, Jacki Weaver"
+          },
+          {
+            "Opening": "The Shape of Water",
+            "Title": "Fox Searchlight Pictures",
+            "Production company": "Guillermo del Toro (director/screenplay); Vanessa Taylor (screenplay); Sally Hawkins, Michael Shannon, Richard Jenkins, Doug Jones, Michael Stuhlbarg, Octavia Spencer",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Wonder Wheel",
+            "Title": "Amazon Studios",
+            "Production company": "Woody Allen (director/screenplay); Jim Belushi, Juno Temple, Justin Timberlake, Kate Winslet",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "8",
+            "Title": "I, Tonya",
+            "Production company": "Neon",
+            "Cast and crew": "Craig Gillespie (director); Steven Rogers (screenplay); Margot Robbie, Sebastian Stan, Julianne Nicholson, Bobby Cannavale, Allison Janney",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Just Getting Started",
+            "Title": "Broad Green Pictures",
+            "Production company": "Ron Shelton (director/screenplay); Morgan Freeman, Tommy Lee Jones, Rene Russo, Joe Pantoliano, Glenne Headly, Sheryl Lee Ralph, Elizabeth Ashley, George Wallace, Graham Beckel, Jane Seymour, Johnny Mathis",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "15",
+            "Title": "Star Wars: The Last Jedi",
+            "Production company": "Lucasfilm Ltd.",
+            "Cast and crew": "Rian Johnson (director/screenplay); Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels, Gwendoline Christie, Kelly Marie Tran, Laura Dern, Benicio del Toro",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Ferdinand",
+            "Title": "20th Century Fox / Blue Sky Studios",
+            "Production company": "Carlos Saldanha (director); Robert L. Baird, Tim Federle, Brad Copeland (screenplay); John Cena, Kate McKinnon",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Beyond Skyline",
+            "Title": "Vertical Entertainment",
+            "Production company": "Liam O'Donnell (director/screenplay); Frank Grillo, Bojana Novakovic, Jonny Weston, Callan Mulvey, Iko Uwais, Pamelyn Chee, Yayan Ruhian, Betty Gabriel, Antonio Fargas",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "20",
+            "Title": "Jumanji: Welcome to the Jungle",
+            "Production company": "Columbia Pictures / Seven Bucks Productions",
+            "Cast and crew": "Jake Kasdan (director); Chris McKenna, Erik Sommers, Scott Rosenberg, Jeff Pinkner (screenplay); Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Nick Jonas, Bobby Cannavale",
+            "Ref.": ""
+          },
+          {
+            "Opening": "The Greatest Showman",
+            "Title": "20th Century Fox / Chernin Entertainment",
+            "Production company": "Michael Gracey (director); Jenny Bicks, Bill Condon (screenplay); Hugh Jackman, Zac Efron, Michelle Williams, Rebecca Ferguson, Zendaya",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "22",
+            "Title": "Pitch Perfect 3",
+            "Production company": "Universal Pictures",
+            "Cast and crew": "Trish Sie (director); Kay Cannon, Mike White (screenplay); Anna Kendrick, Rebel Wilson, Hailee Steinfeld, Brittany Snow, Anna Camp, Hana Mae Lee, Alexis Knapp, John Michael Higgins, Elizabeth Banks",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Downsizing",
+            "Title": "Paramount Pictures",
+            "Production company": "Alexander Payne (director/screenplay); Jim Taylor (screenplay); Matt Damon, Christoph Waltz, Hong Chau, Kristen Wiig",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Father Figures",
+            "Title": "Warner Bros. Pictures",
+            "Production company": "Lawrence Sher (director); Justin Malen (screenplay); Owen Wilson, Ed Helms, J. K. Simmons, Terry Bradshaw, Ving Rhames, Harry Shearer, June Squibb, Christopher Walken, Glenn Close",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "The Post",
+            "Title": "20th Century Fox / DreamWorks Pictures / Amblin Entertainment",
+            "Production company": "Steven Spielberg (director); Josh Singer, Liz Hannah (screenplay); Meryl Streep, Tom Hanks, Sarah Paulson, Bob Odenkirk, Tracy Letts, Bradley Whitford, Bruce Greenwood, Matthew Rhys",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Bright",
+            "Title": "Netflix",
+            "Production company": "David Ayer (director); Max Landis (screenplay); Will Smith, Joel Edgerton, Noomi Rapace, Lucy Fry, Édgar Ramírez, Ike Barinholtz",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Crooked House",
+            "Title": "Vertical Entertainment / Sony Pictures",
+            "Production company": "Gilles Paquet-Brenner (director/screenplay); Julian Fellowes, Tim Rose Price (screenplay); Glenn Close, Terence Stamp, Max Irons, Stefanie Martini, Julian Sands, Gillian Anderson, Christina Hendricks",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Hostiles",
+            "Title": "Entertainment Studios",
+            "Production company": "Scott Cooper (director/screenplay); Christian Bale, Rosamund Pike, Wes Studi, Jesse Plemons, Adam Beach, Rory Cochrane, Ben Foster",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "25",
+            "Title": "All the Money in the World",
+            "Production company": "TriStar Pictures / Scott Free Productions",
+            "Cast and crew": "Ridley Scott (director); David Scarpa (screenplay); Michelle Williams, Christopher Plummer, Mark Wahlberg, Romain Duris",
+            "Ref.": ""
+          },
+          {
+            "Opening": "Molly's Game",
+            "Title": "STX Entertainment",
+            "Production company": "Aaron Sorkin (director/screenplay); Jessica Chastain, Idris Elba, Kevin Costner, Michael Cera, Jeremy Strong, Chris O'Dowd, Bill Camp",
+            "Cast and crew": ""
+          },
+          {
+            "Opening": "Phantom Thread",
+            "Title": "Focus Features / Annapurna Pictures",
+            "Production company": "Paul Thomas Anderson (director/screenplay); Daniel Day-Lewis, Lesley Manville, Vicky Krieps",
+            "Cast and crew": ""
+          }
+        ]
+      }
+    ],
+    "search_snippet": "This is a list of American films released in 2017.",
+    "search_title": "List of American films of 2017 - Wikipedia",
+    "batch_number": 3,
+    "item_number": 26
+  },
+  {
+    "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2017",
+    "title": "List of American films of 2017 | Moviepedia | Fandom",
+    "meta_description": "| heading13 = 2020sA list of American films released in 2017. The Marvel Cinematic Universe became the first film franchise to gross more than $13 billion with the release of Thor: Ragnarok. The Despicable Me franchise became the highest-grossing animated franchise ever ($3.6 billion...",
+    "headings": {
+      "h1": [
+        "List of American films of 2017"
+      ],
+      "h2": [
+        "Contents",
+        "Box office records[]",
+        "January–March[]",
+        "April–June[]",
+        "July–September[]",
+        "October–December[]",
+        "External links[]"
+      ],
+      "h3": [
+        "Explore properties",
+        "Follow Us",
+        "Overview",
+        "Community",
+        "Advertise",
+        "Fandom Apps"
+      ]
+    },
+    "links": [
+      {
+        "text": "feedback",
+        "href": "https://movies.fandom.com/wiki/Forum:Feedback"
+      },
+      {
+        "text": "Uberfuzzy",
+        "href": "https://movies.fandom.com/wiki/User:Uberfuzzy"
+      },
+      {
+        "text": "Sign In",
+        "href": "https://auth.fandom.com/signin?source=mw&redirect=https%3A%2F%2Fmovies.fandom.com%2Fwiki%2FList_of_American_films_of_2017"
+      },
+      {
+        "text": "Register",
+        "href": "https://auth.fandom.com/register?source=mw&redirect=https%3A%2F%2Fmovies.fandom.com%2Fwiki%2FList_of_American_films_of_2017"
+      },
+      {
+        "text": "Moviepedia",
+        "href": "https://movies.fandom.com"
+      },
+      {
+        "text": "Main Page",
+        "href": "https://movies.fandom.com/wiki/Moviepedia"
+      },
+      {
+        "text": "Discuss",
+        "href": "https://movies.fandom.com/f"
+      },
+      {
+        "text": "All Pages",
+        "href": "https://movies.fandom.com/wiki/Special:AllPages"
+      },
+      {
+        "text": "Community",
+        "href": "https://movies.fandom.com/wiki/Special:Community"
+      },
+      {
+        "text": "Interactive Maps",
+        "href": "https://movies.fandom.com/wiki/Special:AllMaps"
+      }
+    ],
+    "paragraphs": [
+      "We have finally fixed the feedback feature that Uberfuzzy has destroyed. Don't worry, you can still send user reports to the admins.",
+      "| heading13 = 2020sA list of American films released in 2017."
+    ],
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2017",
+        "name": "List of American films of 2017",
+        "headline": "List of American films of 2017",
+        "mainEntity": {
+          "@type": "Thing",
+          "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2017",
+          "name": "List of American films of 2017",
+          "image": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105"
+        },
+        "about": {
+          "@type": "Thing",
+          "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2017",
+          "name": "List of American films of 2017",
+          "image": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105"
+        },
+        "author": {
+          "@type": "Organization",
+          "url": "https://movies.fandom.com/wiki/List_of_American_films_of_2017?action=credits",
+          "name": "Contributors to Moviepedia"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Fandom, Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720"
+          }
+        },
+        "abstract": "| heading13 = 2020sA list of American films released in 2017. The Marvel Cinematic Universe became the first film franchise to gross more than $13 billion with the release of Thor: Ragnarok. The Despicable Me franchise became the highest-grossing animated franchise ever ($3.6 billion), surpassing the Shrek franchise. Beauty and the Beast broke Batman v Superman: Dawn of Justice's records ($166 million) for the weekend debut in March ($174.8 million). The Fate of the Furious broke Jurassic...",
+        "image": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105",
+        "thumbnailUrl": "https://static.wikia.nocookie.net/filmguide/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20230325223105"
+      }
+    ],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://static.wikia.nocookie.net/filmguide/images/e/e6/Site-logo.png/revision/latest?cb=20250903062139",
+        "alt": "Moviepedia"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/filmguide/images/1/10/United_States_film.svg/revision/latest/scale-to-width-down/80?cb=20121217161402",
+        "alt": ""
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/6a181c72-e8bf-419b-b4db-18fd56a0eb60",
+        "alt": "Fandom logo"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/6c42ce6a-b205-41f5-82c6-5011721932e7",
+        "alt": "Fandom App logo"
+      },
+      {
+        "src": "https://static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca",
+        "alt": "Store icon"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "| heading13 = 2020sA list of American films released in 2017. The Marvel Cinematic Universe became the first film franchise to gross more than $13 billion with the release of Thor: Ragnarok. The Despicable Me franchise became the highest-grossing animated franchise ever ($3.6 billion), surpassing the Shrek franchise. Beauty and the Beast broke Batman v Superman: Dawn of Justice's records ($166 ...",
+    "search_title": "List of American films of 2017 | Moviepedia | Fandom",
+    "batch_number": 3,
+    "item_number": 27
+  },
+  {
+    "url": "https://www.wikiwand.com/en/articles/List_of_American_films_of_2017",
+    "title": "List of American films of 2017 - Wikiwand",
+    "meta_description": "This is a list of American films released in 2017.",
+    "headings": {
+      "h1": [
+        "List of American films of 2017"
+      ],
+      "h2": [
+        "Box office",
+        "January–March",
+        "April–June",
+        "July–September",
+        "October–December",
+        "See also",
+        "References",
+        "External links"
+      ],
+      "h3": [
+        "Wikiwand - on"
+      ]
+    },
+    "links": [
+      {
+        "text": "Sign in",
+        "href": "https://www.wikiwand.com/auth/signin"
+      },
+      {
+        "text": "2017",
+        "href": "https://www.wikiwand.com/en/articles/2017_in_film"
+      },
+      {
+        "text": "gross revenue",
+        "href": "https://www.wikiwand.com/en/articles/Gross_revenue"
+      },
+      {
+        "text": "[1]",
+        "href": "https://www.wikiwand.com/en/articles/List_of_American_films_of_2017#cite_note-1"
+      },
+      {
+        "text": "Star Wars: The Last Jedi",
+        "href": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi?oldformat=true"
+      },
+      {
+        "text": "Disney",
+        "href": "https://www.wikiwand.com/en/articles/Walt_Disney_Studios_(division)"
+      },
+      {
+        "text": "Beauty and the Beast",
+        "href": "https://www.wikiwand.com/en/articles/Beauty_and_the_Beast_(2017_film)"
+      },
+      {
+        "text": "Wonder Woman",
+        "href": "https://www.wikiwand.com/en/articles/Wonder_Woman_(2017_film)"
+      },
+      {
+        "text": "Warner Bros.",
+        "href": "https://www.wikiwand.com/en/articles/Warner_Bros."
+      },
+      {
+        "text": "Jumanji: Welcome to the Jungle",
+        "href": "https://en.wikipedia.org/wiki/Jumanji:_Welcome_to_the_Jungle?oldformat=true"
+      }
+    ],
+    "paragraphs": [
+      "From Wikipedia, the free encyclopedia",
+      "This is a list of American films released in 2017.",
+      "The highest-grossing American films released in 2017, by domestic box office gross revenue, are as follows:[1]",
+      "Seamless Wikipedia browsing. On steroids.",
+      "Wikiwand ❤️ Wikipedia"
+    ],
+    "json_ld": [],
+    "product_info": {
+      "color": "#fff",
+      "size": ""
+    },
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "This is a list of American films released in 2017.",
+    "search_title": "List of American films of 2017 - Wikiwand",
+    "batch_number": 3,
+    "item_number": 28
+  },
+  {
+    "url": "https://www.imdb.com/list/ls566161741/",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",
+    "title": "Error loading page",
+    "meta_description": "",
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "links": [],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "All films are released in 2017 in United States.",
+    "search_title": "List of films released in 2017 in USA - IMDb",
+    "batch_number": 3,
+    "item_number": 29
+  },
+  {
+    "url": "https://www.themoviedb.org/list/81788-american-films-released-in-2017",
+    "title": "American Films Released in 2017 — The Movie Database (TMDB)",
+    "meta_description": "A list of American films released in 2017",
+    "headings": {
+      "h1": [],
+      "h2": [
+        "American Films Released in 2017"
+      ],
+      "h3": [
+        "24",
+        "62%",
+        "42h 19m",
+        "$3.5B",
+        "The Basics",
+        "Get Involved",
+        "Community",
+        "Legal",
+        "Global",
+        "On media pages",
+        "On TV season pages",
+        "On TV episode pages",
+        "On all image pages",
+        "On all edit pages",
+        "On discussion pages",
+        "Settings"
+      ]
+    },
+    "links": [
+      {
+        "text": "Movies",
+        "href": "https://www.themoviedb.org/movie"
+      },
+      {
+        "text": "Popular",
+        "href": "https://www.themoviedb.org/movie"
+      },
+      {
+        "text": "Now Playing",
+        "href": "https://www.themoviedb.org/movie/now-playing"
+      },
+      {
+        "text": "Upcoming",
+        "href": "https://www.themoviedb.org/movie/upcoming"
+      },
+      {
+        "text": "Top Rated",
+        "href": "https://www.themoviedb.org/movie/top-rated"
+      },
+      {
+        "text": "TV Shows",
+        "href": "https://www.themoviedb.org/tv"
+      },
+      {
+        "text": "Popular",
+        "href": "https://www.themoviedb.org/tv"
+      },
+      {
+        "text": "Airing Today",
+        "href": "https://www.themoviedb.org/tv/airing-today"
+      },
+      {
+        "text": "On TV",
+        "href": "https://www.themoviedb.org/tv/on-the-air"
+      },
+      {
+        "text": "Top Rated",
+        "href": "https://www.themoviedb.org/tv/top-rated"
+      }
+    ],
+    "paragraphs": [
+      "A list of American films released in 2017",
+      "Can't find a movie or TV show? Login to create it.",
+      "Want to rate or add this item to a list?",
+      "Sign up and join the community"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "The Movie Database",
+        "alternateName": "TMDB",
+        "url": "https://www.themoviedb.org"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.themoviedb.org/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.themoviedb.org/search?query={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ],
+    "product_info": {
+      "color": "#032541"
+    },
+    "images": [
+      {
+        "src": "https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg",
+        "alt": "The Movie Database (TMDB)"
+      },
+      {
+        "src": "https://media.themoviedb.org/t/p/w1920_and_h318_multi_faces_filter(moderate,nudity,92)/zpq404Sk7qQ7N4x3xOeNgp74GtU.jpg",
+        "alt": "American Films Released in 2017"
+      },
+      {
+        "src": "https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg",
+        "alt": "The Movie Database (TMDB)"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "A list of American films released in 2017A list of American films released in 2017",
+    "search_title": "American Films Released in 2017 - The Movie Database (TMDB)",
+    "batch_number": 3,
+    "item_number": 30
+  }
+]

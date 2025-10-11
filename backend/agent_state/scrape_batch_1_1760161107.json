@@ -1,0 +1,4319 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population",
+    "title": "List of cities in India by population - Wikipedia",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "List of cities in India by population"
+      ],
+      "h2": [
+        "Contents",
+        "Map",
+        "List",
+        "See also",
+        "Notes",
+        "References",
+        "External links"
+      ],
+      "h3": [
+        "List of cities with population above 1,000,000",
+        "List of cities with population from 100,000 to 1,000,000"
+      ]
+    },
+    "links": [
+      {
+        "text": "Main page",
+        "href": "https://en.wikipedia.org/wiki/Main_Page"
+      },
+      {
+        "text": "Contents",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contents"
+      },
+      {
+        "text": "Current events",
+        "href": "https://en.wikipedia.org/wiki/Portal:Current_events"
+      },
+      {
+        "text": "Random article",
+        "href": "https://en.wikipedia.org/wiki/Special:Random"
+      },
+      {
+        "text": "About Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:About"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us"
+      },
+      {
+        "text": "Help",
+        "href": "https://en.wikipedia.org/wiki/Help:Contents"
+      },
+      {
+        "text": "Learn to edit",
+        "href": "https://en.wikipedia.org/wiki/Help:Introduction"
+      },
+      {
+        "text": "Community portal",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal"
+      },
+      {
+        "text": "Recent changes",
+        "href": "https://en.wikipedia.org/wiki/Special:RecentChanges"
+      }
+    ],
+    "paragraphs": [
+      "This is a list of the most populous cities in India. Cities are a type of sub-administrative unit and are defined by the Ministry of Home Affairs. In some cases, cities are bifurcated into municipalities, which can lead to cities being included within other cities. This list is based on the Census o",
+      "The list includes the cities and not urban agglomerations.",
+      "The cities listed in bold are the capitals of the respective state or union territory and New Delhi, the capital of India."
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": "List of cities in India by population",
+        "url": "https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population",
+        "sameAs": "http://www.wikidata.org/entity/Q750390",
+        "mainEntity": "http://www.wikidata.org/entity/Q750390",
+        "author": {
+          "@type": "Organization",
+          "name": "Contributors to Wikimedia projects"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Wikimedia Foundation, Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+          }
+        },
+        "datePublished": "2006-02-10T02:21:09Z",
+        "dateModified": "2025-09-30T11:04:32Z",
+        "headline": "Wikimedia list article"
+      }
+    ],
+    "product_info": {
+      "size": "ArticleTalk\n\n\n\n\n\nEnglish\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReadView sourceView history\n\n\n\n\n\n\n\nTools\n\n\n\n\n\nTools\nmove t"
+    },
+    "images": [
+      {
+        "src": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+        "alt": ""
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+        "alt": "Wikipedia"
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+        "alt": "The Free Encyclopedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Extended-protection-shackle.svg/20px-Extended-protection-shackle.svg.png",
+        "alt": "Extended-protected article"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/500px-India_location_map.svg.png",
+        "alt": "List of cities in India by population is located in India"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "wikipedia_tables": [
+      {
+        "table_title": "Table 1",
+        "row_count": 46,
+        "columns": [
+          "City",
+          "Population (2025)",
+          "Population(2011)",
+          "Population(2001)[a]",
+          "State or unionterritory",
+          "Ref"
+        ],
+        "data": [
+          {
+            "City": "Mumbai",
+            "Population (2025)": "22,088,953",
+            "Population(2011)": "12,442,373",
+            "Population(2001)[a]": "11,978,450",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Delhi",
+            "Population (2025)": "34,665,569",
+            "Population(2011)": "11,034,555",
+            "Population(2001)[a]": "9,879,172",
+            "State or unionterritory": "Delhi",
+            "Ref": ""
+          },
+          {
+            "City": "Bengaluru",
+            "Population (2025)": "",
+            "Population(2011)": "8,443,675",
+            "Population(2001)[a]": "5,682,293",
+            "State or unionterritory": "Karnataka",
+            "Ref": ""
+          },
+          {
+            "City": "Hyderabad",
+            "Population (2025)": "",
+            "Population(2011)": "6,993,262",
+            "Population(2001)[a]": "5,496,960",
+            "State or unionterritory": "Telangana",
+            "Ref": ""
+          },
+          {
+            "City": "Ahmedabad",
+            "Population (2025)": "",
+            "Population(2011)": "5,577,940",
+            "Population(2001)[a]": "4,470,006",
+            "State or unionterritory": "Gujarat",
+            "Ref": ""
+          },
+          {
+            "City": "Chennai",
+            "Population (2025)": "",
+            "Population(2011)": "4,646,732",
+            "Population(2001)[a]": "4,343,645",
+            "State or unionterritory": "Tamil Nadu",
+            "Ref": ""
+          },
+          {
+            "City": "Kolkata",
+            "Population (2025)": "",
+            "Population(2011)": "4,496,694",
+            "Population(2001)[a]": "4,580,546",
+            "State or unionterritory": "West Bengal",
+            "Ref": ""
+          },
+          {
+            "City": "Surat",
+            "Population (2025)": "",
+            "Population(2011)": "4,467,797",
+            "Population(2001)[a]": "2,788,126",
+            "State or unionterritory": "Gujarat",
+            "Ref": ""
+          },
+          {
+            "City": "Pune",
+            "Population (2025)": "",
+            "Population(2011)": "3,124,458",
+            "Population(2001)[a]": "2,538,473",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Jaipur",
+            "Population (2025)": "",
+            "Population(2011)": "3,046,163",
+            "Population(2001)[a]": "2,322,575",
+            "State or unionterritory": "Rajasthan",
+            "Ref": ""
+          },
+          {
+            "City": "Lucknow",
+            "Population (2025)": "",
+            "Population(2011)": "2,817,105",
+            "Population(2001)[a]": "2,185,927",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Kanpur",
+            "Population (2025)": "",
+            "Population(2011)": "2,765,348",
+            "Population(2001)[a]": "2,551,337",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Nagpur",
+            "Population (2025)": "",
+            "Population(2011)": "2,405,665",
+            "Population(2001)[a]": "2,052,066",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Indore",
+            "Population (2025)": "",
+            "Population(2011)": "1,964,086",
+            "Population(2001)[a]": "1,503,237",
+            "State or unionterritory": "Madhya Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Thane",
+            "Population (2025)": "",
+            "Population(2011)": "1,841,488",
+            "Population(2001)[a]": "1,262,551",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Bhopal",
+            "Population (2025)": "",
+            "Population(2011)": "1,798,218",
+            "Population(2001)[a]": "1,458,416",
+            "State or unionterritory": "Madhya Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Visakhapatnam",
+            "Population (2025)": "",
+            "Population(2011)": "1,728,128",
+            "Population(2001)[a]": "1,345,938",
+            "State or unionterritory": "Andhra Pradesh",
+            "Ref": "[b]"
+          },
+          {
+            "City": "Pimpri-Chinchwad",
+            "Population (2025)": "",
+            "Population(2011)": "1,727,692",
+            "Population(2001)[a]": "1,020,448",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Patna",
+            "Population (2025)": "",
+            "Population(2011)": "1,684,222",
+            "Population(2001)[a]": "1,431,477",
+            "State or unionterritory": "Bihar",
+            "Ref": ""
+          },
+          {
+            "City": "Vadodara",
+            "Population (2025)": "",
+            "Population(2011)": "1,670,806",
+            "Population(2001)[a]": "1,338,244",
+            "State or unionterritory": "Gujarat",
+            "Ref": ""
+          },
+          {
+            "City": "Ghaziabad",
+            "Population (2025)": "",
+            "Population(2011)": "1,648,643",
+            "Population(2001)[a]": "968,256",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Ludhiana",
+            "Population (2025)": "",
+            "Population(2011)": "1,618,879",
+            "Population(2001)[a]": "1,398,467",
+            "State or unionterritory": "Punjab",
+            "Ref": ""
+          },
+          {
+            "City": "Agra",
+            "Population (2025)": "",
+            "Population(2011)": "1,585,704",
+            "Population(2001)[a]": "1,275,134",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Nashik",
+            "Population (2025)": "",
+            "Population(2011)": "1,486,053",
+            "Population(2001)[a]": "1,077,236",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Faridabad",
+            "Population (2025)": "",
+            "Population(2011)": "1,414,050",
+            "Population(2001)[a]": "1,055,938",
+            "State or unionterritory": "Haryana",
+            "Ref": ""
+          },
+          {
+            "City": "Meerut",
+            "Population (2025)": "",
+            "Population(2011)": "1,305,429",
+            "Population(2001)[a]": "1,068,772",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Rajkot",
+            "Population (2025)": "",
+            "Population(2011)": "1,286,678",
+            "Population(2001)[a]": "967,476",
+            "State or unionterritory": "Gujarat",
+            "Ref": ""
+          },
+          {
+            "City": "Kalyan-Dombivli",
+            "Population (2025)": "",
+            "Population(2011)": "1,247,327",
+            "Population(2001)[a]": "1,193,512",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Vasai-Virar",
+            "Population (2025)": "",
+            "Population(2011)": "1,222,390",
+            "Population(2001)[a]": "518,601",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Varanasi",
+            "Population (2025)": "",
+            "Population(2011)": "1,198,491",
+            "Population(2001)[a]": "1,103,952",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Srinagar",
+            "Population (2025)": "",
+            "Population(2011)": "1,180,570",
+            "Population(2001)[a]": "935,764",
+            "State or unionterritory": "Jammu and Kashmir",
+            "Ref": ""
+          },
+          {
+            "City": "Aurangabad",
+            "Population (2025)": "",
+            "Population(2011)": "1,175,116",
+            "Population(2001)[a]": "873,311",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Dhanbad",
+            "Population (2025)": "",
+            "Population(2011)": "1,162,472",
+            "Population(2001)[a]": "1,031,523",
+            "State or unionterritory": "Jharkhand",
+            "Ref": ""
+          },
+          {
+            "City": "Amritsar",
+            "Population (2025)": "",
+            "Population(2011)": "1,132,383",
+            "Population(2001)[a]": "979,801",
+            "State or unionterritory": "Punjab",
+            "Ref": ""
+          },
+          {
+            "City": "Navi Mumbai",
+            "Population (2025)": "",
+            "Population(2011)": "1,120,547",
+            "Population(2001)[a]": "704,002",
+            "State or unionterritory": "Maharashtra",
+            "Ref": ""
+          },
+          {
+            "City": "Prayagraj",
+            "Population (2025)": "",
+            "Population(2011)": "1,112,544",
+            "Population(2001)[a]": "975,393",
+            "State or unionterritory": "Uttar Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Howrah",
+            "Population (2025)": "",
+            "Population(2011)": "1,077,075",
+            "Population(2001)[a]": "1,007,532",
+            "State or unionterritory": "West Bengal",
+            "Ref": ""
+          },
+          {
+            "City": "Ranchi",
+            "Population (2025)": "",
+            "Population(2011)": "1,073,427",
+            "Population(2001)[a]": "847,093",
+            "State or unionterritory": "Jharkhand",
+            "Ref": ""
+          },
+          {
+            "City": "Jabalpur",
+            "Population (2025)": "",
+            "Population(2011)": "1,055,525",
+            "Population(2001)[a]": "951,472",
+            "State or unionterritory": "Madhya Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Gwalior",
+            "Population (2025)": "",
+            "Population(2011)": "1,054,420",
+            "Population(2001)[a]": "827,026",
+            "State or unionterritory": "Madhya Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Coimbatore",
+            "Population (2025)": "",
+            "Population(2011)": "1,050,721",
+            "Population(2001)[a]": "930,882",
+            "State or unionterritory": "Tamil Nadu",
+            "Ref": ""
+          },
+          {
+            "City": "Vijayawada",
+            "Population (2025)": "",
+            "Population(2011)": "1,034,358",
+            "Population(2001)[a]": "941,760",
+            "State or unionterritory": "Andhra Pradesh",
+            "Ref": ""
+          },
+          {
+            "City": "Jodhpur",
+            "Population (2025)": "",
+            "Population(2011)": "1,033,756",
+            "Population(2001)[a]": "856,525",
+            "State or unionterritory": "Rajasthan",
+            "Ref": ""
+          },
+          {
+            "City": "Madurai",
+            "Population (2025)": "",
+            "Population(2011)": "1,017,865",
+            "Population(2001)[a]": "928,869",
+            "State or unionterritory": "Tamil Nadu",
+            "Ref": ""
+          },
+          {
+            "City": "Raipur",
+            "Population (2025)": "",
+            "Population(2011)": "1,010,433",
+            "Population(2001)[a]": "707,469",
+            "State or unionterritory": "Chhattisgarh",
+            "Ref": ""
+          },
+          {
+            "City": "Kota",
+            "Population (2025)": "",
+            "Population(2011)": "1,001,694",
+            "Population(2001)[a]": "703,150",
+            "State or unionterritory": "Rajasthan",
+            "Ref": ""
+          }
+        ]
+      },
+      {
+        "table_title": "Table 2",
+        "row_count": 263,
+        "columns": [
+          "City",
+          "Population(2011)",
+          "Population(2001)",
+          "State or unionterritory",
+          "Reference"
+        ],
+        "data": [
+          {
+            "City": "47",
+            "Population(2011)": "Guwahati",
+            "Population(2001)": "963,429",
+            "State or unionterritory": "809,895",
+            "Reference": "Assam"
+          },
+          {
+            "City": "48",
+            "Population(2011)": "Chandigarh",
+            "Population(2001)": "960,787",
+            "State or unionterritory": "808,515",
+            "Reference": "Chandigarh"
+          },
+          {
+            "City": "49",
+            "Population(2011)": "Solapur",
+            "Population(2001)": "951,118",
+            "State or unionterritory": "872,478",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "50",
+            "Population(2011)": "Hubli–Dharwad",
+            "Population(2001)": "943,857",
+            "State or unionterritory": "786,195",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "51",
+            "Population(2011)": "Tiruchirappalli",
+            "Population(2001)": "916,674",
+            "State or unionterritory": "752,066",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "52",
+            "Population(2011)": "Tiruppur",
+            "Population(2001)": "898,167",
+            "State or unionterritory": "718,395",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "53",
+            "Population(2011)": "Moradabad",
+            "Population(2001)": "889,810",
+            "State or unionterritory": "641,583",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "54",
+            "Population(2011)": "Mysore",
+            "Population(2001)": "887,446",
+            "State or unionterritory": "755,379",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "55",
+            "Population(2011)": "Bareilly",
+            "Population(2001)": "877,778",
+            "State or unionterritory": "344,543",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "56",
+            "Population(2011)": "Gurgaon",
+            "Population(2001)": "876,824",
+            "State or unionterritory": "173,542",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "57",
+            "Population(2011)": "Aligarh",
+            "Population(2001)": "872,575",
+            "State or unionterritory": "669,087",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "58",
+            "Population(2011)": "Jalandhar",
+            "Population(2001)": "862,196",
+            "State or unionterritory": "706,043",
+            "Reference": "Punjab"
+          },
+          {
+            "City": "59",
+            "Population(2011)": "Bhubaneswar",
+            "Population(2001)": "837,737",
+            "State or unionterritory": "648,032",
+            "Reference": "Odisha"
+          },
+          {
+            "City": "60",
+            "Population(2011)": "Salem",
+            "Population(2001)": "831,038",
+            "State or unionterritory": "696,760",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "61",
+            "Population(2011)": "Mira-Bhayandar",
+            "Population(2001)": "814,655",
+            "State or unionterritory": "520,388",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "62",
+            "Population(2011)": "Warangal",
+            "Population(2001)": "811,844",
+            "State or unionterritory": "530,636",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "63",
+            "Population(2011)": "Thiruvananthapuram",
+            "Population(2001)": "752,490",
+            "State or unionterritory": "744,983",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "64",
+            "Population(2011)": "Guntur",
+            "Population(2001)": "743,354",
+            "State or unionterritory": "514,461",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "65",
+            "Population(2011)": "Bhiwandi",
+            "Population(2001)": "711,329",
+            "State or unionterritory": "598,741",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "66",
+            "Population(2011)": "Saharanpur",
+            "Population(2001)": "703,345",
+            "State or unionterritory": "455,754",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "67",
+            "Population(2011)": "Gorakhpur",
+            "Population(2001)": "671,048",
+            "State or unionterritory": "622,701",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "68",
+            "Population(2011)": "Bikaner",
+            "Population(2001)": "647,804",
+            "State or unionterritory": "529,690",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "69",
+            "Population(2011)": "Amravati",
+            "Population(2001)": "646,801",
+            "State or unionterritory": "549,510",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "70",
+            "Population(2011)": "Noida",
+            "Population(2001)": "642,381",
+            "State or unionterritory": "305,058",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "71",
+            "Population(2011)": "Jamshedpur",
+            "Population(2001)": "631,364",
+            "State or unionterritory": "573,096",
+            "Reference": "Jharkhand"
+          },
+          {
+            "City": "72",
+            "Population(2011)": "Bhilai",
+            "Population(2001)": "625,697",
+            "State or unionterritory": "556,366",
+            "Reference": "Chhattisgarh"
+          },
+          {
+            "City": "73",
+            "Population(2011)": "Cuttack",
+            "Population(2001)": "606,007",
+            "State or unionterritory": "534,654",
+            "Reference": "Odisha"
+          },
+          {
+            "City": "74",
+            "Population(2011)": "Firozabad",
+            "Population(2001)": "603,797",
+            "State or unionterritory": "279,102",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "75",
+            "Population(2011)": "Kochi",
+            "Population(2001)": "601,574",
+            "State or unionterritory": "596,473",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "76",
+            "Population(2011)": "Nellore",
+            "Population(2001)": "600,869",
+            "State or unionterritory": "378,428",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "77",
+            "Population(2011)": "Bhavnagar",
+            "Population(2001)": "593,768",
+            "State or unionterritory": "511,085",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "78",
+            "Population(2011)": "Dehradun",
+            "Population(2001)": "578,420",
+            "State or unionterritory": "426,674",
+            "Reference": "Uttarakhand"
+          },
+          {
+            "City": "79",
+            "Population(2011)": "Durgapur",
+            "Population(2001)": "566,937",
+            "State or unionterritory": "493,405",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "80",
+            "Population(2011)": "Asansol",
+            "Population(2001)": "564,491",
+            "State or unionterritory": "475,439",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "81",
+            "Population(2011)": "Nanded",
+            "Population(2001)": "550,564",
+            "State or unionterritory": "430,733",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "82",
+            "Population(2011)": "Kolhapur",
+            "Population(2001)": "549,283",
+            "State or unionterritory": "493,167",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "83",
+            "Population(2011)": "Ajmer",
+            "Population(2001)": "542,580",
+            "State or unionterritory": "485,575",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "84",
+            "Population(2011)": "Gulbarga",
+            "Population(2001)": "532,031",
+            "State or unionterritory": "422,569",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "85",
+            "Population(2011)": "Jamnagar",
+            "Population(2001)": "529,308",
+            "State or unionterritory": "443,518",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "86",
+            "Population(2011)": "Ujjain",
+            "Population(2001)": "515,215",
+            "State or unionterritory": "430,427",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "87",
+            "Population(2011)": "Loni",
+            "Population(2001)": "512,296",
+            "State or unionterritory": "120,945",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "88",
+            "Population(2011)": "Siliguri",
+            "Population(2001)": "509,709",
+            "State or unionterritory": "472,374",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "89",
+            "Population(2011)": "Jhansi",
+            "Population(2001)": "507,293",
+            "State or unionterritory": "383,644",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "90",
+            "Population(2011)": "Ulhasnagar",
+            "Population(2001)": "506,937",
+            "State or unionterritory": "473,731",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "91",
+            "Population(2011)": "Jammu",
+            "Population(2001)": "503,690",
+            "State or unionterritory": "369,959",
+            "Reference": "Jammu and Kashmir"
+          },
+          {
+            "City": "92",
+            "Population(2011)": "Sangli-Miraj & Kupwad",
+            "Population(2001)": "502,697",
+            "State or unionterritory": "436,781",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "93",
+            "Population(2011)": "Mangalore",
+            "Population(2001)": "499,486",
+            "State or unionterritory": "399,565",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "94",
+            "Population(2011)": "Erode",
+            "Population(2001)": "498,129",
+            "State or unionterritory": "173,600",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "95",
+            "Population(2011)": "Belgaum",
+            "Population(2001)": "488,292",
+            "State or unionterritory": "399,653",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "96",
+            "Population(2011)": "Ambattur",
+            "Population(2001)": "478,134",
+            "State or unionterritory": "310,967",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "97",
+            "Population(2011)": "Tirunelveli",
+            "Population(2001)": "473,637",
+            "State or unionterritory": "411,831",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "98",
+            "Population(2011)": "Malegaon",
+            "Population(2001)": "471,006",
+            "State or unionterritory": "409,403",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "99",
+            "Population(2011)": "Gaya",
+            "Population(2001)": "463,454",
+            "State or unionterritory": "385,432",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "100",
+            "Population(2011)": "Jalgaon",
+            "Population(2001)": "460,468",
+            "State or unionterritory": "368,618",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "101",
+            "Population(2011)": "Udaipur",
+            "Population(2001)": "451,735",
+            "State or unionterritory": "389,438",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "102",
+            "Population(2011)": "Maheshtala",
+            "Population(2001)": "449,423",
+            "State or unionterritory": "385,266",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "103",
+            "Population(2011)": "Davanagere",
+            "Population(2001)": "435,128",
+            "State or unionterritory": "364,523",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "104",
+            "Population(2011)": "Kozhikode",
+            "Population(2001)": "432,097",
+            "State or unionterritory": "436,556",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "105",
+            "Population(2011)": "Kurnool",
+            "Population(2001)": "430,214",
+            "State or unionterritory": "269,122",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "106",
+            "Population(2011)": "Akola",
+            "Population(2001)": "425,817",
+            "State or unionterritory": "400,520",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "107",
+            "Population(2011)": "Rajpur Sonarpur",
+            "Population(2001)": "423,806",
+            "State or unionterritory": "336,707",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "108",
+            "Population(2011)": "Rajahmundry",
+            "Population(2001)": "419,818",
+            "State or unionterritory": "315,251",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "109",
+            "Population(2011)": "Bokaro",
+            "Population(2001)": "413,934",
+            "State or unionterritory": "393,805",
+            "Reference": "Jharkhand"
+          },
+          {
+            "City": "110",
+            "Population(2011)": "South Dumdum",
+            "Population(2001)": "410,524",
+            "State or unionterritory": "392,444",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "111",
+            "Population(2011)": "Bellary",
+            "Population(2001)": "409,644",
+            "State or unionterritory": "316,766",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "112",
+            "Population(2011)": "Patiala",
+            "Population(2001)": "405,164",
+            "State or unionterritory": "303,151",
+            "Reference": "Punjab"
+          },
+          {
+            "City": "113",
+            "Population(2011)": "Gopalpur",
+            "Population(2001)": "404,991",
+            "State or unionterritory": "271,811",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "114",
+            "Population(2011)": "Agartala",
+            "Population(2001)": "399,688",
+            "State or unionterritory": "271,811",
+            "Reference": "Tripura"
+          },
+          {
+            "City": "115",
+            "Population(2011)": "Bhagalpur",
+            "Population(2001)": "398,138",
+            "State or unionterritory": "340,767",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "116",
+            "Population(2011)": "Muzaffarnagar",
+            "Population(2001)": "392,451",
+            "State or unionterritory": "316,729",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "117",
+            "Population(2011)": "Bhatpara",
+            "Population(2001)": "390,467",
+            "State or unionterritory": "442,385",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "118",
+            "Population(2011)": "Panihati",
+            "Population(2001)": "383,522",
+            "State or unionterritory": "348,438",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "119",
+            "Population(2011)": "Latur",
+            "Population(2001)": "382,754",
+            "State or unionterritory": "299,985",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "120",
+            "Population(2011)": "Dhule",
+            "Population(2001)": "376,093",
+            "State or unionterritory": "341,755",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "121",
+            "Population(2011)": "Tirupati",
+            "Population(2001)": "374,260",
+            "State or unionterritory": "228,202",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "122",
+            "Population(2011)": "Rohtak",
+            "Population(2001)": "373,133",
+            "State or unionterritory": "286,807",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "123",
+            "Population(2011)": "Korba",
+            "Population(2001)": "363,210",
+            "State or unionterritory": "315,690",
+            "Reference": "Chhattisgarh"
+          },
+          {
+            "City": "124",
+            "Population(2011)": "Bhilwara",
+            "Population(2001)": "360,009",
+            "State or unionterritory": "280,128",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "125",
+            "Population(2011)": "Berhampur",
+            "Population(2001)": "355,823",
+            "State or unionterritory": "307,792",
+            "Reference": "Odisha"
+          },
+          {
+            "City": "126",
+            "Population(2011)": "Muzaffarpur",
+            "Population(2001)": "351,838",
+            "State or unionterritory": "305,525",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "127",
+            "Population(2011)": "Ahmednagar",
+            "Population(2001)": "350,905",
+            "State or unionterritory": "307,615",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "128",
+            "Population(2011)": "Mathura",
+            "Population(2001)": "349,336",
+            "State or unionterritory": "302,770",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "129",
+            "Population(2011)": "Kollam",
+            "Population(2001)": "349,033",
+            "State or unionterritory": "361,560",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "130",
+            "Population(2011)": "Avadi",
+            "Population(2001)": "344,701",
+            "State or unionterritory": "229,403",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "131",
+            "Population(2011)": "Kadapa",
+            "Population(2001)": "343,054",
+            "State or unionterritory": "125,725",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "132",
+            "Population(2011)": "Kamarhati",
+            "Population(2001)": "336,579",
+            "State or unionterritory": "314,507",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "133",
+            "Population(2011)": "Bilaspur",
+            "Population(2001)": "330,106",
+            "State or unionterritory": "274,917",
+            "Reference": "Chhattisgarh"
+          },
+          {
+            "City": "134",
+            "Population(2011)": "Shahjahanpur",
+            "Population(2001)": "327,975",
+            "State or unionterritory": "296,662",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "135",
+            "Population(2011)": "Bijapur",
+            "Population(2001)": "326,360",
+            "State or unionterritory": "228,175",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "136",
+            "Population(2011)": "Rampur",
+            "Population(2001)": "325,248",
+            "State or unionterritory": "281,494",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "137",
+            "Population(2011)": "Shivamogga",
+            "Population(2001)": "322,428",
+            "State or unionterritory": "274,352",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "138",
+            "Population(2011)": "Chandrapur",
+            "Population(2001)": "321,036",
+            "State or unionterritory": "289,450",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "139",
+            "Population(2011)": "Junagadh",
+            "Population(2001)": "320,250",
+            "State or unionterritory": "168,686",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "140",
+            "Population(2011)": "Thrissur",
+            "Population(2001)": "315,596",
+            "State or unionterritory": "317,526",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "141",
+            "Population(2011)": "Alwar",
+            "Population(2001)": "315,310",
+            "State or unionterritory": "260,593",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "142",
+            "Population(2011)": "Bardhaman",
+            "Population(2001)": "314,638",
+            "State or unionterritory": "285,602",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "143",
+            "Population(2011)": "Kulti",
+            "Population(2001)": "313,977",
+            "State or unionterritory": "289,903",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "144",
+            "Population(2011)": "Kakinada",
+            "Population(2001)": "325,985",
+            "State or unionterritory": "296,329",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "145",
+            "Population(2011)": "Nizamabad",
+            "Population(2001)": "310,467",
+            "State or unionterritory": "288,722",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "146",
+            "Population(2011)": "Parbhani",
+            "Population(2001)": "307,191",
+            "State or unionterritory": "259,329",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "147",
+            "Population(2011)": "Tumkur",
+            "Population(2001)": "305,821",
+            "State or unionterritory": "248,929",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "148",
+            "Population(2011)": "Khammam",
+            "Population(2001)": "305,000",
+            "State or unionterritory": "218,689",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "149",
+            "Population(2011)": "Ozhukarai",
+            "Population(2001)": "300,028",
+            "State or unionterritory": "217,707",
+            "Reference": "Puducherry"
+          },
+          {
+            "City": "150",
+            "Population(2011)": "Bihar Sharif",
+            "Population(2001)": "296,889",
+            "State or unionterritory": "232,071",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "151",
+            "Population(2011)": "Panipat",
+            "Population(2001)": "294,150",
+            "State or unionterritory": "261,740",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "152",
+            "Population(2011)": "Darbhanga",
+            "Population(2001)": "294,116",
+            "State or unionterritory": "267,348",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "153",
+            "Population(2011)": "Bally",
+            "Population(2001)": "291,972",
+            "State or unionterritory": "260,906",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "154",
+            "Population(2011)": "Aizawl",
+            "Population(2001)": "291,822",
+            "State or unionterritory": "228,280",
+            "Reference": "Mizoram"
+          },
+          {
+            "City": "155",
+            "Population(2011)": "Dewas",
+            "Population(2001)": "289,438",
+            "State or unionterritory": "231,672",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "156",
+            "Population(2011)": "Ichalkaranji",
+            "Population(2001)": "287,570",
+            "State or unionterritory": "257,610",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "157",
+            "Population(2011)": "Karnal",
+            "Population(2001)": "286,974",
+            "State or unionterritory": "210,476",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "158",
+            "Population(2011)": "Bathinda",
+            "Population(2001)": "285,813",
+            "State or unionterritory": "217,256",
+            "Reference": "Punjab"
+          },
+          {
+            "City": "159",
+            "Population(2011)": "Jalna",
+            "Population(2001)": "285,349",
+            "State or unionterritory": "235,795",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "160",
+            "Population(2011)": "Eluru",
+            "Population(2001)": "283,648",
+            "State or unionterritory": "190,347",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "161",
+            "Population(2011)": "Kirari Suleman Nagar",
+            "Population(2001)": "282,598",
+            "State or unionterritory": "153,874",
+            "Reference": "Delhi"
+          },
+          {
+            "City": "162",
+            "Population(2011)": "Barasat",
+            "Population(2001)": "283,443",
+            "State or unionterritory": "231,515",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "163",
+            "Population(2011)": "Purnia",
+            "Population(2001)": "280,547",
+            "State or unionterritory": "171,687",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "164",
+            "Population(2011)": "Satna",
+            "Population(2001)": "280,248",
+            "State or unionterritory": "225,464",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "165",
+            "Population(2011)": "Mau",
+            "Population(2001)": "279,060",
+            "State or unionterritory": "212,657",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "166",
+            "Population(2011)": "Sonipat",
+            "Population(2001)": "277,053",
+            "State or unionterritory": "214,974",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "167",
+            "Population(2011)": "Farrukhabad",
+            "Population(2001)": "275,750",
+            "State or unionterritory": "228,333",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "168",
+            "Population(2011)": "Sagar",
+            "Population(2001)": "273,357",
+            "State or unionterritory": "232,133",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "169",
+            "Population(2011)": "Rourkela",
+            "Population(2001)": "273,217",
+            "State or unionterritory": "224,601",
+            "Reference": "Odisha"
+          },
+          {
+            "City": "170",
+            "Population(2011)": "Durg",
+            "Population(2001)": "268,679",
+            "State or unionterritory": "232,517",
+            "Reference": "Chhattisgarh"
+          },
+          {
+            "City": "171",
+            "Population(2011)": "Imphal",
+            "Population(2001)": "264,986",
+            "State or unionterritory": "221,492",
+            "Reference": "Manipur"
+          },
+          {
+            "City": "172",
+            "Population(2011)": "Ratlam",
+            "Population(2001)": "264,810",
+            "State or unionterritory": "222,202",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "173",
+            "Population(2011)": "Hapur",
+            "Population(2001)": "262,801",
+            "State or unionterritory": "211,983",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "174",
+            "Population(2011)": "Arrah",
+            "Population(2001)": "261,099",
+            "State or unionterritory": "203,380",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "175",
+            "Population(2011)": "Karimnagar",
+            "Population(2001)": "260,899",
+            "State or unionterritory": "205,653",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "176",
+            "Population(2011)": "Anantapur",
+            "Population(2001)": "261,004",
+            "State or unionterritory": "218,808",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "177",
+            "Population(2011)": "Etawah",
+            "Population(2001)": "256,838",
+            "State or unionterritory": "210,453",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "178",
+            "Population(2011)": "Ambarnath",
+            "Population(2001)": "254,003",
+            "State or unionterritory": "203,795",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "179",
+            "Population(2011)": "North Dumdum",
+            "Population(2001)": "253,625",
+            "State or unionterritory": "220,042",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "180",
+            "Population(2011)": "Bharatpur",
+            "Population(2001)": "252,109",
+            "State or unionterritory": "204,587",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "181",
+            "Population(2011)": "Begusarai",
+            "Population(2001)": "251,136",
+            "State or unionterritory": "93,378",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "182",
+            "Population(2011)": "New Delhi",
+            "Population(2001)": "249,998",
+            "State or unionterritory": "302,147",
+            "Reference": "Delhi"
+          },
+          {
+            "City": "183",
+            "Population(2011)": "Gandhidham",
+            "Population(2001)": "248,705",
+            "State or unionterritory": "166,388",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "184",
+            "Population(2011)": "Baranagar",
+            "Population(2001)": "248,466",
+            "State or unionterritory": "250,768",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "185",
+            "Population(2011)": "Tiruvottiyur",
+            "Population(2001)": "248,059",
+            "State or unionterritory": "212,281",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "186",
+            "Population(2011)": "Puducherry",
+            "Population(2001)": "241,773",
+            "State or unionterritory": "220,749",
+            "Reference": "Puducherry"
+          },
+          {
+            "City": "187",
+            "Population(2011)": "Sikar",
+            "Population(2001)": "237,579",
+            "State or unionterritory": "184,904",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "188",
+            "Population(2011)": "Thoothukudi",
+            "Population(2001)": "237,374",
+            "State or unionterritory": "216,058",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "189",
+            "Population(2011)": "Rewa",
+            "Population(2001)": "235,422",
+            "State or unionterritory": "183,274",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "190",
+            "Population(2011)": "Mirzapur",
+            "Population(2001)": "233,691",
+            "State or unionterritory": "205,053",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "191",
+            "Population(2011)": "Raichur",
+            "Population(2001)": "232,456",
+            "State or unionterritory": "207,421",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "192",
+            "Population(2011)": "Pali",
+            "Population(2001)": "229,956",
+            "State or unionterritory": "187,641",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "193",
+            "Population(2011)": "Ramagundam",
+            "Population(2001)": "229,644",
+            "State or unionterritory": "236,600",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "194",
+            "Population(2011)": "Haridwar",
+            "Population(2001)": "228,832",
+            "State or unionterritory": "175,010",
+            "Reference": "Uttarakhand"
+          },
+          {
+            "City": "195",
+            "Population(2011)": "Vijayanagaram",
+            "Population(2001)": "228,025",
+            "State or unionterritory": "174,324",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "196",
+            "Population(2011)": "Katihar",
+            "Population(2001)": "225,982",
+            "State or unionterritory": "175,169",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "197",
+            "Population(2011)": "Nagarcoil",
+            "Population(2001)": "224,849",
+            "State or unionterritory": "208,179",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "198",
+            "Population(2011)": "Sri Ganganagar",
+            "Population(2001)": "224,773",
+            "State or unionterritory": "210,713",
+            "Reference": "Rajasthan"
+          },
+          {
+            "City": "199",
+            "Population(2011)": "Karawal Nagar",
+            "Population(2001)": "224,666",
+            "State or unionterritory": "148,549",
+            "Reference": "Delhi"
+          },
+          {
+            "City": "200",
+            "Population(2011)": "Mango",
+            "Population(2001)": "223,805",
+            "State or unionterritory": "166,125",
+            "Reference": "Jharkhand"
+          },
+          {
+            "City": "201",
+            "Population(2011)": "Thanjavur",
+            "Population(2001)": "222,943",
+            "State or unionterritory": "215,314",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "202",
+            "Population(2011)": "Bulandshahr",
+            "Population(2001)": "222,519",
+            "State or unionterritory": "176,425",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "203",
+            "Population(2011)": "Uluberia",
+            "Population(2001)": "222,240",
+            "State or unionterritory": "202,135",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "204",
+            "Population(2011)": "Murwara",
+            "Population(2001)": "221,883",
+            "State or unionterritory": "187,029",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "205",
+            "Population(2011)": "Sambhal",
+            "Population(2001)": "220,813",
+            "State or unionterritory": "182,478",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "206",
+            "Population(2011)": "Singrauli",
+            "Population(2001)": "220,257",
+            "State or unionterritory": "185,190",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "207",
+            "Population(2011)": "Nadiad",
+            "Population(2001)": "218,095",
+            "State or unionterritory": "192,913",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "208",
+            "Population(2011)": "Secunderabad",
+            "Population(2001)": "217,910",
+            "State or unionterritory": "206,102",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "209",
+            "Population(2011)": "Naihati",
+            "Population(2001)": "217,900",
+            "State or unionterritory": "215,303",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "210",
+            "Population(2011)": "Yamunanagar",
+            "Population(2001)": "216,677",
+            "State or unionterritory": "189,696",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "211",
+            "Population(2011)": "Bidhan Nagar",
+            "Population(2001)": "215,514",
+            "State or unionterritory": "164,221",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "212",
+            "Population(2011)": "Pallavaram",
+            "Population(2001)": "215,417",
+            "State or unionterritory": "144,623",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "213",
+            "Population(2011)": "Bidar",
+            "Population(2001)": "214,373",
+            "State or unionterritory": "172,877",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "214",
+            "Population(2011)": "Munger",
+            "Population(2001)": "213,303",
+            "State or unionterritory": "188,050",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "215",
+            "Population(2011)": "Panchkula",
+            "Population(2001)": "211,355",
+            "State or unionterritory": "140,925",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "216",
+            "Population(2011)": "Burhanpur",
+            "Population(2001)": "210,886",
+            "State or unionterritory": "193,725",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "217",
+            "Population(2011)": "Raurkela Industrial Township",
+            "Population(2001)": "210,317",
+            "State or unionterritory": "206,693",
+            "Reference": "Odisha"
+          },
+          {
+            "City": "218",
+            "Population(2011)": "Kharagpur",
+            "Population(2001)": "207,604",
+            "State or unionterritory": "188,761",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "219",
+            "Population(2011)": "Dindigul",
+            "Population(2001)": "207,327",
+            "State or unionterritory": "196,955",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "220",
+            "Population(2011)": "Gandhinagar",
+            "Population(2001)": "206,167",
+            "State or unionterritory": "195,985",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "221",
+            "Population(2011)": "Hospet",
+            "Population(2001)": "206,167",
+            "State or unionterritory": "164,240",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "222",
+            "Population(2011)": "Nangloi Jat",
+            "Population(2001)": "205,596",
+            "State or unionterritory": "150,948",
+            "Reference": "Delhi"
+          },
+          {
+            "City": "223",
+            "Population(2011)": "Malda",
+            "Population(2001)": "205,521",
+            "State or unionterritory": "161,456",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "224",
+            "Population(2011)": "Ongole",
+            "Population(2001)": "204,746",
+            "State or unionterritory": "150,471",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "225",
+            "Population(2011)": "Deoghar",
+            "Population(2001)": "203,123",
+            "State or unionterritory": "112,525",
+            "Reference": "Jharkhand"
+          },
+          {
+            "City": "226",
+            "Population(2011)": "Chapra",
+            "Population(2001)": "202,352",
+            "State or unionterritory": "79,190",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "227",
+            "Population(2011)": "Haldia",
+            "Population(2001)": "200,827",
+            "State or unionterritory": "170,673",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "228",
+            "Population(2011)": "Khandwa",
+            "Population(2001)": "200,738",
+            "State or unionterritory": "172,242",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "229",
+            "Population(2011)": "Nandyal",
+            "Population(2001)": "200,516",
+            "State or unionterritory": "152,676",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "230",
+            "Population(2011)": "Chittoor",
+            "Population(2001)": "189,332",
+            "State or unionterritory": "152,654",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "231",
+            "Population(2011)": "Morena",
+            "Population(2001)": "200,482",
+            "State or unionterritory": "150,959",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "232",
+            "Population(2011)": "Amroha",
+            "Population(2001)": "198,471",
+            "State or unionterritory": "165,129",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "233",
+            "Population(2011)": "Anand",
+            "Population(2001)": "198,282",
+            "State or unionterritory": "130,685",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "234",
+            "Population(2011)": "Bhind",
+            "Population(2001)": "197,585",
+            "State or unionterritory": "153,752",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "235",
+            "Population(2011)": "Bhalswa Jahangir Pur",
+            "Population(2001)": "197,148",
+            "State or unionterritory": "152,339",
+            "Reference": "Delhi"
+          },
+          {
+            "City": "236",
+            "Population(2011)": "Madhyamgram",
+            "Population(2001)": "196,127",
+            "State or unionterritory": "155,451",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "237",
+            "Population(2011)": "Bhiwani",
+            "Population(2001)": "196,057",
+            "State or unionterritory": "169,531",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "238",
+            "Population(2011)": "Baharampur",
+            "Population(2001)": "195,223",
+            "State or unionterritory": "160,143",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "239",
+            "Population(2011)": "Ambala",
+            "Population(2001)": "195,153",
+            "State or unionterritory": "139,279",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "240",
+            "Population(2011)": "Morvi",
+            "Population(2001)": "194,947",
+            "State or unionterritory": "145,719",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "241",
+            "Population(2011)": "Fatehpur",
+            "Population(2001)": "193,193",
+            "State or unionterritory": "151,757",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "242",
+            "Population(2011)": "Rae Bareli",
+            "Population(2001)": "191,316",
+            "State or unionterritory": "169,333",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "243",
+            "Population(2011)": "Khora",
+            "Population(2001)": "190,005",
+            "State or unionterritory": "",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "244",
+            "Population(2011)": "Bhusawal",
+            "Population(2001)": "187,421",
+            "State or unionterritory": "172,372",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "245",
+            "Population(2011)": "Orai",
+            "Population(2001)": "187,137",
+            "State or unionterritory": "139,318",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "246",
+            "Population(2011)": "Bahraich",
+            "Population(2001)": "186,223",
+            "State or unionterritory": "168,323",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "247",
+            "Population(2011)": "Vellore",
+            "Population(2001)": "185,803",
+            "State or unionterritory": "177,230",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "248",
+            "Population(2011)": "Mahesana",
+            "Population(2001)": "184,991",
+            "State or unionterritory": "141,453",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "249",
+            "Population(2011)": "Sambalpur",
+            "Population(2001)": "184,000",
+            "State or unionterritory": "153,643",
+            "Reference": "Odisha"
+          },
+          {
+            "City": "250",
+            "Population(2011)": "Raiganj",
+            "Population(2001)": "183,612",
+            "State or unionterritory": "165,212",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "251",
+            "Population(2011)": "Sirsa",
+            "Population(2001)": "182,534",
+            "State or unionterritory": "160,735",
+            "Reference": "Haryana"
+          },
+          {
+            "City": "252",
+            "Population(2011)": "Danapur",
+            "Population(2001)": "182,429",
+            "State or unionterritory": "131,176",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "253",
+            "Population(2011)": "Serampore",
+            "Population(2001)": "181,842",
+            "State or unionterritory": "197,857",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "254",
+            "Population(2011)": "Sultan Pur Majra",
+            "Population(2001)": "181,554",
+            "State or unionterritory": "164,426",
+            "Reference": "Delhi"
+          },
+          {
+            "City": "255",
+            "Population(2011)": "Guna",
+            "Population(2001)": "180,935",
+            "State or unionterritory": "137,175",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "256",
+            "Population(2011)": "Jaunpur",
+            "Population(2001)": "180,362",
+            "State or unionterritory": "160,055",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "257",
+            "Population(2011)": "Panvel",
+            "Population(2001)": "180,020",
+            "State or unionterritory": "104,058",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "258",
+            "Population(2011)": "Shivpuri",
+            "Population(2001)": "179,977",
+            "State or unionterritory": "146,892",
+            "Reference": "Madhya Pradesh"
+          },
+          {
+            "City": "259",
+            "Population(2011)": "Surendranagar Dudhrej",
+            "Population(2001)": "177,851",
+            "State or unionterritory": "156,161",
+            "Reference": "Gujarat"
+          },
+          {
+            "City": "260",
+            "Population(2011)": "Unnao",
+            "Population(2001)": "177,658",
+            "State or unionterritory": "144,662",
+            "Reference": "Uttar Pradesh"
+          },
+          {
+            "City": "261",
+            "Population(2011)": "Hugli-Chuchura",
+            "Population(2001)": "177,259",
+            "State or unionterritory": "170,201",
+            "Reference": "West Bengal"
+          },
+          {
+            "City": "262",
+            "Population(2011)": "Badlapur",
+            "Population(2001)": "174,226",
+            "State or unionterritory": "97,948",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "263",
+            "Population(2011)": "Alappuzha",
+            "Population(2001)": "174,164",
+            "State or unionterritory": "177,029",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "264",
+            "Population(2011)": "Kottayam",
+            "Population(2001)": "172,878",
+            "State or unionterritory": "129,894",
+            "Reference": "Kerala"
+          },
+          {
+            "City": "265",
+            "Population(2011)": "Gadag-Betageri",
+            "Population(2001)": "172,000",
+            "State or unionterritory": "-",
+            "Reference": "Karnataka"
+          },
+          {
+            "City": "266",
+            "Population(2011)": "Machilipatnam",
+            "Population(2001)": "169,892",
+            "State or unionterritory": "179,353",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "267",
+            "Population(2011)": "Shimla",
+            "Population(2001)": "169,578",
+            "State or unionterritory": "142,555",
+            "Reference": "Himachal Pradesh"
+          },
+          {
+            "City": "268",
+            "Population(2011)": "Adoni",
+            "Population(2001)": "166,537",
+            "State or unionterritory": "",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "269",
+            "Population(2011)": "Tenali",
+            "Population(2001)": "164,937",
+            "State or unionterritory": "",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "270",
+            "Population(2011)": "Proddatur",
+            "Population(2001)": "162,717",
+            "State or unionterritory": "",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "271",
+            "Population(2011)": "Saharsa",
+            "Population(2001)": "155,175",
+            "State or unionterritory": "125,167",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "272",
+            "Population(2011)": "Hindupur",
+            "Population(2001)": "151,835",
+            "State or unionterritory": "",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "273",
+            "Population(2011)": "Sasaram",
+            "Population(2001)": "147,396",
+            "State or unionterritory": "131,172",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "274",
+            "Population(2011)": "Hajipur",
+            "Population(2001)": "147,126",
+            "State or unionterritory": "119,412",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "275",
+            "Population(2011)": "Beed",
+            "Population(2001)": "146,709",
+            "State or unionterritory": "138,196",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "276",
+            "Population(2011)": "Bhimavaram",
+            "Population(2001)": "142,280",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "277",
+            "Population(2011)": "Dehri",
+            "Population(2001)": "137,068",
+            "State or unionterritory": "119,057",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "278",
+            "Population(2011)": "Madanapalle",
+            "Population(2001)": "135,669",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "279",
+            "Population(2011)": "Siwan",
+            "Population(2001)": "134,458",
+            "State or unionterritory": "109,919",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "280",
+            "Population(2011)": "Bettiah",
+            "Population(2001)": "132,896",
+            "State or unionterritory": "116,670",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "281",
+            "Population(2011)": "Gondia",
+            "Population(2001)": "132,813",
+            "State or unionterritory": "120,902",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "282",
+            "Population(2011)": "Guntakal",
+            "Population(2001)": "126,270",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "283",
+            "Population(2011)": "Srikakulam",
+            "Population(2001)": "125,939",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "284",
+            "Population(2011)": "Motihari",
+            "Population(2001)": "125,183",
+            "State or unionterritory": "100,683",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "285",
+            "Population(2011)": "Dharmavaram",
+            "Population(2001)": "121,874",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "286",
+            "Population(2011)": "Satara",
+            "Population(2001)": "120,195",
+            "State or unionterritory": "108,048",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "287",
+            "Population(2011)": "Barshi",
+            "Population(2001)": "118,722",
+            "State or unionterritory": "104,785",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "288",
+            "Population(2011)": "Gudivada",
+            "Population(2001)": "118,167",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "289",
+            "Population(2011)": "Yavatmal",
+            "Population(2001)": "116,551",
+            "State or unionterritory": "120,676",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "290",
+            "Population(2011)": "Narasaraopet",
+            "Population(2001)": "116,250",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "291",
+            "Population(2011)": "Bagaha",
+            "Population(2001)": "113,012",
+            "State or unionterritory": "91,467",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "292",
+            "Population(2011)": "Achalpur",
+            "Population(2001)": "112,311",
+            "State or unionterritory": "107,316",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "293",
+            "Population(2011)": "Osmanabad",
+            "Population(2001)": "111,825",
+            "State or unionterritory": "80,625",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "294",
+            "Population(2011)": "Nandurbar",
+            "Population(2001)": "111,037",
+            "State or unionterritory": "94,368",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "295",
+            "Population(2011)": "Miryalaguda",
+            "Population(2001)": "109,891",
+            "State or unionterritory": "91,395",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "296",
+            "Population(2011)": "Tadipatri",
+            "Population(2001)": "108,171",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "297",
+            "Population(2011)": "Kishanganj",
+            "Population(2001)": "107,076",
+            "State or unionterritory": "85,590",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "298",
+            "Population(2011)": "Wardha",
+            "Population(2001)": "106,444",
+            "State or unionterritory": "111,118",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "299",
+            "Population(2011)": "Karaikudi",
+            "Population(2001)": "106,714",
+            "State or unionterritory": "86,596",
+            "Reference": "Tamil Nadu"
+          },
+          {
+            "City": "300",
+            "Population(2011)": "Suryapet",
+            "Population(2001)": "105,250",
+            "State or unionterritory": "94,585",
+            "Reference": "Telangana"
+          },
+          {
+            "City": "301",
+            "Population(2011)": "Jamalpur",
+            "Population(2001)": "105,221",
+            "State or unionterritory": "96,983",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "302",
+            "Population(2011)": "Kavali",
+            "Population(2001)": "104,000",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "303",
+            "Population(2011)": "Tadepalligudem",
+            "Population(2001)": "103,906",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "304",
+            "Population(2011)": "Udgir",
+            "Population(2001)": "103,550",
+            "State or unionterritory": "91,933",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "305",
+            "Population(2011)": "Amaravati",
+            "Population(2001)": "103,000",
+            "State or unionterritory": "―",
+            "Reference": "Andhra Pradesh"
+          },
+          {
+            "City": "306",
+            "Population(2011)": "Buxar",
+            "Population(2001)": "102,591",
+            "State or unionterritory": "83,168",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "307",
+            "Population(2011)": "Jehanabad",
+            "Population(2001)": "102,456",
+            "State or unionterritory": "81,503",
+            "Reference": "Bihar"
+          },
+          {
+            "City": "308",
+            "Population(2011)": "Hinganghat",
+            "Population(2001)": "101,805",
+            "State or unionterritory": "92,342",
+            "Reference": "Maharashtra"
+          },
+          {
+            "City": "309",
+            "Population(2011)": "Aurangabad",
+            "Population(2001)": "101,520",
+            "State or unionterritory": "79,393",
+            "Reference": "Bihar"
+          }
+        ]
+      }
+    ],
+    "search_snippet": "List of cities in India by population This is a list of the most populous cities in India. Cities are a type of sub-administrative unit and are defined by the Ministry of Home Affairs. In some cases, cities are bifurcated into municipalities, which can lead to cities being included within other cities.",
+    "search_title": "List of cities in India by population - Wikipedia",
+    "batch_number": 1,
+    "item_number": 1
+  },
+  {
+    "url": "https://worldpopulationreview.com/cities/india",
+    "title": "India Cities by Population 2025",
+    "meta_description": "Discover population, economy, health, and more with the most comprehensive global statistics at your fingertips.",
+    "headings": {
+      "h1": [
+        "India Cities by Population 2025"
+      ],
+      "h2": [
+        "Contents",
+        "5 Most Populated India Cities",
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Kolkata",
+        "Chennai",
+        "India Overview",
+        "Recommended Reading"
+      ],
+      "h3": [
+        "Request Data",
+        "Sources"
+      ]
+    },
+    "links": [
+      {
+        "text": "World Population Review",
+        "href": "https://worldpopulationreview.com/"
+      },
+      {
+        "text": "Continents",
+        "href": "https://worldpopulationreview.com/continents"
+      },
+      {
+        "text": "Countries",
+        "href": "https://worldpopulationreview.com/countries"
+      },
+      {
+        "text": "World Cities",
+        "href": "https://worldpopulationreview.com/cities"
+      },
+      {
+        "text": "US States",
+        "href": "https://worldpopulationreview.com/states"
+      },
+      {
+        "text": "US Counties",
+        "href": "https://worldpopulationreview.com/us-counties"
+      },
+      {
+        "text": "US Cities",
+        "href": "https://worldpopulationreview.com/us-cities"
+      },
+      {
+        "text": "ZIP Codes",
+        "href": "https://worldpopulationreview.com/zips"
+      },
+      {
+        "text": "Agriculture 200   Articles about the production of food and other goods, including farming and fishi",
+        "href": "https://worldpopulationreview.com/categories/agriculture"
+      },
+      {
+        "text": "Crime/Safety 85   Articles about crime rates, law enforcement, and public safety",
+        "href": "https://worldpopulationreview.com/categories/crime-safety"
+      }
+    ],
+    "paragraphs": [
+      "Browse stats by country, state, or city.",
+      "Articles about the production of food and other goods, including farming and fishing",
+      "Articles about crime rates, law enforcement, and public safety",
+      "Articles about shared celebrations, languages and customs",
+      "Articles about economic activity, including trade, finance, and development"
+    ],
+    "json_ld": [],
+    "product_info": {
+      "brand": "World Population Review"
+    },
+    "images": [
+      {
+        "src": "https://worldpopulationreview.com/_astro/logo2x.U07E811p.png",
+        "alt": "World Population Review logo"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "India Overview India has 40 cities with more than a million people, 396 cities with between 100,000 and 1 million people, and 2500 cities with between 10,000 and 100,000 people. The largest city in India is Mumbai, with a population of 12,691,836 people. India is the 7th largest country in the world by area, and a country this large has a population to match. When breaking down the numbers, it ...",
+    "search_title": "India Cities by Population 2025",
+    "batch_number": 1,
+    "item_number": 2
+  },
+  {
+    "url": "https://statisticstimes.com/demographics/country/india-cities-population.php",
+    "title": "Population of cities in India 2025 - StatisticsTimes.com",
+    "meta_description": "List of population cities in India based on the estimates and projections by \nUnited Nations. yearwise change in population and population growth rate. Data tables, charts and maps.",
+    "headings": {
+      "h1": [
+        "List of cities in India by population"
+      ],
+      "h2": [],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "World",
+        "href": "https://statisticstimes.com/index.php"
+      },
+      {
+        "text": "India",
+        "href": "https://statisticstimes.com/india.php"
+      },
+      {
+        "text": "World",
+        "href": "https://statisticstimes.com/economy/world-statistics.php"
+      },
+      {
+        "text": "Country",
+        "href": "https://statisticstimes.com/economy/country-statistics.php"
+      },
+      {
+        "text": "India",
+        "href": "https://statisticstimes.com/economy/india-statistics.php"
+      },
+      {
+        "text": "World",
+        "href": "https://statisticstimes.com/demographics/world-statistics.php"
+      },
+      {
+        "text": "Country",
+        "href": "https://statisticstimes.com/demographics/country-statistics.php"
+      },
+      {
+        "text": "India",
+        "href": "https://statisticstimes.com/demographics/india-statistics.php"
+      },
+      {
+        "text": "India",
+        "href": "https://statisticstimes.com/politics/india-statistics.php"
+      },
+      {
+        "text": "World",
+        "href": "https://statisticstimes.com/geography/world-statistics.php"
+      }
+    ],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://statisticstimes.com/statistics.png",
+        "alt": "statisticstimes"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Mar 8, 2025List of population cities in India based on the estimates and projections by United Nations. yearwise change in population and population growth rate. Data tables, charts and maps.",
+    "search_title": "Population of cities in India 2025 - StatisticsTimes.com",
+    "batch_number": 1,
+    "item_number": 3
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/top-10-largest-cities-in-india-by-population/articleshow/113791114.cms",
+    "title": "Top 10 largest cities in India by population | - Times of India",
+    "meta_description": "Trending News: As of 2024, Delhi, also known as the capital of India holds the position of the most populous city in India, proclaiming a humongous population of ove",
+    "headings": {
+      "h1": [
+        "Top 10 largest cities in India by population"
+      ],
+      "h2": [
+        "TOI",
+        "Visual Stories",
+        "Photostories",
+        "Featured In Lifestyle"
+      ],
+      "h3": [
+        "MORE FROM ETIMES"
+      ]
+    },
+    "links": [
+      {
+        "text": "TOI",
+        "href": "https://timesofindia.indiatimes.com"
+      },
+      {
+        "text": "Go toTOI",
+        "href": "https://timesofindia.indiatimes.com/"
+      },
+      {
+        "text": "Etimes",
+        "href": "https://timesofindia.indiatimes.com/etimes"
+      },
+      {
+        "text": "home",
+        "href": "https://timesofindia.indiatimes.com/etimes"
+      },
+      {
+        "text": "lifestyle",
+        "href": "https://timesofindia.indiatimes.com/life-style"
+      },
+      {
+        "text": "relationship",
+        "href": "https://timesofindia.indiatimes.com/life-style/relationships"
+      },
+      {
+        "text": "trending",
+        "href": "https://timesofindia.indiatimes.com/etimes/trending"
+      },
+      {
+        "text": "Health+",
+        "href": "https://timesofindia.indiatimes.com/life-style/health-fitness"
+      },
+      {
+        "text": "style",
+        "href": "https://timesofindia.indiatimes.com/life-style/fashion"
+      },
+      {
+        "text": "visual stories",
+        "href": "https://timesofindia.indiatimes.com/life-style/web-stories"
+      }
+    ],
+    "paragraphs": [
+      "The TOI Lifestyle Desk is a dynamic team of dedicated journalists who, with unwavering passion and commitment, sift through the pulse of the nation to curate a vibrant tapestry of lifestyle news for The Times of India readers. At the TOI Lifestyle Desk, we go beyond the obvious, delving into the ext",
+      "10 ways to use olive oil for quick hair growth on bald patches",
+      "Mouni Roy's 10 unmissably stylish sarees",
+      "Animals with exceptional memory skills that will surprise you",
+      "Timeless Romance: 10 Shakespeare quotes that define true love"
+    ],
+    "json_ld": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "WebPage",
+        "name": "Top 10 largest cities in India by population",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/top-10-largest-cities-in-india-by-population/articleshow/113791114.cms"
+      },
+      {
+        "@context": "https://schema.org",
+        "articleBody": "As of 2024, Delhi, also known as the capital of India holds the position of the most populous city in India, proclaiming a humongous population of over 33.8 million. Delhi is believed to be an indispensable historical, political, and cultural hub. In this article, we’ll explore in-depth the key features of Delhi while also uncovering the top 10 most populous cities in the country, based on the latest rank list from the UN World Urbanisation Prospects. Political and cultural significance Delhi is not only known to be the political core of India but it also represents the country’s substantially rich cultural heritage. Consisting of significant landmarks including the Red Fort and India Gate, the beautiful city showcases a perfect blend of modernity and ancient traditions. Its astonishingly diverse population contributes to a dynamic artistic community, making it a cultural mosaic of lifestyles, languages, and religions. This union territory is home to the Parliament House, Supreme Court, PM house, RBI and much more. Economic framework Did you know that Delhi stands among the largest commercial hubs in the country? The vibrant city isn’t just a core of activity and diversity, it’s also the center of substantial multinational corporations, startups, and numerous other industries that fuel its economy. This economic progressiveness captivates individuals from all across the country, emphasizing its responsibility as well as its position as a note-worthy metropolitan region. Educational institutions Delhi is known to be a hub of some of India’s and even the world’s most distinguished educational institutions, including the University of Delhi and Jawaharlal Nehru University. These notable institutions facilitate a significantly rich intellectual environment, captivating students and young professionals from a diverse range of backgrounds and regions. Top 10 most populated cities in India Rank Cities State/UT Population 1. Delhi New Delhi 33,807,403 2. Mumbai Maharashtra 21,673,570 3. Kolkata West Bengal 15,570,786 4. Bangalore Karnataka 14,008,262 5. Chennai Tamil Nadu 12,053,697 6. Hyderabad Telangana 11,068,877 7. Ahmedabad Gujarat 8,854,444 8. Surat Gujarat 8,330,528 9. Pune Maharashtra 7,345,848 10. Jaipur Rajasthan 4,308,510 Notable comparisons Mumbai Mumbai, in the second position among the top 10 cities, has a huge population of approximately 21.7 million people. This city is known to be India’s financial capital while also being significantly popular for its Bollywood film industry. Often referred to as the ‘City of Dreams’, Mumbai- - formerly known as Bombay captivates individuals from all around India in search of good job opportunities and a vibrant modern living. The city’s culture comprises dynamic and diverse backgrounds, with a wide range of festivals being celebrated over the year. The lively streets of Mumbai are filled with life, from traditional local markets to breathtaking beaches. It plays a significant part in India’s economy, being home to several corporate headquarters as well as financial institutions. Kolkata With a substantially large population of approximately 15.6 million, Kolkata is also renowned as the ‘Cultural Capital of India.’ It has deep roots in literature, music, and art. This beautiful city is immensely popular for the breathtaking celebrations of its significant festivals such as - - Durga Pooja, which catches the attention of tourists from around the world. Kolkata is also known to be a notable educational center, with several renowned colleges and universities. It consists of a beautifully unique blend of modern and traditional living styles, showcasing its remarkability in cuisine and architecture. The economy of this city is significantly diverse, with capabilities in trade, services, and manufacturing industries. The diverse culture attracts tourist all around the year. It offers not only sensory experience but the lush gardens and colonial-era monuments helps you transcend time. Bangalore At the fourth rank, we have Bangalore, also sometimes known as Bengaluru. It is home to over 14 million people and is referred to as the ‘Silicon Valley of India’, considering its flourishing technology sector. This lively city is a notable region for tech companies and startups, making it a highly popular destination for young professionals as well as students. Bangalore has a dynamic cultural setting, with a number of gardens, parks, and enthusiastic festival celebrations, showcasing its diverse population. The city’s climate is known to be pleasant all over the year, contributing greatly to the high-quality living. Bangalore is also famous for its note-worthy educational institutions which make this city an important destination for research and learning. In a nutshell, Delhi, with its vast population and significance as India’s political, cultural, and economic hub, leads the list of the country's most populous cities. Alongside Delhi, cities like Mumbai, Kolkata, and Bangalore showcase diverse lifestyles, rich cultural heritages, and thriving economies, making each city a unique contributor to India’s growth. As these urban centers continue to evolve, they remain crucial in shaping the nation’s future.",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/etimes/trending/top-10-largest-cities-in-india-by-population/articleshow/113791114.cms",
+        "inLanguage": "en",
+        "headline": "Top 10 largest cities in India by population",
+        "keywords": "largest cities in India,most populous cities,population of Delhi,UN World Urbanisation Prospects,Most Populated Cities in India",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/top-10-largest-cities-in-india-by-population/articleshow/113791114.cms",
+        "datePublished": "2024-09-30T07:00:00+05:30",
+        "dateModified": "2024-11-15T23:18:00+05:30",
+        "description": "Trending News: As of 2024, Delhi, also known as the capital of India holds the position of the most populous city in India, proclaiming a humongous population of ove",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-113791286,width-1070,height-580,imgsize-48026,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+          "@type": "Person",
+          "name": "TOI Lifestyle Desk",
+          "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Lifestyle-Desk-479263437.cms"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+            "width": 600,
+            "height": 60
+          }
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-113791286/113791286.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "ViewAction",
+        "target": {
+          "type": "EntryPoint",
+          "urlTemplate": "android-app://com.toi.reader.activities/toi.index.deeplink/t/a/113791114"
+        }
+      }
+    ],
+    "product_info": {
+      "color": "#af2c2c"
+    },
+    "images": [
+      {
+        "src": "https://static.toiimg.com/thumb/msid-113791286,imgsize-48026,width-400,resizemode-4/113791286.jpg",
+        "alt": "Top 10 largest cities in India by population"
+      },
+      {
+        "src": "https://static.toiimg.com/photo/83033472.cms",
+        "alt": "CP"
+      },
+      {
+        "src": "https://static.toiimg.com/photo/83033472.cms",
+        "alt": "Mumbai"
+      },
+      {
+        "src": "https://static.toiimg.com/photo/83033472.cms",
+        "alt": "Kolkata"
+      },
+      {
+        "src": "https://static.toiimg.com/photo/83033472.cms",
+        "alt": "Bangalore"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Sep 30, 2024As of 2024, Delhi, also known as the capital of India holds the position of the most populous city in India, proclaiming a humongous population of over 33.8 million. Delhi is believed to be an ...",
+    "search_title": "Top 10 largest cities in India by population - Times of India",
+    "batch_number": 1,
+    "item_number": 4
+  },
+  {
+    "url": "https://people.howstuffworks.com/largest-cities-in-india.htm",
+    "title": "15 Largest Cities in India, Ranked by Population | HowStuffWorks",
+    "meta_description": "India, a land of incredible diversity and culture, is home to some of the most populous cities in the world. Each of the largest cities in India features its own blend of history, tradition and modernity, showcasing the country's rich heritage and rapid development. From bustling metropolises to historic centers, India's urban landscapes reflect its vibrant spirit.",
+    "headings": {
+      "h1": [
+        "15 Largest Cities in India, Ranked by Population"
+      ],
+      "h2": [
+        "1. New Delhi (16.80 million)",
+        "2. Mumbai (12.44 million)",
+        "3. Bengaluru (8.44 million)",
+        "4. Hyderabad (7.68 million)",
+        "5. Ahmedabad (6.36 million)",
+        "6. Chennai (4.65 million)",
+        "7. Kolkata (4.49 million)",
+        "8. Surat (4.47 million)",
+        "9. Pune (3.12 million)",
+        "10. Jaipur (3.05 million)",
+        "11. Lucknow (2.82 million)",
+        "12. Kanpur (2.77 million)",
+        "13. Nagpur (2.41 million)",
+        "14. Indore (1.96 million)",
+        "15. Patna (1.68 million)"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "HowStuffWorks",
+        "href": "https://www.howstuffworks.com"
+      },
+      {
+        "text": "Science",
+        "href": "https://science.howstuffworks.com"
+      },
+      {
+        "text": "Tech",
+        "href": "https://electronics.howstuffworks.com/tech"
+      },
+      {
+        "text": "Home & Garden",
+        "href": "https://home.howstuffworks.com"
+      },
+      {
+        "text": "Auto",
+        "href": "https://auto.howstuffworks.com"
+      },
+      {
+        "text": "Culture",
+        "href": "https://people.howstuffworks.com/culture"
+      },
+      {
+        "text": "Health",
+        "href": "https://health.howstuffworks.com"
+      },
+      {
+        "text": "Money",
+        "href": "https://money.howstuffworks.com"
+      },
+      {
+        "text": "Animals",
+        "href": "https://animals.howstuffworks.com"
+      },
+      {
+        "text": "Lifestyle",
+        "href": "https://lifestyle.howstuffworks.com"
+      }
+    ],
+    "paragraphs": [
+      "India, a land of incredible diversity and culture, is home to some of the most populous cities in the world. Each of the largest cities in India features its own blend of history, tradition and modernity, showcasing the country's rich heritage and rapid development. From bustling metropolises to his",
+      "The vast majority of states within India feature cities of over 1 million residents, so population boom is not a rarity. Whether you're exploring ancient landmarks, indulging in local cuisine or witnessing technological advancements, India's largest cities offer an unforgettable experience.",
+      "We used official Indian government data from all respective municipal corporations to rank population numbers. Where firsthand data for Indian cities was unavailable, we went by the UN World Urbanisation Prospects estimates, which were last updated in 2018. It's also worth noting that the last full-",
+      "India's capital city and the heart of the Delhi union territory, New Delhi is a sprawling blend of ancient history and modern development. From historic landmarks like the Red Fort and Qutub Minar to bustling markets like Chandni Chowk, Delhi is a cultural treasure trove. Its vibrant arts scene and ",
+      "Both New Delhi and Mumbai have the distinction of populations exceeding 10 million people, giving them the title of \"megacities\" among the world's largest metropolitan projects. The neighboring sister city of Old Delhi is also home to some 11 million people, giving a total population of nearly 30 mi"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.howstuffworks.com/#organization",
+        "@type": "Organization",
+        "name": "HowStuffWorks",
+        "url": "https://www.howstuffworks.com/",
+        "logo": "https://cdn.hswstatic.com/gif/hsw-logo-120x90.jpg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "United States",
+          "addressLocality": "Marina Del Rey",
+          "addressRegion": "CA",
+          "postalCode": "90066",
+          "streetAddress": "4235 Redwood Ave."
+        },
+        "email": "mailto:site-support@howstuffworks.com",
+        "sameAs": [
+          "https://www.youtube.com/user/HowStuffWorks",
+          "https://www.instagram.com/howstuffworks/",
+          "https://www.facebook.com/HowStuffWorks",
+          "https://pinterest.com/howstuffworks/",
+          "https://tumblr.com/blog/howstuffworks",
+          "https://www.linkedin.com/company/15689/",
+          "https://flipboard.com/@HowStuffWorks"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.howstuffworks.com/#website",
+        "@type": "WebSite",
+        "name": "HowStuffWorks",
+        "url": "https://www.howstuffworks.com/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://s.howstuffworks.com/serp?q={search_term}",
+          "query-input": "required name=search_term"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "15 Largest Cities in India, Ranked by Population",
+        "image": "https://cdn.hswstatic.com/gif/gettyimages-1225175111.jpg",
+        "datePublished": "2025-01-26T10:10:00-05:00",
+        "dateModified": "2025-01-26T15:10:03-05:00",
+        "description": "India, a land of incredible diversity and culture, is home to some of the most populous cities in the world. Each of the largest cities in India features its own blend of history, tradition and modernity, showcasing the country&#039;s rich heritage and rapid development. From bustling metropolises to historic centers, India&#039;s urban landscapes reflect its vibrant spirit.",
+        "author": {
+          "@type": "Person",
+          "name": "Talon  Homer",
+          "url": "https://www.howstuffworks.com/about-talon-homer.htm"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "HowStuffWorks",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://cdn.hswstatic.com/gif/hsw-logo-120x90.jpg",
+            "width": "120",
+            "height": "90"
+          }
+        },
+        "mainEntityOfPage": "https://people.howstuffworks.com/largest-cities-in-india.htm",
+        "Speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".se > p, h2.se, .se > h3, .se > ul, .se > ol, .se > .blockquote"
+          ]
+        }
+      }
+    ],
+    "product_info": {
+      "color": "#151538"
+    },
+    "images": [
+      {
+        "src": "https://cdn.hswstatic.com/en-us/hsw/img/hsw-avatar-sm.png",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.hswstatic.com/en-us/hsw/img/hsw-avatar-sm.png",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.hswstatic.com/en-us/hsw/img/hsw-avatar-sm.png",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.hswstatic.com/en-us/hsw/img/hsw-avatar-sm.png",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.hswstatic.com/en-us/hsw/img/hsw-avatar-sm.png",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Jan 26, 2025India, a land of incredible diversity and culture, is home to some of the most populous cities in the world. Each of the largest cities in India features its own blend of history, tradition and modernity, showcasing the country's rich heritage and rapid development. From bustling metropolises to historic centers, India's urban landscapes reflect its vibrant spirit.",
+    "search_title": "15 Largest Cities in India, Ranked by Population - HowStuffWorks",
+    "batch_number": 1,
+    "item_number": 5
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/List_of_million-plus_urban_agglomerations_in_India",
+    "title": "List of million-plus urban agglomerations in India - Wikipedia",
+    "meta_description": "",
+    "headings": {
+      "h1": [
+        "List of million-plus urban agglomerations in India"
+      ],
+      "h2": [
+        "Contents",
+        "Census",
+        "Demographia",
+        "See also",
+        "Notes",
+        "References",
+        "External links"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "Main page",
+        "href": "https://en.wikipedia.org/wiki/Main_Page"
+      },
+      {
+        "text": "Contents",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contents"
+      },
+      {
+        "text": "Current events",
+        "href": "https://en.wikipedia.org/wiki/Portal:Current_events"
+      },
+      {
+        "text": "Random article",
+        "href": "https://en.wikipedia.org/wiki/Special:Random"
+      },
+      {
+        "text": "About Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:About"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us"
+      },
+      {
+        "text": "Help",
+        "href": "https://en.wikipedia.org/wiki/Help:Contents"
+      },
+      {
+        "text": "Learn to edit",
+        "href": "https://en.wikipedia.org/wiki/Help:Introduction"
+      },
+      {
+        "text": "Community portal",
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal"
+      },
+      {
+        "text": "Recent changes",
+        "href": "https://en.wikipedia.org/wiki/Special:RecentChanges"
+      }
+    ],
+    "paragraphs": [
+      "India is a country in South Asia and is the seventh-largest country by geographical area, the most-populous country with more than 1.4 billion people, home to nearly 17.5 percent of the world's population.[1] India consists of twenty-eight states and eight union territories.[2]",
+      "The first official population census of India was conducted in 1872 and every ten years since 1951 by the office of the Registrar General and Census Commissioner under the Ministry of Home Affairs.[3][4] The last official census was conducted in 2011.[5] The next census due in 2021 was delayed due t",
+      "As per Government of India, an urban agglomeration (U.A.) is a continuous urban spread constituting a town and its adjoining outgrowths (OGs), or two or more physically contiguous towns together with or without outgrowths of such towns. An Urban Agglomeration must consist of at least a statutory tow",
+      "Following is the list of urban agglomerations in India with a population of more than one million as per the 2011 census. As per the 2011 census, there were 52 (according to provisional census results, 53[8]) urban agglomerations or cities with population of one million and above.[9][a][8]",
+      "As per Demographia, an urban built-up area consists of all continuous and non-continuous urban areas within a metropolitan area. As per the 2023 report, there were 65 urban areas with more than one million inhabitants in India.[11]"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": "List of million-plus urban agglomerations in India",
+        "url": "https://en.wikipedia.org/wiki/List_of_million-plus_urban_agglomerations_in_India",
+        "sameAs": "http://www.wikidata.org/entity/Q15142547",
+        "mainEntity": "http://www.wikidata.org/entity/Q15142547",
+        "author": {
+          "@type": "Organization",
+          "name": "Contributors to Wikimedia projects"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Wikimedia Foundation, Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+          }
+        },
+        "datePublished": "2006-08-23T01:42:00Z",
+        "dateModified": "2025-10-05T16:09:42Z",
+        "headline": "Wikimedia list article"
+      }
+    ],
+    "product_info": {
+      "size": "ArticleTalk\n\n\n\n\n\nEnglish\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReadView sourceView history\n\n\n\n\n\n\n\nTools\n\n\n\n\n\nTools\nmove t"
+    },
+    "images": [
+      {
+        "src": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+        "alt": ""
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+        "alt": "Wikipedia"
+      },
+      {
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+        "alt": "The Free Encyclopedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png",
+        "alt": "Page semi-protected"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/330px-India_location_map.svg.png",
+        "alt": "List of million-plus urban agglomerations in India is located in India"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "wikipedia_tables": [
+      {
+        "table_title": "List of million-plus urban agglomerations/ towns[9]",
+        "row_count": 52,
+        "columns": [
+          "Town/UA[b]",
+          "Level\n(2011)",
+          "State/UT",
+          "Area(km2)(2011)",
+          "Pop.(2011)",
+          "Area(km2)(2001)",
+          "Pop.(2001)",
+          "Area(km2)(1991)",
+          "Pop.(1991)"
+        ],
+        "data": [
+          {
+            "Town/UA[b]": "Mumbai",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Maharashtra",
+            "Area(km2)(2011)": "1,063.49",
+            "Pop.(2011)": "18,394,912",
+            "Area(km2)(2001)": "1,135.11",
+            "Pop.(2001)": "16,434,386",
+            "Area(km2)(1991)": "1,040.9",
+            "Pop.(1991)": "12,596,243"
+          },
+          {
+            "Town/UA[b]": "Delhi",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Delhi",
+            "Area(km2)(2011)": "1,139.48",
+            "Pop.(2011)": "16,349,831",
+            "Area(km2)(2001)": "912.52",
+            "Pop.(2001)": "12,895,547",
+            "Area(km2)(1991)": "685.34",
+            "Pop.(1991)": "8,471,625"
+          },
+          {
+            "Town/UA[b]": "Kolkata",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "West Bengal",
+            "Area(km2)(2011)": "1,056.13",
+            "Pop.(2011)": "14,057,991",
+            "Area(km2)(2001)": "1,046.46",
+            "Pop.(2001)": "13,251,339",
+            "Area(km2)(1991)": "920.65",
+            "Pop.(1991)": "11,110,314"
+          },
+          {
+            "Town/UA[b]": "Chennai",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Tamil Nadu",
+            "Area(km2)(2011)": "932.47",
+            "Pop.(2011)": "8,653,521",
+            "Area(km2)(2001)": "788.69",
+            "Pop.(2001)": "6,686,140",
+            "Area(km2)(1991)": "580.06",
+            "Pop.(1991)": "5,416,903"
+          },
+          {
+            "Town/UA[b]": "Bengaluru",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Karnataka",
+            "Area(km2)(2011)": "748.42",
+            "Pop.(2011)": "8,520,435",
+            "Area(km2)(2001)": "539.85",
+            "Pop.(2001)": "5,701,446",
+            "Area(km2)(1991)": "449.7",
+            "Pop.(1991)": "4,137,314"
+          },
+          {
+            "Town/UA[b]": "Hyderabad",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Telangana",
+            "Area(km2)(2011)": "1,225.59",
+            "Pop.(2011)": "7,677,018",
+            "Area(km2)(2001)": "838.03",
+            "Pop.(2001)": "5,756,729",
+            "Area(km2)(1991)": "838.03",
+            "Pop.(1991)": "4,344,437"
+          },
+          {
+            "Town/UA[b]": "Ahmedabad",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Gujarat",
+            "Area(km2)(2011)": "1,060.95",
+            "Pop.(2011)": "6,357,693",
+            "Area(km2)(2001)": "613.81",
+            "Pop.(2001)": "4,912,912",
+            "Area(km2)(1991)": "425.17",
+            "Pop.(1991)": "3,631,233"
+          },
+          {
+            "Town/UA[b]": "Pune",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Maharashtra",
+            "Area(km2)(2011)": "502.78",
+            "Pop.(2011)": "5,057,709",
+            "Area(km2)(2001)": "675.66",
+            "Pop.(2001)": "3,768,612",
+            "Area(km2)(1991)": "423.42",
+            "Pop.(1991)": "2,493,987"
+          },
+          {
+            "Town/UA[b]": "Surat",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Gujarat",
+            "Area(km2)(2011)": "431.01",
+            "Pop.(2011)": "4,591,246",
+            "Area(km2)(2001)": "289.83",
+            "Pop.(2001)": "2,820,373",
+            "Area(km2)(1991)": "114.07",
+            "Pop.(1991)": "1,514,545"
+          },
+          {
+            "Town/UA[b]": "Jaipur",
+            "Level\n(2011)": "Town",
+            "State/UT": "Rajasthan",
+            "Area(km2)(2011)": "484.64",
+            "Pop.(2011)": "3,046,163",
+            "Area(km2)(2001)": "484.64",
+            "Pop.(2001)": "2,322,575",
+            "Area(km2)(1991)": "218.26",
+            "Pop.(1991)": "1,518,235"
+          },
+          {
+            "Town/UA[b]": "Kanpur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "301.16",
+            "Pop.(2011)": "2,920,496",
+            "Area(km2)(2001)": "301.02",
+            "Pop.(2001)": "2,715,555",
+            "Area(km2)(1991)": "298.98",
+            "Pop.(1991)": "2,029,889"
+          },
+          {
+            "Town/UA[b]": "Lucknow",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "393.6",
+            "Pop.(2011)": "2,902,920",
+            "Area(km2)(2001)": "337.5",
+            "Pop.(2001)": "2,245,509",
+            "Area(km2)(1991)": "337.5",
+            "Pop.(1991)": "1,669,204"
+          },
+          {
+            "Town/UA[b]": "Nagpur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Maharashtra",
+            "Area(km2)(2011)": "229.2",
+            "Pop.(2011)": "2,497,870",
+            "Area(km2)(2001)": "229.2",
+            "Pop.(2001)": "2,129,500",
+            "Area(km2)(1991)": "228.81",
+            "Pop.(1991)": "1,664,006"
+          },
+          {
+            "Town/UA[b]": "Ghaziabad",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "263.29",
+            "Pop.(2011)": "2,375,820",
+            "Area(km2)(2001)": "161.21",
+            "Pop.(2001)": "1,217,543",
+            "Area(km2)(1991)": "79.89",
+            "Pop.(1991)": "578,680"
+          },
+          {
+            "Town/UA[b]": "Indore",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Madhya Pradesh",
+            "Area(km2)(2011)": "233.6",
+            "Pop.(2011)": "2,170,295",
+            "Area(km2)(2001)": "165.17",
+            "Pop.(2001)": "1,516,918",
+            "Area(km2)(1991)": "165.17",
+            "Pop.(1991)": "1,109,056"
+          },
+          {
+            "Town/UA[b]": "Coimbatore",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Tamil Nadu",
+            "Area(km2)(2011)": "696.25",
+            "Pop.(2011)": "2,136,916",
+            "Area(km2)(2001)": "598.12",
+            "Pop.(2001)": "1,601,194",
+            "Area(km2)(1991)": "317.23",
+            "Pop.(1991)": "1,100,746"
+          },
+          {
+            "Town/UA[b]": "Kochi",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "843.84",
+            "Pop.(2011)": "2,119,724",
+            "Area(km2)(2001)": "477.08",
+            "Pop.(2001)": "1,410,666",
+            "Area(km2)(1991)": "426.67",
+            "Pop.(1991)": "1,242,115"
+          },
+          {
+            "Town/UA[b]": "Patna",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Bihar",
+            "Area(km2)(2011)": "142.46",
+            "Pop.(2011)": "2,049,156",
+            "Area(km2)(2001)": "135.19",
+            "Pop.(2001)": "1,697,976",
+            "Area(km2)(1991)": "132.27",
+            "Pop.(1991)": "1,140,100"
+          },
+          {
+            "Town/UA[b]": "Kozhikode",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "909.79",
+            "Pop.(2011)": "2,028,399",
+            "Area(km2)(2001)": "334.94",
+            "Pop.(2001)": "1,101,157",
+            "Area(km2)(1991)": "339.67",
+            "Pop.(1991)": "945,802"
+          },
+          {
+            "Town/UA[b]": "Bhopal",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Madhya Pradesh",
+            "Area(km2)(2011)": "336.06",
+            "Pop.(2011)": "1,886,100",
+            "Area(km2)(2001)": "298.48",
+            "Pop.(2001)": "1,458,416",
+            "Area(km2)(1991)": "284.9",
+            "Pop.(1991)": "1,062,771"
+          },
+          {
+            "Town/UA[b]": "Thrissur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "990.91",
+            "Pop.(2011)": "1,861,269",
+            "Area(km2)(2001)": "310.49",
+            "Pop.(2001)": "773,598",
+            "Area(km2)(1991)": "252.65",
+            "Pop.(1991)": "627,063"
+          },
+          {
+            "Town/UA[b]": "Vadodara",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Gujarat",
+            "Area(km2)(2011)": "310.35",
+            "Pop.(2011)": "1,822,221",
+            "Area(km2)(2001)": "213.88",
+            "Pop.(2001)": "1,491,045",
+            "Area(km2)(1991)": "132.54",
+            "Pop.(1991)": "1,127,903"
+          },
+          {
+            "Town/UA[b]": "Agra",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "166.21",
+            "Pop.(2011)": "1,760,285",
+            "Area(km2)(2001)": "149.37",
+            "Pop.(2001)": "1,374,493",
+            "Area(km2)(1991)": "145.36",
+            "Pop.(1991)": "961,420"
+          },
+          {
+            "Town/UA[b]": "Visakhapatnam",
+            "Level\n(2011)": "Town",
+            "State/UT": "Andhra Pradesh",
+            "Area(km2)(2011)": "513.61",
+            "Pop.(2011)": "1,728,128",
+            "Area(km2)(2001)": "325.83",
+            "Pop.(2001)": "1,345,938",
+            "Area(km2)(1991)": "310.97",
+            "Pop.(1991)": "1,044,119"
+          },
+          {
+            "Town/UA[b]": "Malappuram",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "819.39",
+            "Pop.(2011)": "1,699,060",
+            "Area(km2)(2001)": "152.67",
+            "Pop.(2001)": "311,558",
+            "Area(km2)(1991)": "137.11",
+            "Pop.(1991)": "243,427"
+          },
+          {
+            "Town/UA[b]": "Thiruvananthapuram",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "542.57",
+            "Pop.(2011)": "1,679,754",
+            "Area(km2)(2001)": "256.22",
+            "Pop.(2001)": "1,050,933",
+            "Area(km2)(1991)": "242.07",
+            "Pop.(1991)": "959,256"
+          },
+          {
+            "Town/UA[b]": "Kannur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "1,003.66",
+            "Pop.(2011)": "1,640,986",
+            "Area(km2)(2001)": "638.95",
+            "Pop.(2001)": "1,212,898",
+            "Area(km2)(1991)": "647.14",
+            "Pop.(1991)": "1,145,476"
+          },
+          {
+            "Town/UA[b]": "Ludhiana",
+            "Level\n(2011)": "Town",
+            "State/UT": "Punjab",
+            "Area(km2)(2011)": "159.37",
+            "Pop.(2011)": "1,618,879",
+            "Area(km2)(2001)": "159.37",
+            "Pop.(2001)": "1,398,467",
+            "Area(km2)(1991)": "134.67",
+            "Pop.(1991)": "1,042,740"
+          },
+          {
+            "Town/UA[b]": "Nashik",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Maharashtra",
+            "Area(km2)(2011)": "321.98",
+            "Pop.(2011)": "1,561,809",
+            "Area(km2)(2001)": "321.98",
+            "Pop.(2001)": "1,152,326",
+            "Area(km2)(1991)": "321.94",
+            "Pop.(1991)": "725,341"
+          },
+          {
+            "Town/UA[b]": "Vijayawada",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Andhra Pradesh",
+            "Area(km2)(2011)": "283.58",
+            "Pop.(2011)": "1,476,931",
+            "Area(km2)(2001)": "101.2",
+            "Pop.(2001)": "1,039,518",
+            "Area(km2)(1991)": "104.71",
+            "Pop.(1991)": "845,756"
+          },
+          {
+            "Town/UA[b]": "Madurai",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Tamil Nadu",
+            "Area(km2)(2011)": "151.34",
+            "Pop.(2011)": "1,465,625",
+            "Area(km2)(2001)": "143.43",
+            "Pop.(2001)": "1,220,898",
+            "Area(km2)(1991)": "110.21",
+            "Pop.(1991)": "1,077,158"
+          },
+          {
+            "Town/UA[b]": "Varanasi",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "118.68",
+            "Pop.(2011)": "1,432,280",
+            "Area(km2)(2001)": "114.31",
+            "Pop.(2001)": "1,216,392",
+            "Area(km2)(1991)": "106.82",
+            "Pop.(1991)": "1,039,939"
+          },
+          {
+            "Town/UA[b]": "Meerut",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "186.61",
+            "Pop.(2011)": "1,420,902",
+            "Area(km2)(2001)": "183.64",
+            "Pop.(2001)": "1,172,106",
+            "Area(km2)(1991)": "177.58",
+            "Pop.(1991)": "849,799"
+          },
+          {
+            "Town/UA[b]": "Faridabad",
+            "Level\n(2011)": "Town",
+            "State/UT": "Haryana",
+            "Area(km2)(2011)": "204.00",
+            "Pop.(2011)": "1,414,050",
+            "Area(km2)(2001)": "198.75",
+            "Pop.(2001)": "1,055,938",
+            "Area(km2)(1991)": "178.24",
+            "Pop.(1991)": "617,717"
+          },
+          {
+            "Town/UA[b]": "Rajkot",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Gujarat",
+            "Area(km2)(2011)": "185.38",
+            "Pop.(2011)": "1,390,640",
+            "Area(km2)(2001)": "163.14",
+            "Pop.(2001)": "1,003,015",
+            "Area(km2)(1991)": "69",
+            "Pop.(1991)": "654,490"
+          },
+          {
+            "Town/UA[b]": "Jamshedpur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Jharkhand",
+            "Area(km2)(2011)": "184.07",
+            "Pop.(2011)": "1,339,438",
+            "Area(km2)(2001)": "159.55",
+            "Pop.(2001)": "1,104,713",
+            "Area(km2)(1991)": "159.55",
+            "Pop.(1991)": "829,171"
+          },
+          {
+            "Town/UA[b]": "Jabalpur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Madhya Pradesh",
+            "Area(km2)(2011)": "237.16",
+            "Pop.(2011)": "1,268,848",
+            "Area(km2)(2001)": "205.15",
+            "Pop.(2001)": "1,098,000",
+            "Area(km2)(1991)": "224.45",
+            "Pop.(1991)": "888,916"
+          },
+          {
+            "Town/UA[b]": "Srinagar",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Jammu and Kashmir",
+            "Area(km2)(2011)": "304.27",
+            "Pop.(2011)": "1,264,202",
+            "Area(km2)(2001)": "242.6",
+            "Pop.(2001)": "988,210",
+            "Area(km2)(1991)": "NA",
+            "Pop.(1991)": "NA"
+          },
+          {
+            "Town/UA[b]": "Asansol",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "West Bengal",
+            "Area(km2)(2011)": "369.34",
+            "Pop.(2011)": "1,243,414",
+            "Area(km2)(2001)": "351.93",
+            "Pop.(2001)": "1,067,369",
+            "Area(km2)(1991)": "280.74",
+            "Pop.(1991)": "938,067"
+          },
+          {
+            "Town/UA[b]": "Vasai-Virar",
+            "Level\n(2011)": "Town",
+            "State/UT": "Maharashtra",
+            "Area(km2)(2011)": "319.39",
+            "Pop.(2011)": "1,222,390",
+            "Area(km2)(2001)": "74.55",
+            "Pop.(2001)": "518,601",
+            "Area(km2)(1991)": "50.69",
+            "Pop.(1991)": "215,762"
+          },
+          {
+            "Town/UA[b]": "Allahabad",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Uttar Pradesh",
+            "Area(km2)(2011)": "115.46",
+            "Pop.(2011)": "1,212,395",
+            "Area(km2)(2001)": "85.69",
+            "Pop.(2001)": "1,042,229",
+            "Area(km2)(1991)": "82.18",
+            "Pop.(1991)": "844,546"
+          },
+          {
+            "Town/UA[b]": "Dhanbad",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Jharkhand",
+            "Area(km2)(2011)": "240.66",
+            "Pop.(2011)": "1,196,214",
+            "Area(km2)(2001)": "223.06",
+            "Pop.(2001)": "1,065,327",
+            "Area(km2)(1991)": "207.99",
+            "Pop.(1991)": "828,301"
+          },
+          {
+            "Town/UA[b]": "Aurangabad",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Maharashtra",
+            "Area(km2)(2011)": "148.12",
+            "Pop.(2011)": "1,193,167",
+            "Area(km2)(2001)": "148.12",
+            "Pop.(2001)": "892,483",
+            "Area(km2)(1991)": "148.12",
+            "Pop.(1991)": "592,709"
+          },
+          {
+            "Town/UA[b]": "Amritsar",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Punjab",
+            "Area(km2)(2011)": "136",
+            "Pop.(2011)": "1,183,549",
+            "Area(km2)(2001)": "136",
+            "Pop.(2001)": "1,003,917",
+            "Area(km2)(1991)": "114.95",
+            "Pop.(1991)": "708,835"
+          },
+          {
+            "Town/UA[b]": "Jodhpur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Rajasthan",
+            "Area(km2)(2011)": "132.97",
+            "Pop.(2011)": "1,138,300",
+            "Area(km2)(2001)": "90.34",
+            "Pop.(2001)": "860,818",
+            "Area(km2)(1991)": "78.6",
+            "Pop.(1991)": "666,279"
+          },
+          {
+            "Town/UA[b]": "Ranchi",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Jharkhand",
+            "Area(km2)(2011)": "197.36",
+            "Pop.(2011)": "1,126,720",
+            "Area(km2)(2001)": "182.09",
+            "Pop.(2001)": "863,495",
+            "Area(km2)(1991)": "182.09",
+            "Pop.(1991)": "614,795"
+          },
+          {
+            "Town/UA[b]": "Raipur",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Chhattisgarh",
+            "Area(km2)(2011)": "192.55",
+            "Pop.(2011)": "1,123,558",
+            "Area(km2)(2001)": "128.05",
+            "Pop.(2001)": "743,494",
+            "Area(km2)(1991)": "64.29",
+            "Pop.(1991)": "462,694"
+          },
+          {
+            "Town/UA[b]": "Kollam",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Kerala",
+            "Area(km2)(2011)": "364.51",
+            "Pop.(2011)": "1,110,668",
+            "Area(km2)(2001)": "78.55",
+            "Pop.(2001)": "418,743",
+            "Area(km2)(1991)": "77.24",
+            "Pop.(1991)": "365,130"
+          },
+          {
+            "Town/UA[b]": "Gwalior",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Madhya Pradesh",
+            "Area(km2)(2011)": "183.71",
+            "Pop.(2011)": "1,102,884",
+            "Area(km2)(2001)": "180.16",
+            "Pop.(2001)": "865,548",
+            "Area(km2)(1991)": "303.18",
+            "Pop.(1991)": "717,780"
+          },
+          {
+            "Town/UA[b]": "Durg-Bhilainagar",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Chhattisgarh",
+            "Area(km2)(2011)": "335.63",
+            "Pop.(2011)": "1,064,222",
+            "Area(km2)(2001)": "340.75",
+            "Pop.(2001)": "927,864",
+            "Area(km2)(1991)": "202.3",
+            "Pop.(1991)": "705,076"
+          },
+          {
+            "Town/UA[b]": "Tiruchirappalli",
+            "Level\n(2011)": "U.A.",
+            "State/UT": "Tamil Nadu",
+            "Area(km2)(2011)": "211.51",
+            "Pop.(2011)": "1,022,518",
+            "Area(km2)(2001)": "198.55",
+            "Pop.(2001)": "887,865",
+            "Area(km2)(1991)": "170.57",
+            "Pop.(1991)": "729,127"
+          },
+          {
+            "Town/UA[b]": "Kota",
+            "Level\n(2011)": "Town",
+            "State/UT": "Rajasthan",
+            "Area(km2)(2011)": "527.03",
+            "Pop.(2011)": "1,001,694",
+            "Area(km2)(2001)": "225.87",
+            "Pop.(2001)": "703,150",
+            "Area(km2)(1991)": "221.36",
+            "Pop.(1991)": "537,371"
+          }
+        ]
+      },
+      {
+        "table_title": "Table 2",
+        "row_count": 65,
+        "columns": [
+          "Town/UA",
+          "State/UT",
+          "Pop.(2023)"
+        ],
+        "data": [
+          {
+            "Town/UA": "Delhi",
+            "State/UT": "Delhi, Haryana,Uttar Pradesh",
+            "Pop.(2023)": "31,190,000"
+          },
+          {
+            "Town/UA": "Mumbai",
+            "State/UT": "Maharashtra",
+            "Pop.(2023)": "25,189,000"
+          },
+          {
+            "Town/UA": "Kolkata",
+            "State/UT": "West Bengal",
+            "Pop.(2023)": "21,747,000"
+          },
+          {
+            "Town/UA": "Bengaluru",
+            "State/UT": "Karnataka",
+            "Pop.(2023)": "15,257,000"
+          },
+          {
+            "Town/UA": "Chennai",
+            "State/UT": "Tamil Nadu",
+            "Pop.(2023)": "11,570,000"
+          },
+          {
+            "Town/UA": "Hyderabad",
+            "State/UT": "Telangana",
+            "Pop.(2023)": "9,797,000"
+          },
+          {
+            "Town/UA": "Ahmedabad",
+            "State/UT": "Gujarat",
+            "Pop.(2023)": "8,006,000"
+          },
+          {
+            "Town/UA": "Pune",
+            "State/UT": "Maharashtra",
+            "Pop.(2023)": "6,819,000"
+          },
+          {
+            "Town/UA": "Surat",
+            "State/UT": "Gujarat",
+            "Pop.(2023)": "6,601,000"
+          },
+          {
+            "Town/UA": "Lucknow",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "4,661,000"
+          },
+          {
+            "Town/UA": "Jaipur",
+            "State/UT": "Rajasthan",
+            "Pop.(2023)": "4,360,000"
+          },
+          {
+            "Town/UA": "Kanpur",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "4,350,000"
+          },
+          {
+            "Town/UA": "Indore",
+            "State/UT": "Madhya Pradesh",
+            "Pop.(2023)": "3,765,000"
+          },
+          {
+            "Town/UA": "Nagpur",
+            "State/UT": "Maharashtra",
+            "Pop.(2023)": "3,493,000"
+          },
+          {
+            "Town/UA": "Patna",
+            "State/UT": "Bihar",
+            "Pop.(2023)": "3,331,000"
+          },
+          {
+            "Town/UA": "Varanasi",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "3,229,000"
+          },
+          {
+            "Town/UA": "Kozhikode",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "3,049,000"
+          },
+          {
+            "Town/UA": "Thiruvananthapuram",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "2,851,000"
+          },
+          {
+            "Town/UA": "Agra",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "2,737,000"
+          },
+          {
+            "Town/UA": "Bhopal",
+            "State/UT": "Madhya Pradesh",
+            "Pop.(2023)": "2,562,000"
+          },
+          {
+            "Town/UA": "Coimbatore",
+            "State/UT": "Tamil Nadu",
+            "Pop.(2023)": "2,551,000"
+          },
+          {
+            "Town/UA": "Prayagraj",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "2,438,000"
+          },
+          {
+            "Town/UA": "Kochi",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "2,381,000"
+          },
+          {
+            "Town/UA": "Ranchi",
+            "State/UT": "Jharkhand",
+            "Pop.(2023)": "2,217,000"
+          },
+          {
+            "Town/UA": "Ludhiana",
+            "State/UT": "Punjab",
+            "Pop.(2023)": "2,205,000"
+          },
+          {
+            "Town/UA": "Vadodara",
+            "State/UT": "Gujarat",
+            "Pop.(2023)": "2,182,000"
+          },
+          {
+            "Town/UA": "Chandigarh",
+            "State/UT": "Chandigarh, Punjab, Haryana",
+            "Pop.(2023)": "2,168,000"
+          },
+          {
+            "Town/UA": "Madurai",
+            "State/UT": "Tamil Nadu",
+            "Pop.(2023)": "2,048,000"
+          },
+          {
+            "Town/UA": "Meerut",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "2,011,000"
+          },
+          {
+            "Town/UA": "Visakhapatnam",
+            "State/UT": "Andhra Pradesh",
+            "Pop.(2023)": "2,005,000"
+          },
+          {
+            "Town/UA": "Jamshedpur",
+            "State/UT": "Jharkhand",
+            "Pop.(2023)": "1,925,000"
+          },
+          {
+            "Town/UA": "Thrissur",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "1,861,269"
+          },
+          {
+            "Town/UA": "Nashik",
+            "State/UT": "Maharashtra",
+            "Pop.(2023)": "1,810,000"
+          },
+          {
+            "Town/UA": "Asansol",
+            "State/UT": "West Bengal",
+            "Pop.(2023)": "1,720,000"
+          },
+          {
+            "Town/UA": "Malappuram",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "1,699,060"
+          },
+          {
+            "Town/UA": "Aligarh",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "1,660,000"
+          },
+          {
+            "Town/UA": "Kannur",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "1,640,986"
+          },
+          {
+            "Town/UA": "Jabalpur",
+            "State/UT": "Madhya Pradesh",
+            "Pop.(2023)": "1,533,000"
+          },
+          {
+            "Town/UA": "Dhanbad",
+            "State/UT": "Jharkhand",
+            "Pop.(2023)": "1,503,000"
+          },
+          {
+            "Town/UA": "Jodhpur",
+            "State/UT": "Rajasthan",
+            "Pop.(2023)": "1,497,000"
+          },
+          {
+            "Town/UA": "Aurangabad",
+            "State/UT": "Maharashtra",
+            "Pop.(2023)": "1,490,000"
+          },
+          {
+            "Town/UA": "Rajkot",
+            "State/UT": "Gujarat",
+            "Pop.(2023)": "1,487,000"
+          },
+          {
+            "Town/UA": "Gwalior",
+            "State/UT": "Madhya Pradesh",
+            "Pop.(2023)": "1,477,000"
+          },
+          {
+            "Town/UA": "Raipur",
+            "State/UT": "Chhattisgarh",
+            "Pop.(2023)": "1,429,000"
+          },
+          {
+            "Town/UA": "Gorakhpur",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "1,410,000"
+          },
+          {
+            "Town/UA": "Kollam",
+            "State/UT": "Kerala",
+            "Pop.(2023)": "1,351,000"
+          },
+          {
+            "Town/UA": "Bareilly",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "1,355,000"
+          },
+          {
+            "Town/UA": "Guwahati",
+            "State/UT": "Assam",
+            "Pop.(2023)": "1,355,000"
+          },
+          {
+            "Town/UA": "Moradabad",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "1,345,000"
+          },
+          {
+            "Town/UA": "Amritsar",
+            "State/UT": "Punjab",
+            "Pop.(2023)": "1,313,000"
+          },
+          {
+            "Town/UA": "Mysore",
+            "State/UT": "Karnataka",
+            "Pop.(2023)": "1,296,000"
+          },
+          {
+            "Town/UA": "Durg-Bhilainagar",
+            "State/UT": "Chhattisgarh",
+            "Pop.(2023)": "1,293,000"
+          },
+          {
+            "Town/UA": "Vijayawada",
+            "State/UT": "Andhra Pradesh",
+            "Pop.(2023)": "1,232,000"
+          },
+          {
+            "Town/UA": "Srinagar",
+            "State/UT": "Jammu and Kashmir",
+            "Pop.(2023)": "1,212,000"
+          },
+          {
+            "Town/UA": "Salem",
+            "State/UT": "Tamil Nadu",
+            "Pop.(2023)": "1,189,000"
+          },
+          {
+            "Town/UA": "Kota",
+            "State/UT": "Rajasthan",
+            "Pop.(2023)": "1,172,000"
+          },
+          {
+            "Town/UA": "Jalandhar",
+            "State/UT": "Punjab",
+            "Pop.(2023)": "1,165,000"
+          },
+          {
+            "Town/UA": "Saharanpur",
+            "State/UT": "Uttar Pradesh",
+            "Pop.(2023)": "1,152,000"
+          },
+          {
+            "Town/UA": "Dehradun",
+            "State/UT": "Uttarakhand",
+            "Pop.(2023)": "1,136,000"
+          },
+          {
+            "Town/UA": "Tiruchirappalli",
+            "State/UT": "Tamil Nadu",
+            "Pop.(2023)": "1,131,000"
+          },
+          {
+            "Town/UA": "Bhubaneswar",
+            "State/UT": "Odisha",
+            "Pop.(2023)": "1,112,000"
+          },
+          {
+            "Town/UA": "Jammu",
+            "State/UT": "Jammu and Kashmir",
+            "Pop.(2023)": "1,103,000"
+          },
+          {
+            "Town/UA": "Solapur",
+            "State/UT": "Maharashtra",
+            "Pop.(2023)": "1,082,000"
+          },
+          {
+            "Town/UA": "Hubli-Dharwad",
+            "State/UT": "Karnataka",
+            "Pop.(2023)": "1,062,000"
+          },
+          {
+            "Town/UA": "Puducherry",
+            "State/UT": "Puducherry",
+            "Pop.(2023)": "1,024,000"
+          }
+        ]
+      }
+    ],
+    "search_snippet": "List of million-plus urban agglomerations in India India is a country in South Asia and is the seventh-largest country by geographical area, the most-populous country with more than 1.4 billion people, home to nearly 17.5 percent of the world's population. [1] India consists of twenty-eight states and eight union territories. [2]",
+    "search_title": "List of million-plus urban agglomerations in India - Wikipedia",
+    "batch_number": 1,
+    "item_number": 6
+  },
+  {
+    "url": "https://worldpopulationreview.com/cities/india",
+    "title": "India Cities by Population 2025",
+    "meta_description": "Discover population, economy, health, and more with the most comprehensive global statistics at your fingertips.",
+    "headings": {
+      "h1": [
+        "India Cities by Population 2025"
+      ],
+      "h2": [
+        "Contents",
+        "5 Most Populated India Cities",
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Kolkata",
+        "Chennai",
+        "India Overview",
+        "Recommended Reading"
+      ],
+      "h3": [
+        "Request Data",
+        "Sources"
+      ]
+    },
+    "links": [
+      {
+        "text": "World Population Review",
+        "href": "https://worldpopulationreview.com/"
+      },
+      {
+        "text": "Continents",
+        "href": "https://worldpopulationreview.com/continents"
+      },
+      {
+        "text": "Countries",
+        "href": "https://worldpopulationreview.com/countries"
+      },
+      {
+        "text": "World Cities",
+        "href": "https://worldpopulationreview.com/cities"
+      },
+      {
+        "text": "US States",
+        "href": "https://worldpopulationreview.com/states"
+      },
+      {
+        "text": "US Counties",
+        "href": "https://worldpopulationreview.com/us-counties"
+      },
+      {
+        "text": "US Cities",
+        "href": "https://worldpopulationreview.com/us-cities"
+      },
+      {
+        "text": "ZIP Codes",
+        "href": "https://worldpopulationreview.com/zips"
+      },
+      {
+        "text": "Agriculture 200   Articles about the production of food and other goods, including farming and fishi",
+        "href": "https://worldpopulationreview.com/categories/agriculture"
+      },
+      {
+        "text": "Crime/Safety 85   Articles about crime rates, law enforcement, and public safety",
+        "href": "https://worldpopulationreview.com/categories/crime-safety"
+      }
+    ],
+    "paragraphs": [
+      "Browse stats by country, state, or city.",
+      "Articles about the production of food and other goods, including farming and fishing",
+      "Articles about crime rates, law enforcement, and public safety",
+      "Articles about shared celebrations, languages and customs",
+      "Articles about economic activity, including trade, finance, and development"
+    ],
+    "json_ld": [],
+    "product_info": {
+      "brand": "World Population Review"
+    },
+    "images": [
+      {
+        "src": "https://worldpopulationreview.com/_astro/logo2x.U07E811p.png",
+        "alt": "World Population Review logo"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      },
+      {
+        "src": "https://worldpopulationreview.com/images/country-flags/svg/in.svg",
+        "alt": "India Flag"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "India has 40 cities with more than a million people, 396 cities with between 100,000 and 1 million people, and 2500 cities with between 10,000 and 100,000 people. The largest city in India is Mumbai, with a population of 12,691,836 people. India is the 7th largest country in the world by area, and a country this large has a population to match.",
+    "search_title": "India Cities by Population 2025",
+    "batch_number": 1,
+    "item_number": 7
+  },
+  {
+    "url": "https://www.scribd.com/document/716419263/List-of-million-plus-urban-agglomerations-secret",
+    "title": "List of Million-Plus Urban Agglomerations Secret | PDF | South Asia",
+    "meta_description": "List of million-plus urban agglomerations secret  - Free download as PDF File (.pdf), Text File (.txt) or read online for free. The document provides a list of 53 urban agglomerations or cities in India that have a population of over 1 million people according to the 2011 census. It includes the name of the city, state it is located in, its population in 2023 and past census years, geographic area, and ranking. The top three most populous urban agglomerations are Delhi, Mumbai, and Kolkata.",
+    "headings": {
+      "h1": [
+        "List of Million-Plus Urban Agglomerations Secret",
+        "List of Million-Plus Urban Agglomerations Secret",
+        "List of Million-Plus Urban Agglomerations Secret"
+      ],
+      "h2": [
+        "Uploaded by",
+        "Uploaded by",
+        "Share this document",
+        "Footer menu"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "Upload",
+        "href": "https://www.scribd.com/upload-document"
+      },
+      {
+        "text": "waril76135",
+        "href": "https://www.scribd.com/user/734666038/waril76135"
+      },
+      {
+        "text": "waril76135",
+        "href": "https://www.scribd.com/user/734666038/waril76135"
+      },
+      {
+        "text": "Share with Email, opens mail client",
+        "href": "mailto:?subject=Read List of million-plus urban agglomerations secret  on Scribd&body=I’m reading List of million-plus urban agglomerations secret  on Scribd: https%3A%2F%2Fwww.scribd.com%2Fdocument%2F716419263%2FList-of-million-plus-urban-agglomerations-secret"
+      },
+      {
+        "text": "Millions of documents at your fingertips, ad-free Subscribe with a free trial",
+        "href": "https://www.scribd.com/oauth/signup?doc_id=716419263"
+      },
+      {
+        "text": "About Scribd, Inc.",
+        "href": "https://www.scribd.com/about"
+      },
+      {
+        "text": "Everand: Ebooks & Audiobooks",
+        "href": "https://www.everand.com"
+      },
+      {
+        "text": "Slideshare",
+        "href": "https://www.slideshare.net/"
+      },
+      {
+        "text": "Join our team!",
+        "href": "https://www.scribd.com/careers"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://www.scribd.com/contact"
+      }
+    ],
+    "paragraphs": [
+      "List of Million-Plus Urban Agglomerations Secret",
+      "AI-enhanced title and description",
+      "The document provides a list of 53 urban agglomerations or cities in India that have a population of over 1 million people according to the 2011 census. It includes the name of the city, state it is located in, its population in 2023 and past census years, geographic area, and ranking. The top three",
+      "List of Million-Plus Urban Agglomerations Secret",
+      "AI-enhanced title and description"
+    ],
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@type": "MediaObject",
+        "additionalType": "Product",
+        "name": "List of million-plus urban agglomerations secret ",
+        "image": [
+          "https://imgv2-2-f.scribdassets.com/img/document/716419263/149x198/96d0ee672d/1711218220?v=1",
+          "https://imgv2-1-f.scribdassets.com/img/document/716419263/298x396/82a5ea9410/1711218220?v=1"
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "waril76135"
+        },
+        "description": "The document provides a list of 53 urban agglomerations or cities in India that have a population of over 1 million people according to the 2011 census. It includes the name of the city, state it is located in, its population in 2023 and past census years, geographic area, and ranking. The top three most populous urban agglomerations are Delhi, Mumbai, and Kolkata.",
+        "url": "https://www.scribd.com/document/716419263/List-of-million-plus-urban-agglomerations-secret",
+        "inLanguage": "en",
+        "isAccessibleForFree": true
+      }
+    ],
+    "product_info": {
+      "brand": "About"
+    },
+    "images": [
+      {
+        "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAwMCAyNDMuMTkiPgogIDxwYXRoIGQ9Ik0xOTMuMjUsMTUzLjMzYzAsMjUuOTMtMjEuOTgsNDcuODMtNTYuOTgsNDcuODNzLTU2LjU2LTIwLjQxLTU4LjktNDkuNTNoMjguMTdjMi41NiwxNS4zMSwxMy44NywyMy4xNywzMC43MywyMy4xN3MyOS4yNC04LjA4LDI5LjI0LTE5Ljc3YzAtOS41Ni01Ljk4LTE1Ljk0LTE5LjQyLTE4LjkybC0yNC45Ny01LjUzYy0zMC4wOS02LjM4LTQwLjEyLTIxLjktNDAuMTItNDIuMDksMC0yNC44NywyMS4xMy00Ni4zNCw1My4zNS00Ni4zNHM1Mi45MiwyMS4wNCw1NS4yNyw0OC4wNGgtMjguMzhjLTIuMzUtMTQuMDMtMTIuNTktMjEuNjgtMjYuODktMjEuNjhzLTI1LjM5LDcuNDQtMjUuMzksMTguMjhjMCw4LjkzLDUuNTUsMTQuMDMsMTguNTcsMTYuOGwyNC43Niw1LjUzYzMwLjMsNi44LDQwLjk3LDIzLjYsNDAuOTcsNDQuMjFoMFpNNzMyLjc2LDExOS45NmM5LjgyLTYuOCwxNS43OS0xOC4wNywxNS43OS0zMS40NnMtNC45MS0yMy42LTEzLjIzLTMxLjY4Yy03LjQ3LTcuNDQtMTguMzUtMTEuNjktMzUuNjQtMTEuNjloLTU0LjJ2MTUzLjA1aDU4LjA1YzE3LjI4LDAsMjguMzgtNC40NiwzNi4yOC0xMS45MSw4LjMyLTguMDgsMTIuOC0xOS4zNCwxMi44LTMyLjEsMC0xNS4zMS03LjQ3LTI3Ljg1LTE5Ljg1LTM0LjIyWk02NzMuMjEsNzEuNWgwczI2LjY3LDAsMjYuNjcsMGM4LjUzLDAsMTMuNDQsMi41NSwxNi42NCw2LjU5LDIuNzcsMy4xOSw0LjA1LDcuMjMsNC4wNSwxMS45MSwwLDUuMS0xLjUsOS43OC00LjcsMTIuOTctMy40MSwzLjYyLTkuODIsNS41My0xNi4wMSw1LjUzaC0yNi42N3YtMzYuOTlaTTcxOS4zMSwxNjYuNTFjLTMuNDEsMy4xOS04LjMyLDUuMS0xNS43OSw1LjFoLTMwLjN2LTM3Ljg0aDMwLjNjOC4zMiwwLDEzLjQ0LDIuMzQsMTYuNjQsNi4xNiwyLjc3LDMuNCw0LjY5LDcuNjUsNC42OSwxMi43NSwwLDUuNTMtMi4xMywxMC40Mi01LjU1LDEzLjgyaDBaTTkwOS4yOSw2OS43OWgwYy0xMS45NS0xNS4zMS0yOS44OC0yNC42Ni01NS43LTI0LjY2aC01Mi41djE1My4wNWg1Mi41YzI2Ljg5LDAsNDUuNjctMTAuMjEsNTcuNjItMjcuNDIsOS4xOC0xMi45NywxNC41MS0yOS43NiwxNC41MS00OS4xLDAtMjAuNjItNS45OC0zOC40Ny0xNi40My01MS44NlpNODg5LjAyLDE1My43NmMtNy4wNCwxMS4wNS0xNy45MiwxNy44NS0zNS40MiwxNy44NWgtMjQuNzZ2LTk5LjloMjQuNzZjMTcuMDcsMCwyNy43NCw2LjE2LDM0Ljc4LDE2LjgsNS43Niw4LjUsOC45NiwxOS45OCw4Ljk2LDMzLjE2cy0yLjk4LDIzLjYtOC4zMiwzMi4xWk0yOTcuMzYsNjguNzNjMTcuMjksMCwzMS43NSwxMC42MywzNS44LDI2LjU3aDI3LjQ2Yy01LjA2LTMxLjktMzAuMzEtNTMuMTQtNjMuMjctNTMuMTQtNDEuMywwLTY5LjU4LDMzLjU5LTY5LjU4LDc5LjVzMjguMjgsNzkuNSw2OS41OCw3OS41YzMyLjU1LDAsNTguMzktMjAuODksNjMuMDYtNTIuNTFsLTI3LjQ2LjIxYy00LjM4LDE1LjgtMTguNzIsMjUuNzItMzUuNiwyNS43Mi0yNS40MywwLTQxLjYyLTIyLjMyLTQxLjYyLTUyLjkzczE2LjE5LTUyLjkzLDQxLjYyLTUyLjkzWk0wLDI0My4xOWg1Ni44NXYtMjYuNThoLTI5LjExVjI2LjU3aDI5LjExVjBIMHYyNDMuMTlaTTk0My4xNSwwdjI2LjU3aDI5LjExdjE5MC4wNWgtMjkuMTF2MjYuNTdoNTYuODVWMGgtNTYuODVaTTU1OC44NCwxOTguMTloMjcuNzRWNDUuMTRoLTI3Ljc0djE1My4wNVpNNDAzLjg0LDQ1LjFoNTQuODZjMTguNzEsMCwzMC44Myw1LjEsMzguOTEsMTMuODIsNy42NSw4LjA4LDEyLjEyLDE5LjE0LDEyLjEyLDMxLjg5LDAsMTQuODgtNy4wMiwyNy40My0xOC41LDM0LjQ1LDMuNCwxLjQ5LDYuMTcsMy42MSw4LjUxLDYuMzgsMy42MSw0LjQ3LDUuNzQsMTAuNDIsNS43NCwyMS4yNnY0NS4yOWgtMjguN3YtNDIuOTVjMC01Ljc0LTEuMjgtOC41LTMuMTktMTAuNjMtMi4zNC0yLjU1LTUuOTUtNC4wNC0xMi4xMi00LjA0aC0yOS45OHY1Ny42MmgtMjcuNjRWNDUuMVpNNDc2LjM0LDEwOC40NmMzLjYxLTQuMDQsNS41My05LjE0LDUuNTMtMTUuMzEsMC01LjMyLTEuNDktMTAuODQtNS4zMi0xNS4xLTMuNjEtNC4wNC05LjU3LTYuNTktMjAuNDEtNi41OWgtMjQuNjZ2NDMuMzdoMjQuNjZjOS45OSwwLDE2LjE2LTIuNTUsMjAuMi02LjM4WiIvPgo8L3N2Zz4=",
+        "alt": "Scribd"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "The document provides a list of 53 urban agglomerations or cities in India that have a population of over 1 million people according to the 2011 census. It includes the name of the city, state it is located in, its population in 2023 and past census years, geographic area, and ranking. The top three most populous urban agglomerations are Delhi, Mumbai, and Kolkata.",
+    "search_title": "List of Million-Plus Urban Agglomerations Secret - Scribd",
+    "batch_number": 1,
+    "item_number": 8
+  },
+  {
+    "url": "https://www.wionews.com/photos/most-populated-cities-in-india-2024-delhi-mumbai-rank-1759997862332",
+    "title": "India's urban giants: Top 7 most populated cities, see where Delhi, Mumbai rank",
+    "meta_description": "Government data for the population in the last 10 years is not available, as there was no census in 2021. The last census was in 2011; this list is based on the projection and analysis of 2011 data by the UN and compiled by Statista.",
+    "headings": {
+      "h1": [
+        "India's urban giants: Top 7 most populated cities, see where Delhi, Mumbai rank"
+      ],
+      "h2": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Bengaluru",
+        "Chennai",
+        "Hyderabad",
+        "Ahmedabad"
+      ],
+      "h3": [
+        "Trending Photo",
+        "From Harry Brook to Steve Smith, top 5 batters in latest ICC Test rankings 2025",
+        "Amitabh Bachchan Net Worth: How rich is he?",
+        "Before Mirai release on OTT: Watch these 5 Teja Sajja movies on Netflix, Prime Video, ZEE5 and more",
+        "5 batters with most Test hundreds before turning 24: Only two Indians make the cut",
+        "5 Indian left-handed openers with most Test hundreds: Jaiswal not at top, check who is"
+      ]
+    },
+    "links": [
+      {
+        "text": "Live TV",
+        "href": "https://www.wionews.com/live-tv"
+      },
+      {
+        "text": "LOGIN",
+        "href": "https://www.wionews.com/login"
+      },
+      {
+        "text": "Live TV",
+        "href": "https://www.wionews.com/live-tv"
+      },
+      {
+        "text": "Latest",
+        "href": "https://www.wionews.com/latest-news"
+      },
+      {
+        "text": "World",
+        "href": "https://www.wionews.com/world"
+      },
+      {
+        "text": "India",
+        "href": "https://www.wionews.com/india-news"
+      },
+      {
+        "text": "Business",
+        "href": "https://www.wionews.com/business-economy"
+      },
+      {
+        "text": "Entertainment",
+        "href": "https://www.wionews.com/entertainment"
+      },
+      {
+        "text": "Hollywood",
+        "href": "https://www.wionews.com/entertainment/hollywood"
+      },
+      {
+        "text": "Bollywood",
+        "href": "https://www.wionews.com/entertainment/bollywood"
+      }
+    ],
+    "paragraphs": [
+      "Government data for the population in the last 10 years is not available, as there was no census in 2021. The last census was in 2011; this list is based on the projection and analysis of 2011 data by the UN and compiled by Statista.",
+      "According to the latest projection, Delhi is expected to have a population of 34.67 million, growing from 16.34 million in 2011. This is nearly 112 per cent growth. This is driven by the trend of rapid urbanisation towards Delhi from various parts of the country, especially from North and Central In",
+      "Mumbai has seen enormous growth in population since 2011. In the 2011 census, Mumbai city in the metro region had approximately 18.39 million population. Now, the 2025 projections put the number at 22.09 million.",
+      "The 2025 projection puts the population of Kolkata at 15.85 million, increasing from 14.03 million in the 2011 census.",
+      "India's Silicon Valley is at 4th with a projected population of 14.40 million in 2025, increasing from 8.52 million in 2011. The expansion of the tech sector, the startup ecosystem and the majority of technocratic talent seeking white collar jobs are contributing to the increased migration towards B"
+    ],
+    "json_ld": [],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://english.cdn.zeenews.com/static/public/updated_logos/fake-check.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.wionews.com/_next/static/media/author_profile.f41789b0.png",
+        "alt": "Kushal Deb"
+      },
+      {
+        "src": "https://cdn1.wionews.com/prod/wion/images/2025/20251009/image-1759997900835.jpg",
+        "alt": "Delhi"
+      },
+      {
+        "src": "https://cdn1.wionews.com/prod/wion/images/2025/20251009/image-1759998110740.jpg",
+        "alt": "Mumbai"
+      },
+      {
+        "src": "https://cdn1.wionews.com/prod/wion/images/2025/20251009/image-1759998298380.jpg",
+        "alt": "Kolkata"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "2 days agoBengaluru India's Silicon Valley is at 4th with a projected population of 14.40 million in 2025, increasing from 8.52 million in 2011. The expansion of the tech sector, the startup ecosystem and the majority of technocratic talent seeking white collar jobs are contributing to the increased migration towards Bengaluru.",
+    "search_title": "India's urban giants: Top 7 most populated cities, see where ... - WION",
+    "batch_number": 1,
+    "item_number": 9
+  },
+  {
+    "url": "https://everything.explained.today/List_of_million-plus_urban_agglomerations_in_India/",
+    "title": "List of million-plus urban agglomerations in India explained",
+    "meta_description": "What is List of million-plus urban agglomerations in India? Explaining what we could find out about List of million-plus urban agglomerations in India.",
+    "headings": {
+      "h1": [
+        "List of million-plus urban agglomerations in India explained"
+      ],
+      "h2": [
+        "Census",
+        "Demographia",
+        "See also",
+        "External links",
+        "Notes and References"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "Everything",
+        "href": "http://everything.explained.today"
+      },
+      {
+        "text": "Explained.Today",
+        "href": "http://explained.today"
+      },
+      {
+        "text": "A-Z Contents",
+        "href": "https://everything.explained.today/contents/list.htm"
+      },
+      {
+        "text": "L",
+        "href": "https://everything.explained.today/contents/list_L.htm"
+      },
+      {
+        "text": "LI",
+        "href": "https://everything.explained.today/contents/list_LI.htm"
+      },
+      {
+        "text": "LIS",
+        "href": "https://everything.explained.today/contents/list_LIS.htm"
+      },
+      {
+        "text": "List of urban agglomerations in India",
+        "href": "https://everything.explained.today/List_of_urban_agglomerations_in_India/"
+      },
+      {
+        "text": "South Asia",
+        "href": "https://everything.explained.today/South_Asia/"
+      },
+      {
+        "text": "seventh-largest",
+        "href": "https://everything.explained.today/List_of_countries_and_outlying_territories_by_total_area/"
+      },
+      {
+        "text": "most-populous",
+        "href": "https://everything.explained.today/List_of_countries_by_population/"
+      }
+    ],
+    "paragraphs": [
+      "See also: List of urban agglomerations in India.",
+      "India is a country in South Asia and is the seventh-largest country by geographical area, the most-populous country with more than 1.4 billion people, home to nearly 17.5 percent of the world's population.[1] India consists of twenty-eight states and eight union territories.[2]",
+      "The first official population census of India was conducted in 1872 and every ten years since 1951 by the office of the Registrar General and Census Commissioner under the Ministry of Home Affairs.[3] [4] The last official census was conducted in 2011.[5] The next census due in 2021 was delayed due ",
+      "As per Government of India, an urban agglomeration (U.A.) is a continuous urban spread constituting a town and its adjoining outgrowths (OGs), or two or more physically contiguous towns together with or without outgrowths of such towns. An Urban Agglomeration must consist of at least a statutory tow",
+      "Following is the list of urban agglomerations in India with a population of more than one million as per the 2011 census. As per the 2011 census, there were 52 (according to provisional census results, 53) urban agglomerations or cities with population of one million and above.[8] [9]"
+    ],
+    "json_ld": [],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://everything.explained.today/images/brain.gif",
+        "alt": "Explained Today"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Following is the list of urban agglomerations in India with a population of more than one million as per the 2011 census. As per the 2011 census, there were 52 (according to provisional census results, 53) urban agglomerations or cities with population of one million and above. [8][9]",
+    "search_title": "List of million-plus urban agglomerations in India explained",
+    "batch_number": 1,
+    "item_number": 10
+  }
+]

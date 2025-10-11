@@ -1,0 +1,19 @@
+# Netlify Configuration for Nexus AI
+[build]
+  base = "frontend"
+  publish = "."
+  command = "echo 'Nexus AI Frontend Deployed'"
+
+# SPA redirect - serve index.html for all routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# CORS headers
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+    Access-Control-Allow-Headers = "Content-Type"

@@ -1,0 +1,18 @@
+{
+  "question": "give me today weather of japan",
+  "answer": "TodayFull weather forecast for Japan in October 2025. Check the temperatures, chance of rain and more in Japan during October.\n\nDiscover the most accurate weather forecast for Japan in October 2025. Insights into temperature, precipitation, and weather trends.\n\n📚 Sources:\n1. Japan weather in October 2025 | Japan 14 day weather\nhttps://www.weather25.com/asia/japan?page=month&month=October\n2. Weather in Japan in October 2025 - Detailed Forecast\n3. Tokyo October 2025 Historical Weather Data (Japan) - Weather Spark",
+  "sources": [
+    "https://www.weather25.com/asia/japan?page=month&month=October",
+    "https://www.easeweather.com/asia/japan/october",
+    "https://weatherspark.com/h/m/143809/2025/10/%E4%B8%9C%E4%BA%AC%E3%80%81%E6%97%A5%E6%9C%AC2025%E5%B9%B410%E6%9C%88%E6%AD%B7%E5%8F%B2%E5%A4%A9%E6%B0%A3",
+    "https://www.meteoprog.com/weather/Tokyo/month/october/",
+    "https://www.weathertab.com/en/d/10/japan/tokyo-to/tokyo/",
+    "https://www.asiaodysseytravel.com/japan/weather-in-october.html",
+    "https://www.accuweather.com/en/jp/tokyo/226396/october-weather/226396",
+    "https://world-weather.info/forecast/japan/tokyo/october-2025/",
+    "https://thisis-japan.com/japan-weather-forecast-september-october-2025/",
+    "https://www.japanhighlights.com/japan/weather-in-october"
+  ],
+  "method": "web",
+  "timestamp": 1760104877.6336668
+}

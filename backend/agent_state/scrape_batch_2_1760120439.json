@@ -1,0 +1,382 @@
+[
+  {
+    "url": "https://www.pcmag.com/news/order-new-iphone-17-iphone-air-airpods-3-apple-watch-11-get-deal",
+    "error": "403 Client Error: Forbidden for url: https://www.pcmag.com/news/order-new-iphone-17-iphone-air-airpods-3-apple-watch-11-get-deal",
+    "title": "Error loading page",
+    "meta_description": "",
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "links": [],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Sep 19, 2025How to Get the Best Deal on the New iPhone 17, iPhone Air, AirPods 3, and Apple Watch Series 11, Ultra 3, and SE 3",
+    "search_title": "How to Get the Best Deal on the New iPhone 17, iPhone Air ... - PCMag",
+    "batch_number": 2,
+    "item_number": 6
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone/apple-iphone-17",
+    "error": "403 Client Error: Forbidden for url: https://www.t-mobile.com/cell-phone/apple-iphone-17",
+    "title": "Error loading page",
+    "meta_description": "",
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "links": [],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Shop the new Apple iPhone 17. More delightful. More durable. With a 6.3\" ProMotion display, 48MP rear cameras, Center Stage front camera, and A19 chip.",
+    "search_title": "New Apple iPhone 17: Deals, Prices, Colors, Features & Specs",
+    "batch_number": 2,
+    "item_number": 7
+  },
+  {
+    "url": "https://www.bestbuy.com/site/all-cell-phones-on-sale/iphone-on-sale/pcmcat1720706309934.c?id=pcmcat1720706309934",
+    "error": "HTTPSConnectionPool(host='www.bestbuy.com', port=443): Read timed out. (read timeout=10)",
+    "title": "Error loading page",
+    "meta_description": "",
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "links": [],
+    "paragraphs": [],
+    "json_ld": [],
+    "product_info": {},
+    "images": [],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Shop for your next iPhone on sale at Best Buy today. Find top deals, sales and special offers on popular iPhone models.",
+    "search_title": "iPhone Deals - Best Buy",
+    "batch_number": 2,
+    "item_number": 8
+  },
+  {
+    "url": "https://www.apple.com/iphone/",
+    "title": "iPhone - Apple",
+    "meta_description": "Designed for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.",
+    "headings": {
+      "h1": [
+        "iPhone"
+      ],
+      "h2": [
+        "Explore the lineup.",
+        "Take a closer look.",
+        "A Guided Tour of iPhone 17 Pro, iPhone Air, and iPhone 17",
+        "Why Apple is the bestplace to buy iPhone.",
+        "Apple Trade In",
+        "Ways to Buy",
+        "Personal Setup",
+        "Delivery and Pickup",
+        "Guided Video Shopping",
+        "Apple Store App",
+        "Get to know iPhone.",
+        "Innovation",
+        "Cutting-Edge Cameras",
+        "Chip and Battery Life",
+        "iOS and Apple Intelligence",
+        "Environment",
+        "Privacy",
+        "Peace of Mind",
+        "iPhone essentials.",
+        "Significant others",
+        "iPhone",
+        "Apple Footer"
+      ],
+      "h3": [
+        "New\n\niPhone 17 Pro\n                  \t\t\t            \t\niPhone 17 Pro",
+        "New\n\niPhone Air\n                  \t\t\t            \t\niPhone Air",
+        "New\n\niPhone 17\n                  \t\t\t            \t\niPhone 17",
+        "iPhone 16\n                  \t\t\t            \t\niPhone 16",
+        "iPhone 16e\n                  \t\t\t            \t\niPhone 16e",
+        "Apple Trade In",
+        "Trade in your eligible device for credit.",
+        "Ways to Buy",
+        "Apple Card Monthly Installments.",
+        "Carrier Deals at Apple",
+        "Personal Setup",
+        "Jump into online, one‑on‑one sessions.",
+        "Delivery and Pickup",
+        "Flexible delivery and pickup options.",
+        "Guided Video Shopping",
+        "Shop live with a Specialist.",
+        "Apple Store App",
+        "Shop in the Apple Store app, tailored specifically for you.",
+        "Innovation",
+        "Beautiful and durable, by design.",
+        "Cutting-Edge Cameras",
+        "Picture your best photos and videos.",
+        "Chip and Battery Life",
+        "Fast that lasts.",
+        "iOS and Apple Intelligence",
+        "New look. Even more magic.",
+        "Environment",
+        "Designed with the earth in mind.",
+        "Privacy",
+        "Your data. Just where you want it.",
+        "Peace of Mind",
+        "Helpful features. On and off the grid.",
+        "iPhone accessories",
+        "AirTag",
+        "iPhone and Mac",
+        "iPhone and Apple Watch",
+        "iPhone and AirPods",
+        "Shop and Learn\n\nShop and Learn",
+        "Apple Wallet\n\nApple Wallet",
+        "Account\n\nAccount",
+        "Entertainment\n\nEntertainment",
+        "Apple Store\n\nApple Store",
+        "For Business\n\nFor Business",
+        "For Education\n\nFor Education",
+        "For Healthcare\n\nFor Healthcare",
+        "For Government\n\nFor Government",
+        "Apple Values\n\nApple Values",
+        "About Apple\n\nAbout Apple"
+      ]
+    },
+    "links": [
+      {
+        "text": "Apple",
+        "href": "https://www.apple.com/"
+      },
+      {
+        "text": "Store",
+        "href": "https://www.apple.com/us/shop/goto/store"
+      },
+      {
+        "text": "Mac",
+        "href": "https://www.apple.com/mac/"
+      },
+      {
+        "text": "iPad",
+        "href": "https://www.apple.com/ipad/"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://www.apple.com/iphone/"
+      },
+      {
+        "text": "Watch",
+        "href": "https://www.apple.com/watch/"
+      },
+      {
+        "text": "Vision",
+        "href": "https://www.apple.com/apple-vision-pro/"
+      },
+      {
+        "text": "AirPods",
+        "href": "https://www.apple.com/airpods/"
+      },
+      {
+        "text": "TV & Home",
+        "href": "https://www.apple.com/tv-home/"
+      },
+      {
+        "text": "Entertainment",
+        "href": "https://www.apple.com/entertainment/"
+      }
+    ],
+    "paragraphs": [
+      "Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.* Shop iPhone",
+      "iPhone 17 Pro\n\t\t\t\t\t\t\t\t\t\t\t\tNew",
+      "iPhone Air\n\t\t\t\t\t\t\t\t\t\t\t\tNew",
+      "iPhone 17\n\t\t\t\t\t\t\t\t\t\t\t\tNew",
+      "Innovative design for ultimate performance and battery life."
+    ],
+    "json_ld": [
+      {
+        "@context": "http://schema.org",
+        "@id": "https://www.apple.com/#organization",
+        "@type": "Organization",
+        "name": "Apple",
+        "url": "https://www.apple.com/",
+        "logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202510061603",
+        "subOrganization": {
+          "@type": "Organization",
+          "name": "Apple Support",
+          "url": "https://support.apple.com",
+          "@id": "https://support.apple.com/#organization"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+1-800-692-7753",
+            "contactType": "sales",
+            "areaServed": "US"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+1-800-275-2273",
+            "contactType": "technical support",
+            "areaServed": "US",
+            "availableLanguage": [
+              "EN",
+              "ES"
+            ]
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+1-800-275-2273",
+            "contactType": "customer support",
+            "areaServed": "US",
+            "availableLanguage": [
+              "EN",
+              "ES"
+            ]
+          }
+        ],
+        "sameAs": [
+          "http://www.wikidata.org/entity/Q312",
+          "https://www.youtube.com/user/Apple",
+          "https://www.linkedin.com/company/apple",
+          "https://www.facebook.com/Apple",
+          "https://www.twitter.com/Apple"
+        ]
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Brand",
+        "@id": "https://www.apple.com/iphone/#brand",
+        "name": "iPhone",
+        "description": "Designed for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.",
+        "url": "https://www.apple.com/iphone/",
+        "mainEntityOfPage": "https://www.apple.com/iphone/",
+        "image": "https://www.apple.com/v/iphone/home/cf/images/meta/iphone__cud4q04omsuq_og.png"
+      }
+    ],
+    "product_info": {
+      "color": "Cosmic Orange\n\n\nDeep Blue\n\n\nSilver"
+    },
+    "images": [
+      {
+        "src": "https://www.apple.com/v/iphone/home/cf/images/overview/chapternav/nav_iphone_17pro__d60uog2c064i_large.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.apple.com/v/iphone/home/cf/images/overview/chapternav/nav_iphone_air__bbj6j2c39efm_large.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.apple.com/v/iphone/home/cf/images/overview/chapternav/nav_iphone_17__ffxyxejeezqm_large.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.apple.com/v/iphone/home/cf/images/overview/chapternav/nav_iphone_16__kcscr25z9num_large.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.apple.com/v/iphone/home/cf/images/overview/chapternav/nav_iphone_16e__3qxl86zrk0yq_large.png",
+        "alt": ""
+      }
+    ],
+    "price": "1",
+    "rating": null,
+    "search_snippet": "Designed for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.",
+    "search_title": "iPhone - Apple",
+    "batch_number": 2,
+    "item_number": 9
+  },
+  {
+    "url": "https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers",
+    "title": "New iPhone 17 models and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up |  News Release | Verizon",
+    "meta_description": "Get the new iPhone 17 lineup at Verizon with incredible offers, 5G power, and a 3-year price-lock guarantee. Pre-order starts Sept 12, available Sept 19.",
+    "headings": {
+      "h1": [
+        "New iPhone 17 models and iPhone Air now at Verizon:  5G power, incredible trade-in offers and savings that add up"
+      ],
+      "h2": [
+        "Get an iPhone 17 on us when you switch to Verizon and sign up for any myPlan. No trade-in required!",
+        "[Breaking news]",
+        "[Verizon’s best iPhone offers for new & existing customers]",
+        "[Introducing the best new Apple products]",
+        "[The latest iPhone models]",
+        "[The new Apple Watch lineup]",
+        "[AirPods Pro 3]",
+        "[Buy the latest iPhone generation at Verizon]",
+        "Related Articles"
+      ],
+      "h3": []
+    },
+    "links": [
+      {
+        "text": "Accessibility Resource Center",
+        "href": "https://www.verizon.com/about/accessibility/overview/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.verizon.com/about"
+      },
+      {
+        "text": "Careers",
+        "href": "https://mycareer.verizon.com/"
+      },
+      {
+        "text": "Support",
+        "href": "https://www.verizon.com/support/"
+      },
+      {
+        "text": "Our Company",
+        "href": "https://www.verizon.com/about/our-company"
+      },
+      {
+        "text": "Our Company Overview",
+        "href": "https://www.verizon.com/about/our-company"
+      },
+      {
+        "text": "Who We Are",
+        "href": "https://www.verizon.com/about/our-company/who-we-are"
+      },
+      {
+        "text": "Overview",
+        "href": "https://www.verizon.com/about/our-company/who-we-are"
+      },
+      {
+        "text": "Our Culture",
+        "href": "https://www.verizon.com/about/our-company/diversity-and-inclusion"
+      },
+      {
+        "text": "History and Timeline",
+        "href": "https://www.verizon.com/about/our-company/history-and-timeline"
+      }
+    ],
+    "paragraphs": [
+      "Get an iPhone 17 on us when you switch to Verizon and sign up for any myPlan. No trade-in required!",
+      "Verizon is your home for the latest iPhone models, with incredible choice, savings and flexibility on the fastest, most reliable 5G network. All four models, which include the all-new iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and the all-new iPhone Air, will be available for pre-order on Friday, ",
+      "Experience Apple's latest and greatest iPhone generation on Verizon's award-winning, ultra-reliable 5G network and combine it with our flexible myPlan options starting as low as $30 per line per month for four lines on Unlimited Welcome with auto pay (plus taxes and fees) AND a three-year price guar",
+      "“Verizon customers already get the best network with the most value for money,” said Sowmyanarayan Sampath, CEO, Verizon Consumer. “And now, with the new iPhone models, Apple's innovation meets the power, reliability and value of Verizon's 5G network. With our unbelievable trade-in offers, flexible ",
+      "Get ready for our most attractive offers of the year. Whether you're a new or existing customer, or a Verizon Business customer, we're making it easy to get your hands on the new iPhone 17."
+    ],
+    "json_ld": [],
+    "product_info": {},
+    "images": [
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "alt": ""
+      },
+      {
+        "src": "https://www.verizon.com/about/sites/default/files/2025-09/iphone17family-1230x690.jpg",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Sep 10, 2025Get the new iPhone 17 lineup at Verizon with incredible offers, 5G power, and a 3-year price-lock guarantee. Pre-order starts Sept 12, available Sept 19.",
+    "search_title": "New iPhone 17 models and iPhone Air now at Verizon: 5G power ...",
+    "batch_number": 2,
+    "item_number": 10
+  }
+]

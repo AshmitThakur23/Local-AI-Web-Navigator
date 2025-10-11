@@ -1,0 +1,18 @@
+{
+  "question": "current hyderbad weather",
+  "answer": "6 days agoHyderabad is expected to witness heavy rain and thunderstorms later this evening after a dry and humid start to the day. The IMD has forecast powerful downpours across several Telangana districts, with some areas likely to receive over 100 mm of rainfall. Hyderabad Weather Forecast Today: IMD ...\n\nSource: Hyderabad Weather: Dry Morning, Stormy Night - Times Now\nhttps://www.timesnownews.com/hyderabad/hyderabad-weather-dry-morning-stormy-night-city-braces-for-heavy-rainfall-ahead-article-152938631",
+  "sources": [
+    "https://www.accuweather.com/en/in/hyderabad/202190/weather-forecast/202190",
+    "https://weather.com/weather/tenday/l/2cb5811576f2dcd3e6e4f311db2bc6188bff9de3ebe0373d623d632272e0fc20",
+    "https://mausam.imd.gov.in/hyderabad/",
+    "https://weather.now/in/hyderabad",
+    "https://www.timesnownews.com/hyderabad/hyderabad-weather-dry-morning-stormy-night-city-braces-for-heavy-rainfall-ahead-article-152938631",
+    "https://www.timeanddate.com/weather/india/hyderabad",
+    "https://www.theweathernetwork.com/en/city/in/telangana/hyderabad/hourly",
+    "https://indianexpress.com/article/cities/hyderabad/telangana-hyderabad-rains-imd-weather-forecast-today-live-news-updates-rain-alert-waterlogged-locations-traffic-affected-areas-10272182/",
+    "https://www.msn.com/en-us/weather/forecast/in-Hyderabad,TG,%20%20India",
+    "https://www.outlookindia.com/national/hyderabad-rain-alert-heavy-downpours-expected-as-state-remains-on-high-alert"
+  ],
+  "method": "web",
+  "timestamp": 1760098224.6876757
+}

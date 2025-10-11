@@ -1,0 +1,767 @@
+[
+  {
+    "url": "https://www.ablebits.com/office-addins-blog/find-top-bottom-values-excel-formula/",
+    "title": "Excel formula to find top 3, 5, 10 values in column or row",
+    "meta_description": "Excel formula to find top or bottom values in a list, get top N values in each row, and return their names or other matching data.",
+    "headings": {
+      "h1": [
+        "How to find top or bottom N values in Excel"
+      ],
+      "h2": [
+        "Excel formula to find top 3, 5, 10, etc. values",
+        "Excel formula to get bottom 3, 5, 10, etc. values in Excel",
+        "Excel formula to find top N values in a row",
+        "How to get matches of largest N values",
+        "How to find top values with duplicates",
+        "How to find top values in Excel with criteria",
+        "How to FILTER top or bottom values in Excel",
+        "Practice workbook for download",
+        "You may also be interested in:"
+      ],
+      "h3": [
+        "51 comments"
+      ]
+    },
+    "links": [
+      {
+        "text": "Ablebits blog",
+        "href": "https://www.ablebits.com/office-addins-blog/"
+      },
+      {
+        "text": "Excel",
+        "href": "https://www.ablebits.com/office-addins-blog/category/excel-tips/"
+      },
+      {
+        "text": "Find & Replace",
+        "href": "https://www.ablebits.com/office-addins-blog/tag/excel-find-replace/"
+      },
+      {
+        "text": "Svetlana Cheusheva",
+        "href": "https://www.ablebits.com/office-addins-blog/author/svetlana-cheusheva/"
+      },
+      {
+        "text": "LARGE",
+        "href": "https://www.ablebits.com/office-addins-blog/excel-large-function-get-highest-values/"
+      },
+      {
+        "text": "absolute reference",
+        "href": "https://www.ablebits.com/office-addins-blog/relative-absolute-reference-excel/#Absolute-cell-reference"
+      },
+      {
+        "text": "relative reference",
+        "href": "https://www.ablebits.com/office-addins-blog/relative-absolute-reference-excel/#Relative-cell-reference"
+      },
+      {
+        "text": "SMALL",
+        "href": "https://www.ablebits.com/office-addins-blog/excel-small-function-find-lowest-values/"
+      },
+      {
+        "text": "mixed reference",
+        "href": "https://www.ablebits.com/office-addins-blog/relative-absolute-reference-excel/#mixed-cell-reference"
+      },
+      {
+        "text": "INDEX MATCH formula",
+        "href": "https://www.ablebits.com/office-addins-blog/excel-index-match-function-vlookup/"
+      }
+    ],
+    "paragraphs": [
+      "by Svetlana Cheusheva, updated on March 13, 2023",
+      "With this tutorial, you will learn how to find top 3, 5, 10 or n values in a dataset and retrieve matching data.",
+      "Want to identify the highest or lowest N values in a column or row? That sounds like a pretty easy thing to do. Need to return not only the values themselves but their names too? Oh, that could be a challenge. There are one or more criteria to be met. Hmm, is that even possible?! Yep, all this can b",
+      "To get the highest N values in a list, use the LARGE and ROWS functions together in this way:",
+      "For example, to find top N values in B2:B12, you enter the below formula in the topmost cell where you want the results to appear (D2), and then drag it through as many cells as needed."
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "@id": "https://www.ablebits.com/#schema/BreadcrumbList/1",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Ablebits blog",
+            "item": "https://www.ablebits.com/office-addins-blog/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Excel",
+            "item": "https://www.ablebits.com/office-addins-blog/category/excel-tips/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Find &amp; Replace",
+            "item": "https://www.ablebits.com/office-addins-blog/tag/excel-find-replace/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Excel formula to find top 3, 5, 10 values in column or row"
+          }
+        ]
+      }
+    ],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://cdn.ablebits.com/_img-blog/authors/small/svetlana-cheusheva.jpg",
+        "alt": "Svetlana Cheusheva"
+      },
+      {
+        "src": "https://cdn.ablebits.com/_img-blog/top-values/top-values-excel.png",
+        "alt": "Excel formula to find top values in a list"
+      },
+      {
+        "src": "https://cdn.ablebits.com/_img-blog/top-values/bottom-values-excel.png",
+        "alt": "Excel formula to get bottom values in a column"
+      },
+      {
+        "src": "https://cdn.ablebits.com/_img-blog/top-values/top-values-row.png",
+        "alt": "Excel formula to find top 3 values in a row"
+      },
+      {
+        "src": "https://cdn.ablebits.com/_img-blog/top-values/top-values-matches.png",
+        "alt": "Formula to get matches of largest 3 values"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Excel formula to find top or bottom values in a list, get top N values in each row, and return their names or other matching data.",
+    "search_title": "Excel formula to find top 3, 5, 10 values in column or row - Ablebits",
+    "batch_number": 1,
+    "item_number": 1
+  },
+  {
+    "url": "https://excelnotes.com/get-the-top-3-items-in-a-list-by-formula/",
+    "title": "How to Get the Top 3 Items in a List by Formula - ExcelNotes",
+    "meta_description": "When you work with data directly, you can sort based on a column and then easily get the top values. For example, sort value from largest to smallest to decide the top 3 values, then get the items based on the values.",
+    "headings": {
+      "h1": [
+        "How to Get the Top 3 Items in a List by Formula"
+      ],
+      "h2": [
+        "ExcelNotes"
+      ],
+      "h3": [
+        "Leave a Reply Cancel Reply",
+        "You may like:"
+      ]
+    },
+    "links": [
+      {
+        "text": "ExcelNotes",
+        "href": "https://excelnotes.com"
+      },
+      {
+        "text": "Swimming",
+        "href": "https://excelnotes.com/swimming-canada-time-standards/"
+      },
+      {
+        "text": "Weekend",
+        "href": "https://excelnotes.com/weekends-worldwide/"
+      },
+      {
+        "text": "Holiday",
+        "href": "https://excelnotes.com/holidays-2025/"
+      },
+      {
+        "text": "Workday",
+        "href": "https://excelnotes.com/working-days-2025/"
+      },
+      {
+        "text": "Swimming",
+        "href": "https://excelnotes.com/swimming-canada-time-standards/"
+      },
+      {
+        "text": "Weekend",
+        "href": "https://excelnotes.com/weekends-worldwide/"
+      },
+      {
+        "text": "Holiday",
+        "href": "https://excelnotes.com/holidays-2025/"
+      },
+      {
+        "text": "Workday",
+        "href": "https://excelnotes.com/working-days-2025/"
+      },
+      {
+        "text": "Home",
+        "href": "https://excelnotes.com"
+      }
+    ],
+    "paragraphs": [
+      "When you work with data directly, you can sort based on a column and then easily get the top values. For example, sort value from largest to smallest to decide the top 3 values, then get the items based on the values.",
+      "However, when you work with Pivot Table which contains a lot of communities, it is getting tricky to pick up the top 3 values because the value changes in different communities.",
+      "To have the maximum value:",
+      "=INDEX(A2:A6, MATCH(MAX(B2:B6),B2:B6,0))",
+      "To have the second largest value:"
+    ],
+    "json_ld": [],
+    "product_info": {
+      "color": "=INDEX(A2:A6, MATCH(MAX(B2:B6),B2:B6,0))"
+    },
+    "images": [
+      {
+        "src": "data:image/gif,GIF89a%01%00%01%00%80%00%00%00%00%00%FF%FF%FF%21%F9%04%01%00%00%00%00%2C%00%00%00%00%01%00%01%00%00%02%01D%00%3B",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "When you work with data directly, you can sort based on a column and then easily get the top values. For example, sort value from largest to smallest to decide the top 3 values, then get the items based on the values.",
+    "search_title": "How to Get the Top 3 Items in a List by Formula - ExcelNotes",
+    "batch_number": 1,
+    "item_number": 2
+  },
+  {
+    "url": "https://www.techtarget.com/searcherp/answer/Finding-the-top-three-values-using-the-Excel-LARGE-function",
+    "title": "How to use the Excel LARGE function, with examples | TechTarget",
+    "meta_description": "Learn about the Excel LARGE function and how it can help users trying to rank numbers in a list as well as some related functions.",
+    "headings": {
+      "h1": [
+        "How to use the Excel LARGE function, with examples"
+      ],
+      "h2": [
+        "The Excel LARGE function can help users who need to rank numbers in a list. Learn how to use it, some related functions and some errors to avoid when doing so.",
+        "How to use the LARGE function in Excel",
+        "What is the Excel LARGE function?",
+        "Common LARGE function errors",
+        "Example use cases",
+        "Related functions"
+      ],
+      "h3": [
+        "Avoiding the helper column",
+        "Using pivot tables"
+      ]
+    },
+    "links": [
+      {
+        "text": "Search ERP",
+        "href": "https://www.techtarget.com/"
+      },
+      {
+        "text": "Login",
+        "href": "https://www.techtarget.com/login"
+      },
+      {
+        "text": "Register",
+        "href": "https://www.techtarget.com/register"
+      },
+      {
+        "text": "TechTarget Network",
+        "href": "https://www.techtarget.com/"
+      },
+      {
+        "text": "Oracle",
+        "href": "https://www.techtarget.com/searchoracle/"
+      },
+      {
+        "text": "Data Management",
+        "href": "https://www.techtarget.com/searchdatamanagement/"
+      },
+      {
+        "text": "SAP",
+        "href": "https://www.techtarget.com/searchsap/"
+      },
+      {
+        "text": "Business Analytics",
+        "href": "https://www.techtarget.com/searchbusinessanalytics/"
+      },
+      {
+        "text": "Content Management",
+        "href": "https://www.techtarget.com/searchcontentmanagement/"
+      },
+      {
+        "text": "HRSoftware",
+        "href": "https://www.techtarget.com/searchhrsoftware/"
+      }
+    ],
+    "paragraphs": [
+      "Microsoft Excel has so many functions that inexperienced Excel users can find the program daunting. One function that you will likely find useful but may not know about is the LARGE function in Excel.",
+      "Here's more about what the Excel LARGE function is and how it can help users trying to rank numbers in a list, as well as some related functions and mistakes to avoid.",
+      "The main purpose of the LARGE function is to find a particular rank in a list. Being able to do so is especially useful if you want to find the top three or top five numbers in a list.",
+      "For example, you may need to find your company's top three revenue amounts.",
+      "To use the LARGE function, click the fx icon, and the Insert Function feature in Excel will open. Search for the function using the \"Search for a function\" field, then press Go and click OK once you've found the function."
+    ],
+    "json_ld": [
+      {
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.techtarget.com/searcherp/answer/Finding-the-top-three-values-using-the-Excel-LARGE-function"
+        },
+        "datePublished": "2025-09-09T09:30Z",
+        "name": "How to use the Excel LARGE function, with examples",
+        "author": [
+          {
+            "name": "Eric St-Jean and Bill Jelen",
+            "@type": "Person"
+          }
+        ],
+        "publisher": {
+          "name": "TechTarget",
+          "logo": {
+            "url": "https://cdn.ttgtmedia.com/rms/amp/amp_teal_logo_115_60.png",
+            "height": 60,
+            "width": 115,
+            "@type": "ImageObject"
+          },
+          "@type": "Organization"
+        },
+        "image": "https://cdn.ttgtmedia.com/visuals/searchAWS/management/aws_article_012.jpg",
+        "description": "The Excel LARGE function can help users who need to rank numbers in a list. Learn how to use it, some related functions and some errors to avoid when doing so.",
+        "headline": "How to use the Excel LARGE function, with examples",
+        "@type": "Article",
+        "hasPart": {
+          "cssSelector": ".paywall",
+          "@type": "WebPageElement",
+          "isAccessibleForFree": false
+        },
+        "isAccessibleForFree": false,
+        "@context": "https://schema.org"
+      }
+    ],
+    "product_info": {
+      "size": ""
+    },
+    "images": [
+      {
+        "src": "https://www.techtarget.com/visuals/searchAWS/management/aws_article_012_searchsitetablet_520X173.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.techtarget.com/rms/onlineimages/excellarge1-f_mobile.jpg",
+        "alt": "Screenshot showing the Insert Function search box."
+      },
+      {
+        "src": "https://www.techtarget.com/rms/onlineimages/excellarge2-h_half_column_mobile.jpg",
+        "alt": "Screenshot of LARGEST with and without helper column."
+      },
+      {
+        "src": "https://www.techtarget.com/rms/onlineimages/excellarge3-h_half_column_mobile.jpg",
+        "alt": "Screenshot showing largest and smallest examples."
+      },
+      {
+        "src": "https://www.techtarget.com/visuals/digdeeper/1.jpg",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Sep 9, 2025How to use the LARGE function in Excel The main purpose of the LARGE function is to find a particular rank in a list. Being able to do so is especially useful if you want to find the top three or top five numbers in a list. For example, you may need to find your company's top three revenue amounts.",
+    "search_title": "How to use the Excel LARGE function, with examples",
+    "batch_number": 1,
+    "item_number": 3
+  },
+  {
+    "url": "https://www.exceldemy.com/excel-top-10-based-on-criteria/",
+    "title": "How to Get Top 10 Values Based on Criteria in Excel",
+    "meta_description": "How to find out top 10 values based on any criteria in Excel. Learn to find out the top 10 values based on both single and multiple criteria.",
+    "headings": {
+      "h1": [
+        "How to Get Top 10 Values Based on Criteria in Excel"
+      ],
+      "h2": [
+        "More Examples of Finding Top 10 Values in Excel",
+        "How to Identify Top 10 Values with Duplicates in Excel",
+        "Related Articles"
+      ],
+      "h3": [
+        "Method 1 – Find Top 10 Values Based on a Single Criterion in Excel",
+        "Method 2 – Get Top 10 Values Based on Multiple Criteria in Excel",
+        "Example 1 – Use of the LARGE and ROW Functions to Get Top 10 Numbers",
+        "Example 2 – Apply the LARGE and COLUMN Functions for Finding the Top 2 Values in a Row",
+        "Example 3 – Identify Top 10 Numbers Using the SORT and FILTER Functions",
+        "Example 4 – Utilize INDEX and MATCH Functions to Find Names That Correspond to Top 10 Values",
+        "Example 5 – Use XLOOKUP and LARGE Functions to Get the Top 10 Numbers",
+        "Leave a reply Cancel reply",
+        "Posts from: Excel Find Value in Range"
+      ]
+    },
+    "links": [
+      {
+        "text": "Free Excel Courses",
+        "href": "https://www.udemy.com/user/exceldemy/"
+      },
+      {
+        "text": "Create Basic Excel Pivot Tables",
+        "href": "https://www.udemy.com/course/excel-2016-pivot-tables-for-beginners/"
+      },
+      {
+        "text": "Excel Formulas and Functions",
+        "href": "https://www.udemy.com/course/learn-microsoft-excel-formulas-and-functions-with-examples/"
+      },
+      {
+        "text": "Excel Charts and SmartArt Graphics",
+        "href": "https://www.udemy.com/course/how-to-make-excel-charts-and-work-with-smartart-graphics/"
+      },
+      {
+        "text": "Advanced Excel Training",
+        "href": "https://www.udemy.com/course/learn-advanced-ms-excel-training-courses-online-certificate/"
+      },
+      {
+        "text": "Data Analysis Excel for Beginners",
+        "href": "https://www.udemy.com/course/statistical-data-analysis-in-excel/"
+      },
+      {
+        "text": "Tutorials",
+        "href": "https://www.exceldemy.com/learn-excel/"
+      },
+      {
+        "text": "Excel Basics",
+        "href": "https://www.exceldemy.com/topics/excel-basics/"
+      },
+      {
+        "text": "Excel Functions",
+        "href": "https://www.exceldemy.com/topics/excel-functions/"
+      },
+      {
+        "text": "Excel Formulas",
+        "href": "https://www.exceldemy.com/topics/excel-formulas/"
+      }
+    ],
+    "paragraphs": [
+      "We’ll use a dataset with student Names and marks in Physics, Chemistry and History. Note that this article uses Excel 365. Some functionalities may be missing in older Excel versions.",
+      "Let’s calculate the top 10 marks in physics for students who have more than 60 in chemistry.",
+      "Let’s extract the names of the students with the highest scores in Physics.",
+      "Read More: How to Find Top 5 Values and Names in Excel",
+      "Here’s an alternative that doesn’t use XLOOKUP."
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#article",
+            "isPartOf": {
+              "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/"
+            },
+            "author": {
+              "name": "Rifat Hassan",
+              "@id": "https://www.exceldemy.com/#/schema/person/6dba3973d96cf482829227aa5e77872d"
+            },
+            "headline": "How to Get Top 10 Values Based on Criteria in Excel",
+            "datePublished": "2021-07-26T12:21:35+00:00",
+            "dateModified": "2024-05-31T18:15:43+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/"
+            },
+            "wordCount": 953,
+            "commentCount": 6,
+            "publisher": {
+              "@id": "https://www.exceldemy.com/#organization"
+            },
+            "image": {
+              "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-5.png?v=1697442159",
+            "keywords": [
+              "Excel Find Value in Range"
+            ],
+            "articleSection": [
+              "Excel Formulas",
+              "Excel Functions"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.exceldemy.com/excel-top-10-based-on-criteria/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/",
+            "url": "https://www.exceldemy.com/excel-top-10-based-on-criteria/",
+            "name": "How to Get Top 10 Values Based on Criteria in Excel",
+            "isPartOf": {
+              "@id": "https://www.exceldemy.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-5.png?v=1697442159",
+            "datePublished": "2021-07-26T12:21:35+00:00",
+            "dateModified": "2024-05-31T18:15:43+00:00",
+            "description": "How to find out top 10 values based on any criteria in Excel. Learn to find out the top 10 values based on both single and multiple criteria.",
+            "breadcrumb": {
+              "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.exceldemy.com/excel-top-10-based-on-criteria/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#primaryimage",
+            "url": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-5.png?v=1697442159",
+            "contentUrl": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-5.png?v=1697442159",
+            "width": 650,
+            "height": 617,
+            "caption": "excel top 10 based on criteria"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.exceldemy.com/excel-top-10-based-on-criteria/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.exceldemy.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Excel Formulas",
+                "item": "https://www.exceldemy.com/topics/excel-formulas/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "How to Get Top 10 Values Based on Criteria in Excel"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.exceldemy.com/#website",
+            "url": "https://www.exceldemy.com/",
+            "name": "ExcelDemy",
+            "description": "Excel Training, Services, Free Tutorial, Forum, Templates",
+            "publisher": {
+              "@id": "https://www.exceldemy.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.exceldemy.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.exceldemy.com/#organization",
+            "name": "ExcelDemy",
+            "url": "https://www.exceldemy.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.exceldemy.com/#/schema/logo/image/",
+              "url": "https://www.exceldemy.com/wp-content/uploads/2023/12/exceldemy-logo.png",
+              "contentUrl": "https://www.exceldemy.com/wp-content/uploads/2023/12/exceldemy-logo.png",
+              "width": 424,
+              "height": 84,
+              "caption": "ExcelDemy"
+            },
+            "image": {
+              "@id": "https://www.exceldemy.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/ExcelDemy",
+              "https://x.com/ExcelDemy",
+              "https://www.linkedin.com/company/exceldemy/",
+              "https://www.youtube.com/@exceldemy2006",
+              "https://www.udemy.com/user/exceldemy/"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.exceldemy.com/#/schema/person/6dba3973d96cf482829227aa5e77872d",
+            "name": "Rifat Hassan",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.exceldemy.com/#/schema/person/image/",
+              "url": "https://secure.gravatar.com/avatar/a286fce3ba713639fc396d5af5a4cf963c9b66bdabf23b0a67b5b6a0472e0084?s=96&d=mm&r=g",
+              "contentUrl": "https://secure.gravatar.com/avatar/a286fce3ba713639fc396d5af5a4cf963c9b66bdabf23b0a67b5b6a0472e0084?s=96&d=mm&r=g",
+              "caption": "Rifat Hassan"
+            },
+            "description": "Rifat Hassan, BSc, Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, has worked with the ExcelDemy project for almost 2 years. Within these 2 years, he has written over 250 articles. He has also conducted a few Boot Camp sessions on effective coding, especially Visual Basic for Applications (VBA). Currently, he is working as a Software Developer to develop and deploy additional add-ins to enhance the customers with a more sophisticated experience with Microsoft Office Suits, especially Excel. Designation Software Developer in SOFTEKO. Lives in Dhaka, Bangladesh. Education B.sc in Electrical and Electronic Engineering (EEE), Bangladesh University of Engineering and Technology (BUET). Expertise Data Analysis, Content Writing, C, C++, Java, Python, JavaScript (Basic), VBA, vb.net, Microsoft Office. Experience • Software Development • Technical Content Writing • Undergraduate Thesis Summary • Currently working as Software Developer in SOFTEKO • Started technical content writing of Excel &amp; VBA in June 2021 later promoted to Software Developer. • Accomplished Undergraduate thesis on Computer Simulation and Study of Real FineScenarios of Optical Fiber Using COMSOL MULTIPHYSICS. • Participated in Multiple Solo and Team Projects as a Part of Undergraduate Course Works, like Developing a Sensor Based Monitoring System for Disabled Persons, Developing a Booth Multiplier using Very Large Scale Integration (VLSI), etc. Research &amp; Publication • Dual-Side Polished SPR Biosensor with Wide Sensing Range.",
+            "sameAs": [
+              "https://www.facebook.com/rifat.hassan.10297/",
+              "https://www.instagram.com/rifaat1609/",
+              "https://www.linkedin.com/in/rifat-hassan-9b56681b2/",
+              "https://x.com/https://twitter.com/Rifat1609"
+            ],
+            "url": "https://www.exceldemy.com/author/rifat/"
+          }
+        ]
+      }
+    ],
+    "product_info": {
+      "size": ""
+    },
+    "images": [
+      {
+        "src": "https://www.exceldemy.com/wp-content/uploads/2023/12/exceldemy-logo.png",
+        "alt": "ExcelDemy"
+      },
+      {
+        "src": "https://secure.gravatar.com/avatar/a286fce3ba713639fc396d5af5a4cf963c9b66bdabf23b0a67b5b6a0472e0084?s=48&d=mm&r=g",
+        "alt": ""
+      },
+      {
+        "src": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-1.png",
+        "alt": "excel top 10 based on criteria"
+      },
+      {
+        "src": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.exceldemy.com/wp-content/uploads/2021/07/excel-top-10-based-on-criteria-3.png",
+        "alt": ""
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Jun 1, 2024How to find out top 10 values based on any criteria in Excel. Learn to find out the top 10 values based on both single and multiple criteria.",
+    "search_title": "How to Get Top 10 Values Based on Criteria in Excel",
+    "batch_number": 1,
+    "item_number": 4
+  },
+  {
+    "url": "https://www.extendoffice.com/documents/excel/813-excel-select-highest-lowest-value.html",
+    "title": "How to select the highest or lowest value in Excel?",
+    "meta_description": "Learn how to find and select the highest or lowest values in Excel using formulas, Conditional Formatting, or Kutools for Excel.",
+    "headings": {
+      "h1": [
+        "How to select the highest or lowest value in Excel?"
+      ],
+      "h2": [],
+      "h3": [
+        "Best Office Productivity Tools"
+      ]
+    },
+    "links": [
+      {
+        "text": "ExtendOffice",
+        "href": "https://www.extendoffice.com"
+      },
+      {
+        "text": "Kutools for Office",
+        "href": "https://www.extendoffice.com/product/kutools-for-office.html"
+      },
+      {
+        "text": "Office Tab",
+        "href": "https://www.extendoffice.com/product/office-tab.html"
+      },
+      {
+        "text": "Kutools for Excel",
+        "href": "https://www.extendoffice.com/product/kutools-for-excel.html"
+      },
+      {
+        "text": "Kutools for Outlook",
+        "href": "https://www.extendoffice.com/product/kutools-for-outlook.html"
+      },
+      {
+        "text": "Kutools for Word",
+        "href": "https://www.extendoffice.com/product/kutools-for-word.html"
+      },
+      {
+        "text": "Kutools for PowerPoint",
+        "href": "https://www.extendoffice.com/product/kutools-for-powerpoint.html"
+      },
+      {
+        "text": "Kutools for Office",
+        "href": "https://www.extendoffice.com/download/kutools-for-office.html"
+      },
+      {
+        "text": "Office Tab",
+        "href": "https://www.extendoffice.com/download/office-tab.html"
+      },
+      {
+        "text": "Kutools for Excel",
+        "href": "https://www.extendoffice.com/download/kutools-for-excel.html"
+      }
+    ],
+    "paragraphs": [
+      "Kutools for Office — One Suite. Five Tools. Get More Done.",
+      "Finding and selecting the highest or lowest values in an Excel spreadsheet is a common task, whether it's identifying the top sales figures or the lowest prices in a dataset. This guide provides several practical methods to help you quickly find and highlight these values.",
+      "Just enter the below formula into a blank cell you want to get the result:",
+      "And then press Enter key to get the largest or smallest number in the range, see screenshot:",
+      "Sometimes, you may want to find the largest or smallest 3 numbers from a worksheet. In this section, I will introduce formulas to help you solve this problem, please do as follows:"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Documents",
+            "item": "https://www.extendoffice.com/documents.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Excel",
+            "item": "https://www.extendoffice.com/documents/excel.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to select the highest or lowest value in Excel?",
+            "item": "https://www.extendoffice.com/documents/excel/813-excel-select-highest-lowest-value.html"
+          }
+        ]
+      }
+    ],
+    "product_info": {},
+    "images": [
+      {
+        "src": "https://cdn.extendoffice.com/images/stories/doc-excel/largest-smallest-value/doc-largest-smallest-value-1.gif",
+        "alt": "A screenshot showing the result of the MAX and MIN formulas to find the largest and smallest values in Excel"
+      },
+      {
+        "src": "https://cdn.extendoffice.com/images/stories/doc-excel/largest-smallest-value/doc-largest-smallest-value-2.gif",
+        "alt": "A screenshot demonstrating formulas to find the largest or smallest three values in Excel"
+      },
+      {
+        "src": "https://cdn.extendoffice.com/images/stories/doc-excel/largest-smallest-value/doc-largest-smallest-value-12.gif",
+        "alt": "An animated demo showing the Auto Text feature in Kutools for Excel saving and reusing formulas"
+      },
+      {
+        "src": "https://cdn.extendoffice.com/images/stories/doc-excel/largest-smallest-value/doc-largest-smallest-value-3.png",
+        "alt": "A screenshot of Conditional Formatting's Top 10 Items option in Excel"
+      },
+      {
+        "src": "https://cdn.extendoffice.com/images/stories/doc-excel/largest-smallest-value/doc-largest-smallest-value-4.png",
+        "alt": "A screenshot showing highlighted largest values using Conditional Formatting"
+      }
+    ],
+    "price": null,
+    "rating": null,
+    "search_snippet": "Nov 21, 2024Finding and selecting the highest or lowest values in an Excel spreadsheet is a common task, whether it's identifying the top sales figures or the lowest prices in a dataset. This guide provides several practical methods to help you quickly find and highlight these values. Find out the highest or lowest value in a selection with formulas Find and highlight the highest or lowest value in a ...",
+    "search_title": "How to select the highest or lowest value in Excel? - ExtendOffice",
+    "batch_number": 1,
+    "item_number": 5
+  }
+]

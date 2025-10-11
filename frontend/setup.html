@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus AI - Setup Required</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 600px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h1 {
+            color: #667eea;
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 16px;
+            margin-bottom: 30px;
+        }
+        
+        .status {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+        
+        .status.success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+        
+        .status.warning {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+        }
+        
+        .icon {
+            font-size: 24px;
+        }
+        
+        .options {
+            margin-top: 30px;
+        }
+        
+        .option {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .option h3 {
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 8px;
+        }
+        
+        .option p {
+            color: #666;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 10px;
+            transition: transform 0.2s;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .code {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            margin-top: 10px;
+            overflow-x: auto;
+        }
+        
+        .footer {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Nexus AI</h1>
+        <p class="subtitle">Your Intelligent Assistant - Setup Guide</p>
+        
+        <div class="status success">
+            <span class="icon">✅</span>
+            <div>
+                <strong>Frontend Deployed</strong><br>
+                <small>Static files are live on Netlify</small>
+            </div>
+        </div>
+        
+        <div class="status warning">
+            <span class="icon">⚠️</span>
+            <div>
+                <strong>Backend Required</strong><br>
+                <small>Python backend needs separate hosting</small>
+            </div>
+        </div>
+        
+        <div class="options">
+            <h2 style="color: #333; margin-bottom: 15px;">Choose Your Setup:</h2>
+            
+            <div class="option">
+                <h3>🖥️ Option 1: Run Locally (Recommended)</h3>
+                <p>Clone the repo and run everything on your computer with full AI capabilities.</p>
+                <div class="code">git clone https://github.com/AshmitThakur23/Nexus-App.git
+cd Nexus-App
+.\run_server.bat</div>
+                <a href="https://github.com/AshmitThakur23/Nexus-App" class="btn" target="_blank">View on GitHub</a>
+            </div>
+            
+            <div class="option">
+                <h3>☁️ Option 2: Deploy Backend</h3>
+                <p>Deploy the Python backend to Railway, Render, or Heroku for 24/7 availability.</p>
+                <ul style="margin-left: 20px; margin-top: 10px; color: #666;">
+                    <li><strong>Railway.app</strong> - Easiest, one-click deploy</li>
+                    <li><strong>Render.com</strong> - Free tier available</li>
+                    <li><strong>Heroku</strong> - Classic choice</li>
+                </ul>
+            </div>
+            
+            <div class="option">
+                <h3>📚 Option 3: Frontend Only</h3>
+                <p>Use this Netlify deployment as a demo/portfolio piece. Backend runs locally when needed.</p>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Made with ❤️ by Ashmit Thakur</p>
+            <p style="margin-top: 5px; font-size: 12px;">
+                Powered by Mistral AI + Web Search
+            </p>
+        </div>
+    </div>
+</body>
+</html>
