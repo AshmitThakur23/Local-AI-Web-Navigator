@@ -58,3 +58,11 @@ yarn-error.log
 
 # Playwright
 .playwright/
+
+# Agent state and generated files
+backend/agent_state/*.json
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
