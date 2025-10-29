@@ -56,12 +56,12 @@ Key prioritization (built‑in):
 
 ```mermaid
 flowchart LR
-  U[User 🔵] --> F[Frontend 🖥️ (index.html)]
-  F -->|POST /ask| B[Flask Backend ⚙️ (app.py)]
-  B -->|Local query| L[Ollama Mistral 🧠]
-  B -->|If unsure| S[Web Search 🌐 (DuckDuckGo via Playwright)]
-  S --> R[Result Scorer 🧮 (priority logic)]
-  L --> A[Answer Builder ✍️]
+  U["User"] --> F["Frontend (index.html)"]
+  F -->|POST /ask| B["Flask Backend (app.py)"]
+  B -->|Local query| L["Ollama Mistral"]
+  B -->|If unsure| S["Web Search - DuckDuckGo via Playwright"]
+  S --> R["Result Scorer - priority logic"]
+  L --> A["Answer Builder"]
   R --> A
   A --> F
   F --> U
@@ -138,9 +138,9 @@ sequenceDiagram
   autonumber
   participant U as User
   participant FE as Frontend
-  participant BE as Backend (Flask)
-  participant LL as Local LLM (Ollama Mistral)
-  participant WS as Web Search (Playwright/DDG)
+  participant BE as Backend - Flask
+  participant LL as Local LLM - Ollama Mistral
+  participant WS as Web Search - Playwright/DDG
 
   U->>FE: Ask a question
   FE->>BE: POST /ask {question}
@@ -182,20 +182,16 @@ Features:
 
 High‑level flow:
 ```mermaid
-flowchart LR
-  U["User 🔵"] --> F["Frontend 🖥️ (index.html)"]
-  F -->|POST /ask| B["Flask Backend ⚙️ (app.py)"]
-  B -->|Local query| L["Ollama Mistral 🧠"]
-  B -->|If unsure| S["Web Search 🌐 (DuckDuckGo via Playwright)"]
-  S --> R["Result Scorer 🧮 (priority logic)"]
-  L --> A["Answer Builder ✍️"]
-  R --> A
-  A --> F
-  F --> U
+flowchart TD
+  UI["Scraper UI"] -->|POST /scrape_products| API["Flask API"]
+  API --> SR["Search Results - DDG/Bing Fallback"]
+  SR --> WB["Web Scraper - requests + BeautifulSoup"]
+  WB -->|Batches| FS["agent_state/*.json"]
+  FS --> UI
   subgraph Frontend
-    UI --> TableView[Table View 📊]
-    UI --> GalleryView[Gallery View 🖼️]
-    UI --> Cards[JSON Cards 🧾]
+    UI --> TableView["Table View"]
+    UI --> GalleryView["Gallery View"]
+    UI --> Cards["JSON Cards"]
   end
 ```
 
