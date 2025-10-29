@@ -214,7 +214,6 @@ Nexus-App/
 │  ├─ index.html            # Main chat interface
 │  ├─ styles.css            # Styling
 │  └─ script.js             # Frontend logic
-├─ table_view.html          # Table + Gallery UI (served by backend if configured)
 ├─ *.bat / *.ps1            # One-click starters and helpers (Windows)
 ├─ requirements.txt         # Python deps
 └─ README.md                # This file
