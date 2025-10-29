@@ -56,10 +56,10 @@ Key prioritization (built‑in):
 
 ```mermaid
 flowchart LR
-  U["User"] --> F["Frontend (index.html)"]
-  F -->|POST /ask| B["Flask Backend (app.py)"]
-  B -->|Local query| L["Ollama Mistral"]
-  B -->|If unsure| S["Web Search - DuckDuckGo via Playwright"]
+  U["User"] --> F["Frontend - index.html"]
+  F -->|"POST /ask"| B["Flask Backend - app.py"]
+  B -->|"Local query"| L["Ollama Mistral"]
+  B -->|"If unsure"| S["Web Search - DuckDuckGo via Playwright"]
   S --> R["Result Scorer - priority logic"]
   L --> A["Answer Builder"]
   R --> A
@@ -80,15 +80,16 @@ Modules:
 
 Windows recommended
 
-1) Double‑click:
-- START_NEXUS_AI.bat
+1) Double‑click one of these:
+- **START_NEXUS_FIXED.bat** — Full setup (starts Ollama + backend + opens browser)
+- **START_BACKEND_FIXED.bat** — Backend only (if you want to open frontend manually)
 
 What happens automatically:
 - ✅ Checks/starts Ollama
 - ✅ Starts backend (keep its window open!)
-- ✅ Opens the browser UI
+- ✅ Opens the browser UI (with START_NEXUS_FIXED.bat)
 
-If you close the backend window, the UI will show a “backend not running” error. Just run START_NEXUS_AI.bat again.
+If you close the backend window, the UI will show a “backend not running” error. Just run START_NEXUS_FIXED.bat again.
 
 ---
 
@@ -138,21 +139,21 @@ sequenceDiagram
   autonumber
   participant U as User
   participant FE as Frontend
-  participant BE as Backend - Flask
-  participant LL as Local LLM - Ollama Mistral
-  participant WS as Web Search - Playwright/DDG
+  participant BE as Backend Flask
+  participant LL as Local LLM Ollama Mistral
+  participant WS as Web Search Playwright DDG
 
   U->>FE: Ask a question
-  FE->>BE: POST /ask {question}
+  FE->>BE: POST /ask question
   BE->>LL: Try local answer
   alt Confident
     LL-->>BE: Local answer
   else Not confident
-    BE->>WS: Run search (DuckDuckGo)
+    BE->>WS: Run search DuckDuckGo
     WS-->>BE: Search results
-    BE->>BE: Apply priority scoring (date, today, wikipedia)
+    BE->>BE: Apply priority scoring
   end
-  BE-->>FE: Answer + sources + method
+  BE-->>FE: Answer sources method
   FE-->>U: Render response with badges
 ```
 
@@ -183,10 +184,10 @@ Features:
 High‑level flow:
 ```mermaid
 flowchart TD
-  UI["Scraper UI"] -->|POST /scrape_products| API["Flask API"]
-  API --> SR["Search Results - DDG/Bing Fallback"]
-  SR --> WB["Web Scraper - requests + BeautifulSoup"]
-  WB -->|Batches| FS["agent_state/*.json"]
+  UI["Scraper UI"] -->|"POST /scrape_products"| API["Flask API"]
+  API --> SR["Search Results - DDG Bing Fallback"]
+  SR --> WB["Web Scraper - requests BeautifulSoup"]
+  WB -->|"Batches"| FS["agent_state JSON files"]
   FS --> UI
   subgraph Frontend
     UI --> TableView["Table View"]

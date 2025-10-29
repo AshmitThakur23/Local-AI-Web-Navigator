@@ -1,1 +1,0 @@
-cd "d:\Nexus AI\backend" && start "Nexus AI Backend" cmd /k "python app.py" && timeout /t 3 /nobreak >nul && start "" "d:\Nexus AI\frontend\index.html"
