@@ -22,7 +22,7 @@
 <p align="center">
   <strong>
     <a href="#-features">Features</a> •
-    <a href="#-quick-start-oneclick">Quick Start</a> •
+    <a href="#-quick-start-one-click">Quick Start</a> •
     <a href="#-how-it-works-step-by-step">How It Works</a> •
     <a href="#-api-endpoints">Documentation</a>
   </strong>
@@ -436,12 +436,12 @@ Result: 4 JSON batch files saved to agent_state/
 
 **📅 Date-Specific Query:**
 ```
-💬 User: "What happened on October 10, 2025?"
+💬 User: "What happened on December 7, 2023?"
 
 🤖 Nexus AI:
    Method: 🌐 Web Search
    Boost: +3000 (exact date)
-   Answer: Events scheduled for October 10, 2025...
+   Answer: Events that occurred on December 7, 2023...
    Sources: [wikipedia.org, news.com]
 ```
 
@@ -641,8 +641,8 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 Need help? We've got you covered:
 
 - 📖 **Documentation**: Check START_HERE.md and USAGE_GUIDE.md
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/AshmitThakur23/Local-AI-Web-Navigator/issues)
-- 💡 **Feature Requests**: [Open an issue](https://github.com/AshmitThakur23/Local-AI-Web-Navigator/issues)
+- 🐛 **Bug Reports**: Open an issue on GitHub
+- 💡 **Feature Requests**: Open an issue on GitHub
 - 🏥 **Health Check**: http://localhost:5000/health
 - 💬 **Questions**: Start a discussion in the repository
 
