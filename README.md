@@ -692,6 +692,27 @@ flowchart LR
 <div align="center">
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
+# NOTICE
+
+This project, Nexus AI - Local AI Web Navigator, was created by:
+
+**Ashmit Thakur**
+- GitHub: https://github.com/AshmitThakur23
+- Repository: https://github. com/AshmitThakur23/Local-AI-Web-Navigator
+
+## Original Creation Date
+October 2024
+
+## Copyright
+© 2024 Ashmit Thakur. All rights reserved. 
+
+If you fork, clone, or use any part of this code, you MUST:
+1. Give credit to the original author
+2.  Include this NOTICE file
+3.  Include the LICENSE file
+4. Not claim this as your own original work
+
+Violation of these terms may result in DMCA takedown requests.
 
 <br>
 
