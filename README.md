@@ -1,30 +1,60 @@
 <div align="center">
 
-# 🚀 Nexus AI — Local AI Web Navigator
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:000d1a,75:001a0d,100:000000&height=240&text=NEXUS%20AI&fontSize=78&fontColor=00ff88&fontAlignY=42&desc=◈%20LOCAL%20AI%20WEB%20NAVIGATOR%20·%20PRIVACY-FIRST%20·%20POWERED%20BY%20MISTRAL%20◈&descAlignY=65&descSize=12&animation=blinking&stroke=00ff88&strokeWidth=2" width="100%"/>
 
-### *Your Intelligent, Privacy-First AI Assistant with Smart Web Navigation*
-[![Playwright](https://img.shields.io/badge/Playwright-1.48-2EAD33?logo=microsoft-edge&logoColor=white)]
-[![Ollama](https://img.shields.io/badge/Ollama-Mistral-00B140)]
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![GitHub](https://img.shields.io/badge/GitHub-AshmitThakur23-181717?logo=github&logoColor=white)](https://github.com/AshmitThakur23)
+<br/>
+
+<!-- STAT CARDS ROW -->
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/LOCAL_LLM-MISTRAL-00ff88?style=for-the-badge&logo=ollama&logoColor=white&labelColor=001a0d"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/RESPONSE-3--5_SECONDS-00f5ff?style=for-the-badge&logo=lightning&logoColor=white&labelColor=001a1a"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/PRIVACY-100%25_LOCAL-ffd700?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1500"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=00101a"/>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Playwright-1.48-2EAD33?style=for-the-badge&logo=microsoft-edge&logoColor=white&labelColor=001a0d"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Flask-3.x-00f5ff?style=for-the-badge&logo=flask&logoColor=white&labelColor=001a1a"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Python-3.10+-ffd700?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1500"/>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge&labelColor=001a0d"/>
+  </td>
+</tr>
+</table>
+
+<br/>
 
 <img alt="Coder GIF" height=600 width=500 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br>
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" alt="AI Animation">
+<br/>
 
-*Harness the power of Local LLMs + Intelligent Web Scraping — All on Your Machine*
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" alt="AI Animation"/>
 
-[Features](#-features) • [Quick Start](#-quick-start) • [How It Works](#-how-it-works) • [Documentation](#-documentation) 
+<br/>
 
-</div>
+> *Harness the power of Local LLMs + Intelligent Web Scraping — All on Your Machine*
 
----
+<br/>
 
-[✨ Features](#-features) • [🚀 Quick Start](#-quick-start) • [🏗️ Architecture](#%EF%B8%8F-architecture) • [📖 Documentation](#-documentation) • [🛒 Product Scraper](#-product-scraper) • [📸 Screenshots](#-screenshots)
-
-<br>
+[![Features](https://img.shields.io/badge/✨_FEATURES-000?style=for-the-badge&labelColor=001a0d&color=00ff88)](#-features)
+[![Quick Start](https://img.shields.io/badge/🚀_QUICK_START-000?style=for-the-badge&labelColor=001a1a&color=00f5ff)](#-quick-start)
+[![Architecture](https://img.shields.io/badge/🏗_ARCHITECTURE-000?style=for-the-badge&labelColor=1a1500&color=ffd700)](#️-architecture)
+[![Product Scraper](https://img.shields.io/badge/🛒_SCRAPER-000?style=for-the-badge&labelColor=0f0020&color=a855f7)](#-product-scraper)
+[![API Docs](https://img.shields.io/badge/📡_API_DOCS-000?style=for-the-badge&labelColor=1a0010&color=ff006e)](#-api-reference)
 
 </div>
 
@@ -32,13 +62,13 @@
 
 ## 🌟 Project Overview
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer. gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-**Nexus AI** is a cutting-edge, privacy-first AI assistant that combines the power of **locally-hosted Large Language Models** (via Ollama) with **intelligent web navigation** using Playwright automation. 
+**Nexus AI** is a cutting-edge, privacy-first AI assistant that combines the power of **locally-hosted Large Language Models** (via Ollama) with **intelligent web navigation** using Playwright automation.
 
-Unlike cloud-based AI assistants, Nexus AI keeps your data on your machine while still providing real-time web intelligence when needed. 
+Unlike cloud-based AI assistants, Nexus AI keeps your data on your machine while still providing real-time web intelligence when needed.
 
-<br>
+<br/>
 
 ### 🎯 Key Highlights
 
@@ -49,19 +79,13 @@ Unlike cloud-based AI assistants, Nexus AI keeps your data on your machine while
 - ⚡ **Lightning Fast** — 3-5 second responses
 - 🎨 **Modern UI** — ChatGPT-style interface
 
-<br clear="both">
+<br clear="both"/>
 
 ---
 
 ## ✨ Features
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent. com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <table>
 <tr>
@@ -104,10 +128,10 @@ Unlike cloud-based AI assistants, Nexus AI keeps your data on your machine while
 
 ### 💡 Smart Prioritization Engine
 ```
-📅 Exact Date: +3000 score boost
-📰 Today/Recent: +1000 score boost
+📅 Exact Date:     +3000 score boost
+📰 Today/Recent:   +1000 score boost
 📚 Wikipedia Range: +5000 supreme priority
-🧊 Old Content: Penalty system
+🧊 Old Content:    Penalty system applied
 ```
 
 </td>
@@ -120,22 +144,20 @@ Unlike cloud-based AI assistants, Nexus AI keeps your data on your machine while
 
 <div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js" alt="Tech Stack"/>
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js" alt="Tech Stack" />
-
-<br><br>
+<br/><br/>
 
 | Technology | Purpose | Version |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Backend & AI Logic | 3.10+ |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | REST API Server | 3.x |
-| ![Playwright](https://img.shields.io/badge/Playwright-2EAD33? style=flat-square&logo=microsoft-edge&logoColor=white) | Browser Automation | 1.48 |
-| ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-2b6cb0?style=flat-square) | HTML Parsing | 4. 12 |
-| ![Ollama](https://img.shields.io/badge/Ollama-00B140?style=flat-square) | Local LLM Runtime | Latest |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=flat-square&logo=html5&logoColor=white) | Frontend UI | 5 |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Styling | 3 |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Frontend Logic | ES6+ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Backend & AI Logic | `3.10+` |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) **Flask** | REST API Server | `3.x` |
+| ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=microsoft-edge&logoColor=white) **Playwright** | Browser Automation | `1.48` |
+| ![BS4](https://img.shields.io/badge/BeautifulSoup4-2b6cb0?style=flat-square) **BeautifulSoup** | HTML Parsing | `4.12` |
+| ![Ollama](https://img.shields.io/badge/Ollama-00B140?style=flat-square) **Ollama** | Local LLM Runtime | `Latest` |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** | Frontend UI | `5` |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** | Styling | `3` |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Frontend Logic | `ES6+` |
 
 </div>
 
@@ -143,46 +165,42 @@ Unlike cloud-based AI assistants, Nexus AI keeps your data on your machine while
 
 ## 🏗️ Architecture
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ```mermaid
 flowchart TB
-    subgraph User["👤 User Interface"]
+    subgraph USER["👤 User Interface"]
         A[Web Browser]
     end
-    
-    subgraph Frontend["🎨 Frontend Layer"]
-        B[index.html - ChatGPT-Style UI]
-        C[script.js - Frontend Logic]
-        D[styles.css - Modern Styling]
+
+    subgraph FRONT["🎨 Frontend Layer"]
+        B[index.html — ChatGPT-Style UI]
+        C[script.js — Frontend Logic]
+        D[styles.css — Modern Styling]
     end
-    
-    subgraph Backend["⚙️ Backend Layer"]
-        E[Flask API Server - app.py]
-        F[Agent Core - agent_step3.py]
-        G[Web Scraper - web_scraper.py]
+
+    subgraph BACK["⚙️ Backend Layer"]
+        E[Flask API Server — app.py]
+        F[Agent Core — agent_step3.py]
+        G[Web Scraper — web_scraper.py]
     end
-    
+
     subgraph AI["🧠 AI Layer"]
         H[Ollama Runtime]
         I[Mistral LLM]
     end
-    
-    subgraph Web["🌐 Web Layer"]
+
+    subgraph WEB["🌐 Web Layer"]
         J[Playwright Browser]
         K[DuckDuckGo Search]
         L[Website Scraping]
     end
-    
-    subgraph Storage["💾 Storage"]
+
+    subgraph STORE["💾 Storage"]
         M[agent_state/]
         N[JSON Batch Files]
     end
-    
+
     A --> B
     B --> C
     C --> E
@@ -195,9 +213,16 @@ flowchart TB
     J --> L
     F --> M
     M --> N
+
+    style USER fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style FRONT fill:#001a0d,stroke:#00ff88,color:#00ff88
+    style BACK fill:#1a1500,stroke:#ffd700,color:#ffd700
+    style AI fill:#0f0020,stroke:#a855f7,color:#a855f7
+    style WEB fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style STORE fill:#1a0010,stroke:#ff006e,color:#ff006e
 ```
 
-<br>
+<br/>
 
 ### 🔄 Request Flow
 
@@ -209,19 +234,19 @@ sequenceDiagram
     participant B as ⚙️ Backend
     participant L as 🧠 Local LLM
     participant W as 🌐 Web Search
-    
+
     U->>F: Ask Question
     F->>B: POST /ask
     B->>L: Query Mistral
-    
-    alt ✅ Confident Answer
+
+    alt Confident Answer
         L-->>B: Return Local Answer
-    else ❌ Need Web Data
+    else Needs Web Data
         B->>W: Playwright Search
         W-->>B: Search Results
         B->>B: Apply Scoring Algorithm
     end
-    
+
     B-->>F: JSON Response
     F-->>U: Render Answer + Sources
 ```
@@ -230,13 +255,7 @@ sequenceDiagram
 
 ## 🚀 Quick Start
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent. com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### ⚡ One-Click Start (Windows)
 
@@ -244,41 +263,39 @@ sequenceDiagram
 
 | Script | Description |
 |:---:|:---|
-| 🟢 **START_NEXUS_FIXED.bat** | Full Setup - Starts Ollama + Backend + Opens Browser |
-| 🔵 **START_BACKEND_FIXED.bat** | Backend Only - Manual frontend opening |
-| 🟣 **START_NEXUS_AI.ps1** | PowerShell - Alternative starter |
+| 🟢 **START_NEXUS_FIXED.bat** | Full Setup — Starts Ollama + Backend + Opens Browser |
+| 🔵 **START_BACKEND_FIXED.bat** | Backend Only — Manual frontend opening |
+| 🟣 **START_NEXUS_AI.ps1** | PowerShell — Alternative starter |
 
 </div>
 
 ```bash
-# Simply double-click any . bat file to start! 
+# Simply double-click any .bat file to start!
 ```
-
-<br>
 
 ### 🛠️ Manual Installation
 
 <details>
 <summary><b>📋 Click to expand Step-by-Step Setup Guide</b></summary>
 
-<br>
+<br/>
 
 #### Prerequisites
 
 ```bash
-# 1️⃣ Install Ollama (https://ollama.ai)
+# 1. Install Ollama — https://ollama.ai
 
-# 2️⃣ Pull the Mistral model
+# 2. Pull the Mistral model
 ollama pull mistral
 
-# 3️⃣ Clone the repository
+# 3. Clone the repository
 git clone https://github.com/AshmitThakur23/Local-AI-Web-Navigator.git
 cd Local-AI-Web-Navigator
 
-# 4️⃣ Install Python dependencies
+# 4. Install Python dependencies
 pip install -r requirements.txt
 
-# 5️⃣ Install Playwright browsers
+# 5. Install Playwright browsers
 playwright install chrome
 ```
 
@@ -321,7 +338,7 @@ curl http://localhost:5000/health
 │   └── _redirects              # Netlify routing config
 │
 ├── ⚙️ backend/
-│   ├── app. py                  # Flask REST API server
+│   ├── app.py                  # Flask REST API server
 │   ├── agent_step3.py          # Core AI agent & scoring logic
 │   ├── web_scraper.py          # BeautifulSoup web scraper
 │   ├── test_mistral_speed.py   # Performance testing
@@ -330,7 +347,7 @@ curl http://localhost:5000/health
 ├── 🚀 Starters/
 │   ├── START_NEXUS_FIXED.bat       # One-click full start
 │   ├── START_BACKEND_FIXED.bat     # Backend only
-│   ├── START_NEXUS_AI. ps1          # PowerShell starter
+│   ├── START_NEXUS_AI.ps1          # PowerShell starter
 │   └── start_all_services.py       # Python launcher
 │
 ├── 📖 Documentation/
@@ -338,32 +355,26 @@ curl http://localhost:5000/health
 │   ├── USAGE_GUIDE.md
 │   ├── PRODUCT_SCRAPER_GUIDE.md
 │   ├── NVIDIA_GPU_CONFIG.md
-│   └── ...  (more guides)
+│   └── ... (more guides)
 │
 ├── requirements.txt            # Python dependencies
 ├── netlify.toml                # Deployment config
-└── README.md                   # You are here!  📍
+└── README.md                   # You are here! 📍
 ```
 
 ---
 
 ## 🛒 Product Scraper
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent. com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
-
-### 🎯 Scrape Products Like a Pro! 
+### 🎯 Scrape Products Like a Pro!
 
 </div>
 
-<br>
-
-The Product Scraper module allows you to extract structured product data from the web with support for multiple view modes. 
-
-<br>
+The Product Scraper module allows you to extract structured product data from the web with support for multiple view modes.
 
 ### 📊 View Modes
 
@@ -373,10 +384,10 @@ The Product Scraper module allows you to extract structured product data from th
 
 #### 📋 Table View
 ```
-http://localhost:5000/table_view. html
+http://localhost:5000/table_view.html
 ```
-✅ Sortable columns<br>
-✅ CSV export<br>
+✅ Sortable columns<br/>
+✅ CSV export<br/>
 ✅ Clean data layout
 
 </td>
@@ -386,8 +397,8 @@ http://localhost:5000/table_view. html
 ```
 http://localhost:5000/table_view.html
 ```
-✅ 4-5 images per product<br>
-✅ Visual browsing<br>
+✅ 4-5 images per product<br/>
+✅ Visual browsing<br/>
 ✅ Quick overview
 
 </td>
@@ -395,24 +406,22 @@ http://localhost:5000/table_view.html
 
 #### 📦 JSON Cards
 ```
-http://localhost:5000/scraper. html
+http://localhost:5000/scraper.html
 ```
-✅ Raw JSON data<br>
-✅ Developer friendly<br>
+✅ Raw JSON data<br/>
+✅ Developer friendly<br/>
 ✅ API integration
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ### 🔄 Scraper Flow
 
 ```mermaid
 flowchart LR
     A[🔍 Search Query] --> B[Flask API]
-    B --> C[DuckDuckGo/Bing]
+    B --> C[DuckDuckGo]
     C --> D[Web Scraper]
     D --> E[Batch Processing]
     E --> F[JSON Files]
@@ -420,9 +429,14 @@ flowchart LR
     G --> H[📋 Table]
     G --> I[🖼️ Gallery]
     G --> J[📦 Cards]
-```
 
-<br>
+    style A fill:#001a0d,stroke:#00ff88,color:#00ff88
+    style F fill:#1a1500,stroke:#ffd700,color:#ffd700
+    style G fill:#0f0020,stroke:#a855f7,color:#a855f7
+    style H fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style I fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style J fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+```
 
 ### 💡 Example Usage
 
@@ -448,37 +462,31 @@ POST /scrape_products
 
 ## 🔌 API Reference
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
-
-<img src="https://user-images.githubusercontent. com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
 
 ### 📡 Available Endpoints
 
 </div>
 
-<br>
-
 | Method | Endpoint | Description | Request Body |
 |:---:|:---|:---|:---|
-| `GET` | `/health` | Health check | - |
+| `GET` | `/health` | Health check | — |
 | `POST` | `/ask` | Ask AI question | `{ "question": "..." }` |
-| `POST` | `/scrape_products` | Scrape products | `{ "query": ".. .", "limit": 20 }` |
-| `POST` | `/shutdown` | Graceful shutdown | - |
-
-<br>
+| `POST` | `/scrape_products` | Scrape products | `{ "query": "...", "limit": 20 }` |
+| `POST` | `/shutdown` | Graceful shutdown | — |
 
 ### 📝 Response Format
 
 ```json
 {
-    "answer": "Your detailed answer here.. .",
+    "answer": "Your detailed answer here...",
     "method": "local | web",
     "sources": [
         {
             "title": "Source Title",
-            "url": "https://.. .",
+            "url": "https://...",
             "score": 5000
         }
     ]
@@ -492,7 +500,7 @@ POST /scrape_products
 <details>
 <summary><b>🔧 Click to expand Customization Options</b></summary>
 
-<br>
+<br/>
 
 ### Frontend Configuration
 
@@ -505,7 +513,7 @@ const API_URL = 'http://localhost:5000';  // Change if using different port
 
 ```python
 # backend/agent_step3.py
-OLLAMA_API = "http://127.0.0. 1:11434/api/generate"
+OLLAMA_API = "http://127.0.0.1:11434/api/generate"
 MODEL_NAME = "mistral"
 channel = "chrome"      # or "msedge"
 headless = False        # True for headless mode
@@ -514,7 +522,7 @@ headless = False        # True for headless mode
 ### Port Configuration
 
 ```python
-# backend/app. py
+# backend/app.py
 app.run(host="0.0.0.0", port=5001)  # Change port here
 ```
 
@@ -536,6 +544,14 @@ app.run(host="0.0.0.0", port=5001)  # Change port here
 
 </div>
 
+```mermaid
+xychart-beta
+    title "Response Time by Query Type (seconds)"
+    x-axis ["Local LLM", "Web Search", "Product Scraper", "Health Check"]
+    y-axis "Seconds" 0 --> 25
+    bar [4, 15, 20, 1]
+```
+
 ---
 
 ## 🧠 Scoring Algorithm
@@ -546,32 +562,39 @@ The intelligent scoring system prioritizes relevant and recent information:
 
 </div>
 
-<br>
-
-| Priority Level | Score Boost | Trigger |
+| Priority | Score Boost | Trigger |
 |:---:|:---:|:---|
 | ⭐⭐⭐⭐⭐ | **+5000** | Wikipedia + Historical range (e.g., "2003–2006") |
 | ⭐⭐⭐⭐ | **+3000** | Exact date match (e.g., "Oct 10, 2025") |
-| ⭐⭐⭐ | **+1000** | Today/Recent information |
+| ⭐⭐⭐ | **+1000** | Today / Recent information |
 | ⭐⭐ | **+500** | Wikipedia general articles |
 | ⭐ | **0** | Standard results |
-| 🚫 | **-200 to -800** | Old/outdated content penalty |
+| 🚫 | **-200 to -800** | Old / outdated content penalty |
+
+```mermaid
+graph LR
+    Q([Query Input]) --> D{Date Signal?}
+    D -->|Exact date found| E1[+3000 Boost]
+    D -->|Today or recent| E2[+1000 Boost]
+    D -->|Historical range| E3[+5000 Boost]
+    D -->|Wikipedia match| E4[+500 Boost]
+    D -->|Old content| E5[-200 to -800]
+    E1 & E2 & E3 & E4 & E5 --> F[Final Score]
+    F --> G([Top Ranked Results])
+
+    style Q fill:#001a0d,stroke:#00ff88,color:#00ff88
+    style D fill:#1a1500,stroke:#ffd700,color:#ffd700
+    style E3 fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style E1 fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style E5 fill:#1a0000,stroke:#ff006e,color:#ff006e
+    style G fill:#001a0d,stroke:#00ff88,color:#00ff88
+```
 
 ---
 
 ## 🧪 Usage Examples
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent. com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br><br>
-
-### 💬 Chat Examples
-
-</div>
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -583,19 +606,19 @@ The intelligent scoring system prioritizes relevant and recent information:
 ┌─────────────────────────────────────────────────────────────────┐
 │  📅 Exact Date Query                                            │
 │  ❓ "What's happening on October 10, 2025?"                     │
-│  ✅ +3000 exact date match priority 📅                          │
+│  ✅ +3000 exact date match priority                             │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  📚 Historical Range                                            │
 │  ❓ "What happened between 2003 and 2006?"                      │
-│  ✅ Wikipedia prioritized with +5000 🔝                         │
+│  ✅ Wikipedia prioritized with +5000                            │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  🧠 General Knowledge                                           │
 │  ❓ "How does photosynthesis work?"                             │
-│  ✅ Mistral answers locally (fast & private) 🔒                 │
+│  ✅ Mistral answers locally — fast & private                    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -604,11 +627,11 @@ The intelligent scoring system prioritizes relevant and recent information:
 ## 🔧 Troubleshooting
 
 <details>
-<summary><b>🐛 Click to expand Common Issues & Solutions</b></summary>
+<summary><b>🐛 Click to expand Common Issues and Solutions</b></summary>
 
-<br>
+<br/>
 
-### ❌ Backend Won't Start
+### Backend Won't Start
 
 ```bash
 # Check if port 5000 is free
@@ -621,34 +644,24 @@ pip install -r requirements.txt
 ollama serve
 ```
 
-### ❌ Frontend Can't Connect
+### Frontend Can't Connect
 
 ```javascript
 // Verify API_URL in frontend/script.js
 const API_URL = 'http://localhost:5000';
-
 // Make sure backend window shows:
 // "Running on http://localhost:5000"
 ```
 
-### ❌ Chrome Won't Open
+### Chrome Won't Open
 
 ```bash
 # Install Playwright browsers
 playwright install chrome
-
-# Or use Edge instead
-# Set channel="msedge" in agent_step3.py
+# Or use Edge — set channel="msedge" in agent_step3.py
 ```
 
-### ❌ CAPTCHA Issues
-
-```python
-# Ensure DuckDuckGo is used (not Google/Bing for main search)
-# Try headless mode: headless = True
-```
-
-### 🔍 System Check
+### System Check
 
 ```bash
 python test_setup.py
@@ -660,14 +673,6 @@ python test_setup.py
 
 ## 🤝 Contributing
 
-<div align="center">
-
-We welcome contributions! Here's how you can help:
-
-</div>
-
-<br>
-
 ```mermaid
 flowchart LR
     A[🍴 Fork Repo] --> B[🌿 Create Branch]
@@ -675,48 +680,43 @@ flowchart LR
     C --> D[✅ Test]
     D --> E[📤 Pull Request]
     E --> F[🎉 Merged!]
+
+    style A fill:#001a0d,stroke:#00ff88,color:#00ff88
+    style C fill:#1a1500,stroke:#ffd700,color:#ffd700
+    style E fill:#001a1a,stroke:#00f5ff,color:#00f5ff
+    style F fill:#001a0d,stroke:#00ff88,color:#00ff88
 ```
 
-<br>
-
 1. **Fork** the repository
-2.  **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3.  **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5.  **Open** a Pull Request
+2. **Create** a feature branch — `git checkout -b feature/amazing-feature`
+3. **Commit** your changes — `git commit -m 'Add amazing feature'`
+4. **Push** to the branch — `git push origin feature/amazing-feature`
+5. **Open** a Pull Request
 
 ---
 
-## 📜 License
+## 📜 License & Notice
 
-<div align="center">
+```
+Copyright © 2024 Ashmit Thakur. All rights reserved.
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
-# NOTICE
+This project — Nexus AI: Local AI Web Navigator — was created by:
+  Ashmit Thakur
+  GitHub : https://github.com/AshmitThakur23
+  Repo   : https://github.com/AshmitThakur23/Local-AI-Web-Navigator
 
-This project, Nexus AI - Local AI Web Navigator, was created by:
+Original Creation Date: October 2024
 
-**Ashmit Thakur**
-- GitHub: https://github.com/AshmitThakur23
-- Repository: https://github. com/AshmitThakur23/Local-AI-Web-Navigator
-
-## Original Creation Date
-October 2024
-
-## Copyright
-© 2024 Ashmit Thakur. All rights reserved. 
+Licensed under the MIT License — see LICENSE file for details.
 
 If you fork, clone, or use any part of this code, you MUST:
-1. Give credit to the original author
-2.  Include this NOTICE file
-3.  Include the LICENSE file
-4. Not claim this as your own original work
+  1. Give credit to the original author
+  2. Include this NOTICE
+  3. Include the LICENSE file
+  4. Not claim this as your own original work
 
 Violation of these terms may result in DMCA takedown requests.
-
-<br>
-
-</div>
+```
 
 ---
 
@@ -724,13 +724,13 @@ Violation of these terms may result in DMCA takedown requests.
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/181589234?v=4" width="120" height="120" style="border-radius: 50%;" alt="Ashmit Thakur"/>
+<img src="https://avatars.githubusercontent.com/u/181589234?v=4" width="120" height="120" style="border-radius:50%;" alt="Ashmit Thakur"/>
 
-<br><br>
+<br/><br/>
 
 ### **Ashmit Thakur**
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-AshmitThakur23-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=001a0d)](https://github.com/AshmitThakur23)
 
 </div>
 
@@ -740,13 +740,13 @@ Violation of these terms may result in DMCA takedown requests.
 
 <div align="center">
 
-If you found this project helpful, please consider giving it a ⭐! 
+If you found this project helpful, please give it a ⭐!
 
-<br>
+<br/>
 
-[![Stars](https://img.shields.io/github/stars/AshmitThakur23/Local-AI-Web-Navigator?style=for-the-badge&color=yellow)](https://github.com/AshmitThakur23/Local-AI-Web-Navigator/stargazers)
-[![Forks](https://img.shields.io/github/forks/AshmitThakur23/Local-AI-Web-Navigator?style=for-the-badge&color=blue)]
-[![Issues](https://img.shields.io/github/issues/AshmitThakur23/Local-AI-Web-Navigator?style=for-the-badge&color=red)]
+[![Stars](https://img.shields.io/github/stars/AshmitThakur23/Local-AI-Web-Navigator?style=for-the-badge&color=ffd700&labelColor=1a1500)](https://github.com/AshmitThakur23/Local-AI-Web-Navigator/stargazers)
+[![Forks](https://img.shields.io/github/forks/AshmitThakur23/Local-AI-Web-Navigator?style=for-the-badge&color=00f5ff&labelColor=001a1a)](https://github.com/AshmitThakur23/Local-AI-Web-Navigator/network)
+[![Issues](https://img.shields.io/github/issues/AshmitThakur23/Local-AI-Web-Navigator?style=for-the-badge&color=ff006e&labelColor=1a0010)](https://github.com/AshmitThakur23/Local-AI-Web-Navigator/issues)
 
 </div>
 
@@ -754,15 +754,12 @@ If you found this project helpful, please consider giving it a ⭐!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### 🚀 Built with ❤️ for Intelligent, Privacy-Focused AI Assistance
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:00ff88&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
